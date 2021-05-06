@@ -1,0 +1,6 @@
+15/07/2019 18:43:02 | InsertDetailMoratoire | SPX_ACC_GET_NUMEROFACTURE:Tentative non valide de lecture lorsque aucune donnée n'est présente.
+
+15/07/2019 18:46:06 | InsertDetailMoratoire | SPX_ACC_GET_NUMEROFACTURE:Tentative non valide de lecture lorsque aucune donnée n'est présente.
+
+15/07/2019 18:49:08 | InsertDetailMoratoire | SPX_ACC_GET_NUMEROFACTURE:Tentative non valide de lecture lorsque aucune donnée n'est présente.
+

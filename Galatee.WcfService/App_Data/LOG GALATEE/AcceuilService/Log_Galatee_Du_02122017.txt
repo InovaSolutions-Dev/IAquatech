@@ -1,0 +1,4 @@
+02/12/2017 19:14:50 | SyncInvokeRetourneLeCompteClient | Tentative d'appel de IsDBNull non valide lorsque le lecteur est fermé.
+
+02/12/2017 19:58:57 | SyncInvokeRetourneCanalisationClasseur | La référence d'objet n'est pas définie à une instance d'un objet.
+

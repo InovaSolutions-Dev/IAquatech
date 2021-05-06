@@ -1,0 +1,20 @@
+23/03/2018 17:43:00 | LogException | Nom d'objet 'dbo.DEPARTBT' non valide.
+
+23/03/2018 17:43:00 | GeDetailByFromClient | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+23/03/2018 17:43:33 | LogException | Nom d'objet 'dbo.DEPARTBT' non valide.
+
+23/03/2018 17:43:33 | GeDetailByFromClient | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+23/03/2018 17:54:56 | LogException | Nom d'objet 'dbo.DEPARTBT' non valide.
+
+23/03/2018 17:54:56 | GeDetailByFromClient | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+23/03/2018 17:55:07 | VerifierRemboursementEnCours | La référence d'objet n'est pas définie à une instance d'un objet.
+
+23/03/2018 18:04:11 | LogException | Nom d'objet 'dbo.DEPARTBT' non valide.
+
+23/03/2018 18:04:11 | GeDetailByFromClient | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+23/03/2018 18:20:52 | LicenceOK | La référence d'objet n'est pas définie à une instance d'un objet.
+

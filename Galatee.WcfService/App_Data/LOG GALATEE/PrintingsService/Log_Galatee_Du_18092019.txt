@@ -1,0 +1,180 @@
+18/09/2019 14:30:28 | SyncInvokesetFromWebPart | 11111143027798
+
+18/09/2019 14:30:33 | Callback | localhost1818
+
+18/09/2019 14:30:33 | RenderReport | loadData
+
+18/09/2019 14:30:33 | RenderReport | 11111143027798
+
+18/09/2019 14:30:33 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+18/09/2019 14:30:33 | SyncInvokeGetCsPrintFromWebPart | 11111143027798
+
+18/09/2019 14:30:33 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+18/09/2019 14:30:33 | LoadData | 11111143027798
+
+18/09/2019 14:30:33 | LoadData | données trouve
+
+18/09/2019 14:30:33 | LoadData | Parametre trouvé
+
+18/09/2019 14:30:33 | data | data trouve
+
+18/09/2019 14:30:33 | CreatePDFChemin | ~/Reports/Facturation/FactureSimpleO.rdlc | Chemin du fichier rdlc
+
+18/09/2019 14:30:34 | CreatePDFChemin | TypeEdition : System.Collections.Specialized.StringCollection  Print : System.Collections.Specialized.StringCollection | Set Parameters
+
+18/09/2019 14:30:34 | CreatePDFChemin | Add DataSources ok
+
+18/09/2019 14:30:34 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+18/09/2019 14:34:13 | SyncInvokesetFromWebPart | 11111143412987
+
+18/09/2019 14:34:18 | Callback | localhost1818
+
+18/09/2019 14:34:18 | RenderReport | loadData
+
+18/09/2019 14:34:18 | RenderReport | 11111143412987
+
+18/09/2019 14:34:18 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+18/09/2019 14:34:18 | SyncInvokeGetCsPrintFromWebPart | 11111143412987
+
+18/09/2019 14:34:18 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+18/09/2019 14:34:18 | LoadData | 11111143412987
+
+18/09/2019 14:34:18 | LoadData | données trouve
+
+18/09/2019 14:34:18 | LoadData | Parametre trouvé
+
+18/09/2019 14:34:18 | data | data trouve
+
+18/09/2019 14:34:18 | CreatePDFChemin | ~/Reports/Facturation/FactureSimpleO.rdlc | Chemin du fichier rdlc
+
+18/09/2019 14:34:18 | CreatePDFChemin | TypeEdition : System.Collections.Specialized.StringCollection  Print : System.Collections.Specialized.StringCollection | Set Parameters
+
+18/09/2019 14:34:18 | CreatePDFChemin | Add DataSources ok
+
+18/09/2019 14:34:18 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+18/09/2019 15:13:25 | SyncInvokesetFromWebPart | 11111151325275
+
+18/09/2019 15:13:25 | Callback | localhost1818
+
+18/09/2019 15:13:25 | RenderReport | loadData
+
+18/09/2019 15:13:25 | RenderReport | 11111151325275
+
+18/09/2019 15:13:25 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+18/09/2019 15:13:26 | SyncInvokeGetCsPrintFromWebPart | 11111151325275
+
+18/09/2019 15:13:27 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+18/09/2019 15:13:27 | LoadData | 11111151325275
+
+18/09/2019 15:13:29 | LoadData | données trouve
+
+18/09/2019 15:13:29 | LoadData | Parametre trouvé
+
+18/09/2019 15:13:29 | data | data trouve
+
+18/09/2019 15:13:29 | SyncInvokesetFromWebPart | 11111151329638
+
+18/09/2019 15:13:29 | CreatePDFChemin | ~/Reports/Facturation/FactureSimpleO.rdlc | Chemin du fichier rdlc
+
+18/09/2019 15:13:29 | Callback | localhost1818
+
+18/09/2019 15:13:29 | RenderReport | loadData
+
+18/09/2019 15:13:29 | RenderReport | 11111151329638
+
+18/09/2019 15:13:29 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+18/09/2019 15:13:29 | SyncInvokeGetCsPrintFromWebPart | 11111151329638
+
+18/09/2019 15:13:29 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+18/09/2019 15:13:29 | LoadData | 11111151329638
+
+18/09/2019 15:13:29 | LoadData | données trouve
+
+18/09/2019 15:13:29 | LoadData | Parametre trouvé
+
+18/09/2019 15:13:29 | data | data trouve
+
+18/09/2019 15:13:29 | CreatePDFChemin | ~/Reports/Facturation/FactureSimpleO.rdlc | Chemin du fichier rdlc
+
+18/09/2019 15:13:30 | CreatePDFChemin | TypeEdition : System.Collections.Specialized.StringCollection  Print : System.Collections.Specialized.StringCollection | Set Parameters
+
+18/09/2019 15:13:30 | CreatePDFChemin | Add DataSources ok
+
+18/09/2019 15:13:30 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+18/09/2019 15:13:30 | CreatePDFChemin | TypeEdition : System.Collections.Specialized.StringCollection  Print : System.Collections.Specialized.StringCollection | Set Parameters
+
+18/09/2019 15:13:30 | CreatePDFChemin | Add DataSources ok
+
+18/09/2019 15:13:30 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+18/09/2019 15:15:40 | SyncInvokesetFromWebPart | 11111151539821
+
+18/09/2019 15:15:40 | Callback | localhost1818
+
+18/09/2019 15:15:40 | RenderReport | loadData
+
+18/09/2019 15:15:40 | RenderReport | 11111151539821
+
+18/09/2019 15:15:40 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+18/09/2019 15:15:40 | SyncInvokeGetCsPrintFromWebPart | 11111151539821
+
+18/09/2019 15:15:40 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+18/09/2019 15:15:40 | LoadData | 11111151539821
+
+18/09/2019 15:15:40 | LoadData | données trouve
+
+18/09/2019 15:15:40 | LoadData | Parametre trouvé
+
+18/09/2019 15:15:40 | data | data trouve
+
+18/09/2019 15:15:40 | CreatePDFChemin | ~/Reports/Facturation/FactureSimpleO.rdlc | Chemin du fichier rdlc
+
+18/09/2019 15:15:40 | CreatePDFChemin | TypeEdition : System.Collections.Specialized.StringCollection  Print : System.Collections.Specialized.StringCollection | Set Parameters
+
+18/09/2019 15:15:40 | CreatePDFChemin | Add DataSources ok
+
+18/09/2019 15:15:40 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+18/09/2019 16:19:28 | SyncInvokesetFromWebPart | 1111116192862
+
+18/09/2019 16:19:28 | Callback | localhost1818
+
+18/09/2019 16:19:29 | RenderReport | loadData
+
+18/09/2019 16:19:29 | RenderReport | 1111116192862
+
+18/09/2019 16:19:29 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+18/09/2019 16:19:29 | SyncInvokeGetCsPrintFromWebPart | 1111116192862
+
+18/09/2019 16:19:29 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+18/09/2019 16:19:29 | LoadData | 1111116192862
+
+18/09/2019 16:19:29 | LoadData | données trouve
+
+18/09/2019 16:19:29 | LoadData | Parametre trouvé
+
+18/09/2019 16:19:29 | data | data trouve
+
+18/09/2019 16:19:29 | CreatePDFChemin | ~/Reports/Facturation/FactureSimpleO.rdlc | Chemin du fichier rdlc
+
+18/09/2019 16:19:30 | CreatePDFChemin | TypeEdition : System.Collections.Specialized.StringCollection  Print : System.Collections.Specialized.StringCollection | Set Parameters
+
+18/09/2019 16:19:30 | CreatePDFChemin | Add DataSources ok
+
+18/09/2019 16:19:30 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+

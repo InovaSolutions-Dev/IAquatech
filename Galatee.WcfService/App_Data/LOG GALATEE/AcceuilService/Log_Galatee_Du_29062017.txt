@@ -1,0 +1,54 @@
+29/06/2017 00:11:01 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 00:11:32 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 00:37:28 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 00:39:11 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 00:40:35 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 00:41:25 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 09:08:05 | SyncInvokeGetDevisByNumDemande | Debut =>09:08:05
+
+29/06/2017 09:08:07 | SyncInvokeGetDevisByNumDemande | Fin =>09:08:07
+
+29/06/2017 10:16:45 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 10:16:57 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 10:17:03 | SyncInvokeValiderDemande | Une instruction de mise à jour, d'insertion ou de suppression dans le magasin a affecté un nombre inattendu de lignes (0). Des entités ont peut-être été modifiées ou supprimées depuis leur chargement. Actualisez les entrées ObjectStateManager.
+
+29/06/2017 10:18:12 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 10:19:41 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 10:21:06 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 10:21:56 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 11:55:54 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 11:56:05 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 11:56:45 | SyncInvokeValiderDemande | Une instruction de mise à jour, d'insertion ou de suppression dans le magasin a affecté un nombre inattendu de lignes (0). Des entités ont peut-être été modifiées ou supprimées depuis leur chargement. Actualisez les entrées ObjectStateManager.
+
+29/06/2017 11:56:53 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 11:58:26 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 11:59:40 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 12:02:38 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 12:03:51 | SyncInvokeValiderDemande | Debut Validation
+
+29/06/2017 12:53:01 | SyncInvokeGetDevisByNumDemande | Debut =>12:53:01
+
+29/06/2017 12:53:03 | SyncInvokeGetDevisByNumDemande | Fin =>12:53:03
+
+29/06/2017 13:09:05 | SyncInvokeGetDevisByNumDemande | Debut =>13:09:05
+
+29/06/2017 13:09:06 | SyncInvokeGetDevisByNumDemande | Fin =>13:09:06
+

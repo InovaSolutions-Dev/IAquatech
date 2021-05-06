@@ -1,0 +1,3 @@
+03/05/2018 17:06:23 | SyncInvokeValiderCreationFactureIsole | SPX_DELETE_EVENEMENT_ISOLE:L'instruction DELETE est en conflit avec la contrainte REFERENCE "FK_FAC_PROFAC_EVENEMENT". Le conflit s'est produit dans la base de données "GALADB", table "dbo.FAC_PROFAC", column 'FK_IDEVENEMENT'.
+L'instruction a été arrêtée.
+

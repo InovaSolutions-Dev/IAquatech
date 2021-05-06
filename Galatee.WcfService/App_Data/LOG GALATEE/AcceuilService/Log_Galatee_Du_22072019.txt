@@ -1,0 +1,19 @@
+22/07/2019 00:19:09 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+22/07/2019 00:29:05 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+22/07/2019 01:48:52 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+22/07/2019 02:02:25 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+22/07/2019 02:45:38 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+22/07/2019 14:15:15 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+22/07/2019 14:19:06 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+22/07/2019 16:28:19 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+22/07/2019 17:32:36 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+

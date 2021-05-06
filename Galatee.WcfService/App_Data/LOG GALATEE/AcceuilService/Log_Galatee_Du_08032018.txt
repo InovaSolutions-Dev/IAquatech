@@ -1,0 +1,4 @@
+08/03/2018 00:33:11 | SyncInvokeChargerLesTournees | La référence d'objet n'est pas définie à une instance d'un objet.
+
+08/03/2018 00:33:12 | SyncInvokeChargerLesRueDesSecteur | Tentative d'appel de IsDBNull non valide lorsque le lecteur est fermé.
+

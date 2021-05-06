@@ -1,0 +1,2 @@
+21/01/2019 00:15:44 | ReturneCompabilisationRecap | SPX_CPT_FACTURE_ENTFAC:Une erreur de niveau transport s'est produite lors de la réception des résultats du serveur. (provider: TCP Provider, error: 0 - Le délai de temporisation de sémaphore a expiré.)
+

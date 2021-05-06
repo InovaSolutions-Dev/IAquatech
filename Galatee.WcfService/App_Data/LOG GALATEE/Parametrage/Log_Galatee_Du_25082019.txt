@@ -1,0 +1,30 @@
+25/08/2019 22:21:45 | LogException | Le nom d’utilisateur ou le mot de passe est incorrect
+
+25/08/2019 22:21:45 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+25/08/2019 22:21:45 | SelectGroupeValidationByUserId | Échec du fournisseur sous-jacent sur Open.
+
+25/08/2019 22:21:46 | LogException | Le nom d’utilisateur ou le mot de passe est incorrect
+
+25/08/2019 22:21:46 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+25/08/2019 22:21:46 | SelectAllOperation | Échec du fournisseur sous-jacent sur Open.
+
+25/08/2019 22:23:59 | LogException | Dépassement du délai d’attente
+
+25/08/2019 22:23:59 | LogException | Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=5837; poignée de main=14531; 
+
+25/08/2019 22:23:59 | SelectAllEtapes | Échec du fournisseur sous-jacent sur Open.
+
+25/08/2019 22:28:27 | LogException | Le nom d’utilisateur ou le mot de passe est incorrect
+
+25/08/2019 22:28:27 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+25/08/2019 22:28:27 | SelectAllEtapes | Échec du fournisseur sous-jacent sur Open.
+
+25/08/2019 22:28:28 | LogException | Le nom d’utilisateur ou le mot de passe est incorrect
+
+25/08/2019 22:28:28 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+25/08/2019 22:28:28 | SelectGroupeValidationByUserId | Échec du fournisseur sous-jacent sur Open.
+

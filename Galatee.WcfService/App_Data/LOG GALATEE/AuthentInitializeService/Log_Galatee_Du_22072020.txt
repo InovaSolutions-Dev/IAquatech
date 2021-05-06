@@ -1,0 +1,40 @@
+22/07/2020 16:00:20 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2020 16:10:51 | LogException | Échec de l'ouverture de session de l'utilisateur 'INOVA\s2yapor'.
+
+22/07/2020 16:10:51 | returnEnumereWrapper | Échec du fournisseur sous-jacent sur Open.
+
+22/07/2020 16:24:40 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2020 16:25:43 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2020 16:25:43 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2020 16:25:44 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2020 16:56:46 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2020 16:57:47 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2020 18:23:08 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2020 18:23:09 | LogException | Échec de l'ouverture de session de l'utilisateur 'INOVA\s2yapor'.
+
+22/07/2020 18:23:09 | returnEnumereWrapper | Échec du fournisseur sous-jacent sur Open.
+
+22/07/2020 18:26:18 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2020 18:29:38 | LogException | Échec de l'ouverture de session de l'utilisateur 'INOVA\s2yapor'.
+
+22/07/2020 18:29:38 | returnEnumereWrapper | Échec du fournisseur sous-jacent sur Open.
+
+22/07/2020 18:31:55 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2020 18:39:59 | LogException | Échec de l'ouverture de session de l'utilisateur 'INOVA\s2yapor'.
+
+22/07/2020 18:40:00 | returnEnumereWrapper | Échec du fournisseur sous-jacent sur Open.
+
+22/07/2020 18:48:42 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2020 18:49:40 | SyncInvokereturnEnumereWrapper | Suite traitement
+

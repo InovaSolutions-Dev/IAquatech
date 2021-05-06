@@ -1,0 +1,59 @@
+25/08/2019 20:38:40 | LicenceOK | Enregistrement annulé :
+Une connexion a été établie avec le serveur, mais une erreur s'est ensuite produite pendant la négociation préalable à l'ouverture de session. (provider: SSL Provider, error: 0 - Dépassement du délai d’attente.)
+
+25/08/2019 20:38:42 | LicenceOK | Enregistrement annulé :
+Une connexion a été établie avec le serveur, mais une erreur s'est ensuite produite pendant la négociation préalable à l'ouverture de session. (provider: SSL Provider, error: 0 - Dépassement du délai d’attente.)
+
+25/08/2019 22:21:41 | SyncInvokeChargerLesQartiers | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=6381; poignée de main=13312; 
+
+25/08/2019 22:21:44 | SyncInvokeRetourneToutMarque | Échec du fournisseur sous-jacent sur Open.
+
+
+
+25/08/2019 22:21:44 | SyncInvokeRetourneListeTaxe | Échec du fournisseur sous-jacent sur Open.
+
+25/08/2019 22:21:44 | SyncInvokeChargerPuissanceReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+25/08/2019 22:21:45 | SyncInvokeChargerTarifParReglageCompteur | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=6381; poignée de main=13312; 
+
+25/08/2019 22:21:45 | SyncInvokeRetourneTousCoper | Échec du fournisseur sous-jacent sur Open.
+
+25/08/2019 22:23:58 | SyncInvokeListeDesDonneesDesSite | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=5380; poignée de main=14755; 
+
+25/08/2019 22:23:59 | SyncInvokeRetourneCategorie | Échec du fournisseur sous-jacent sur Open.
+
+
+
+25/08/2019 22:23:59 | SyncInvokeRetourneFermable | Échec du fournisseur sous-jacent sur Open.
+
+25/08/2019 22:24:00 | SyncInvokeRetourneNationnalite | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=5380; poignée de main=14755; 
+
+25/08/2019 22:24:00 | SyncInvokeRetourneCodeConsomateur | Échec du fournisseur sous-jacent sur Open.
+
+25/08/2019 22:24:01 | SyncInvokeRetourneToutCadran | Échec du fournisseur sous-jacent sur Open.
+
+25/08/2019 22:24:01 | SyncInvokeRetourneListeTaxe | Échec du fournisseur sous-jacent sur Open.
+
+25/08/2019 22:24:02 | SyncInvokeRetourneTousCoper | Échec du fournisseur sous-jacent sur Open.
+
+25/08/2019 22:24:03 | SyncInvokeChargerTarifParReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+25/08/2019 22:24:03 | SyncInvokeRetourneListeDesCas | Échec du fournisseur sous-jacent sur Open.
+
+25/08/2019 22:28:18 | SyncInvokeChargerDepartHTA | ChargerpDepartHTA :Échec du fournisseur sous-jacent sur Open.
+
+25/08/2019 22:28:26 | SyncInvokeRetourneToutCadran | Échec du fournisseur sous-jacent sur Open.
+
+25/08/2019 22:28:27 | SyncInvokeRetourneFermable | Échec du fournisseur sous-jacent sur Open.
+
+n.
+
+25/08/2019 22:28:27 | SyncInvokeChargerLesQartiers | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+25/08/2019 22:28:28 | SyncInvokeChargerTarifParCategorie | Échec du fournisseur sous-jacent sur Open.
+

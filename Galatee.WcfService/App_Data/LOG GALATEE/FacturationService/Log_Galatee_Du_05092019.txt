@@ -1,0 +1,28 @@
+05/09/2019 09:31:41 | SyncInvokeEditerFactures | Problème édition lot 19070230 => SPX_IMPAYES_CLIENT:Une erreur de niveau transport s'est produite lors de la réception des résultats du serveur. (provider: TCP Provider, error: 0 - La connexion réseau a été arrêtée par le système local.)
+
+05/09/2019 10:27:03 | SyncInvokeChargerLotriPourEdition | Debut 05/09/2019 10:27:03
+
+05/09/2019 10:27:04 | SyncInvokeChargerLotriPourEdition | Fin 05/09/2019 10:27:04
+
+05/09/2019 10:28:28 | SyncInvokeEditerFactures | Début édition  lot 19070230
+
+05/09/2019 10:38:04 | SyncInvokeEditerFactures | Problème édition lot 19070230 => L'index se trouve en dehors des limites du tableau.
+
+05/09/2019 10:40:22 | SyncInvokeEditerFactures | Début édition  lot 19070230
+
+05/09/2019 10:47:56 | SyncInvokeEditerFactures | Problème édition lot 19070230 => L'index se trouve en dehors des limites du tableau.
+
+05/09/2019 10:55:02 | SyncInvokeEditerFactures | Début édition  lot 19070230
+
+05/09/2019 11:07:08 | SyncInvokeEditerFactures | Problème édition lot 19070230 => L'index se trouve en dehors des limites du tableau.
+
+05/09/2019 11:09:34 | SyncInvokeEditerFactures | Début édition  lot 19070230
+
+05/09/2019 11:15:14 | SyncInvokeEditerFactures | Problème édition lot 19070230 => L'index se trouve en dehors des limites du tableau.
+
+05/09/2019 11:27:54 | SyncInvokeChargerLotriPourEdition | Debut 05/09/2019 11:27:54
+
+05/09/2019 11:27:54 | SyncInvokeChargerLotriPourEdition | Fin 05/09/2019 11:27:54
+
+05/09/2019 11:28:27 | SyncInvokeEditerFactures | Début édition  lot 19070230
+

@@ -1,0 +1,282 @@
+30/11/2017 10:50:13 | SyncInvokeRetourneTousApplicationTaxe | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:50:14 | SyncInvokeChargerCommune | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:50:18 | SyncInvokeChargerPosteTransformateur | ChargerPosteTransformateur :Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:50:20 | SyncInvokeChargerDepartBT | ChargerpPosteSource :Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:50:25 | SyncInvokeChargerLesRueDesSecteur | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:50:25 | SyncInvokeChargerRubrique | ChargerPosteTransformateur :Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:50:25 | SyncInvokeRetourneCategorie | Échec du fournisseur sous-jacent sur Open.
+
+ne instance d'un objet.
+
+30/11/2017 10:50:26 | SyncInvokeRetourneListeDenominationAll | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:50:27 | SyncInvokeRetourneCodeRegroupement | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:50:27 | SyncInvokeRetourneCodeConsomateur | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:50:27 | SyncInvokeChargerReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:50:44 | SyncInvokeRetourneTousCoper | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:50:45 | SyncInvokeChargerCalibreCompteur | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:51:01 | SyncInvokeRetourneListeDesCas | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:51:02 | SyncInvokeRetourneNationnalite | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+30/11/2017 10:51:02 | SyncInvokeRetourneToutCadran | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:54:36 | SyncInvokeChargerForfait | Échec du fournisseur sous-jacent sur Open.
+
+ Open.
+
+30/11/2017 10:54:38 | SyncInvokeChargerTousFrequence | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:54:45 | SyncInvokeRetourneTousApplicationTaxe | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:54:45 | SyncInvokeChargerDepartHTA | ChargerpDepartHTA :Échec du fournisseur sous-jacent sur Open.
+
+.
+
+30/11/2017 10:54:45 | SyncInvokeChargerPosteTransformateur | ChargerPosteTransformateur :Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:54:46 | SyncInvokeChargerLesSecteurs | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:54:47 | SyncInvokeChargerLesTournees | La référence d'objet n'est pas définie à une instance d'un objet.
+
+30/11/2017 10:54:48 | SyncInvokeChargerLesRueDesSecteur | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:54:48 | SyncInvokeRetourneOptionDemande | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:55:05 | SyncInvokeRetourneCategorie | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:55:05 | SyncInvokeRetourneFermable | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:55:06 | SyncInvokeChargerCalibreCompteur | Échec du fournisseur sous-jacent sur Open.
+
+
+30/11/2017 10:55:06 | SyncInvokeRetourneToutCadran | Échec du fournisseur sous-jacent sur Open.
+
+
+
+30/11/2017 10:55:09 | SyncInvokeRetourneToutMarque | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:56:13 | SyncInvokeChargerTarifParReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:56:14 | SyncInvokeRetourneListeDenominationAll | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 10:58:10 | LicenceOK | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+30/11/2017 11:07:09 | SyncInvokeChargerpPosteSource | ChargerpPosteSource :Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:07:20 | SyncInvokeChargerLesTournees | La référence d'objet n'est pas définie à une instance d'un objet.
+
+30/11/2017 11:07:36 | SyncInvokeChargerCalibreCompteur | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:07:37 | SyncInvokeRetourneCodeConsomateur | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:07:37 | SyncInvokeChargerLesRueDesSecteur | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:07:38 | SyncInvokeChargerType | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:07:38 | SyncInvokeRetourneListeTaxe | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:07:38 | SyncInvokeChargerReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:07:39 | SyncInvokeRetourneTousCoper | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:07:40 | SyncInvokeChargerCoutDemande | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:13:01 | SyncInvokeRetourneListeDesCas | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:17:49 | SyncInvokeListeDesDonneesDesSite | Échec du fournisseur sous-jacent sur Open.
+
+-jacent sur Open.
+
+30/11/2017 11:17:49 | SyncInvokeChargerPuissanceReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:17:50 | SyncInvokeChargerTousMois | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:17:51 | SyncInvokeChargerDepartHTA | ChargerpDepartHTA :Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:17:51 | SyncInvokeRetourneTousApplicationTaxe | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:17:51 | SyncInvokeChargerPosteTransformateur | ChargerPosteTransformateur :Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:18:05 | SyncInvokeChargerCommune | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=13360; poignée de main=1637; 
+
+30/11/2017 11:18:09 | SyncInvokeRetourneOptionDemande | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:18:09 | SyncInvokeChargerLesTournees | La référence d'objet n'est pas définie à une instance d'un objet.
+
+30/11/2017 11:18:09 | SyncInvokeRetourneFermable | Échec du fournisseur sous-jacent sur Open.
+
+
+30/11/2017 11:18:10 | SyncInvokeRetourneListeDenominationAll | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=13360; poignée de main=1637; 
+
+30/11/2017 11:18:31 | SyncInvokeRetourneCodeConsomateur | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:18:31 | SyncInvokeChargerCoutDemande | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:18:31 | SyncInvokeRetourneNationnalite | Échec du fournisseur sous-jacent sur Open.
+
+
+
+30/11/2017 11:18:31 | SyncInvokeRetourneToutMarque | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:18:31 | SyncInvokeChargerType | Échec du fournisseur sous-jacent sur Open.
+
+r Open.
+
+30/11/2017 11:18:31 | SyncInvokeChargerReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 11:18:36 | SyncInvokeChargerLesQartiers | La référence d'objet n'est pas définie à une instance d'un objet.
+
+30/11/2017 12:05:59 | SyncInvokeChargerForfait | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:06:00 | SyncInvokeChargerPuissanceInstalle | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:06:08 | SyncInvokeChargerDepartBT | ChargerpPosteSource :Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:06:08 | SyncInvokeChargerpPosteSource | ChargerpPosteSource :Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:06:08 | SyncInvokeChargerDepartHTA | ChargerpDepartHTA :Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:06:08 | SyncInvokeListeDesDonneesDesSite | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:06:09 | SyncInvokeRetourneOptionDemande | Échec du fournisseur sous-jacent sur Open.
+
+
+30/11/2017 12:06:10 | SyncInvokeChargerLesSecteurs | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:06:11 | SyncInvokeListeDesProduit | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:06:12 | SyncInvokeRetourneNationnalite | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:06:12 | SyncInvokeRetourneListeDenominationAll | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:06:28 | SyncInvokeChargerCalibreCompteur | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:06:51 | SyncInvokeRetourneListeTaxe | Échec du fournisseur sous-jacent sur Open.
+
+
+
+30/11/2017 12:06:51 | SyncInvokeChargerCoutDemande | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:06:53 | SyncInvokeRetourneTousCoper | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:06:53 | SyncInvokeRetourneCodeConsomateur | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:13:40 | SyncInvokeChargerPuissanceInstalle | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:13:44 | SyncInvokeChargerRubrique | ChargerPosteTransformateur :Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:13:46 | SyncInvokeRetourneOptionDemande | Échec du fournisseur sous-jacent sur Open.
+
+
+30/11/2017 12:13:46 | SyncInvokeChargerLesTournees | La référence d'objet n'est pas définie à une instance d'un objet.
+
+30/11/2017 12:13:47 | SyncInvokeRetourneCategorie | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:13:47 | SyncInvokeListeDesProduit | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:13:48 | SyncInvokeRetourneNationnalite | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:14:04 | SyncInvokeChargerType | Échec du fournisseur sous-jacent sur Open.
+
+ur Open.
+
+30/11/2017 12:14:08 | SyncInvokeChargerTarifParReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+écifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+30/11/2017 12:14:09 | SyncInvokeRetourneListeDenominationAll | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:14:09 | SyncInvokeChargerTarifParCategorie | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:27:34 | LicenceOK | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+30/11/2017 12:28:18 | LicenceOK | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=4713; poignée de main=11278; 
+
+30/11/2017 12:29:48 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+30/11/2017 12:33:00 | SyncInvokeRetourneTousApplicationTaxe | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:33:01 | SyncInvokeChargerCommune | Échec du fournisseur sous-jacent sur Open.
+
+
+nt sur Open.
+
+30/11/2017 12:33:01 | SyncInvokeChargerPuissanceSouscrite | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:33:02 | SyncInvokeChargerDepartBT | ChargerpPosteSource :Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:33:02 | SyncInvokeChargerLesQartiers | La référence d'objet n'est pas définie à une instance d'un objet.
+
+30/11/2017 12:33:02 | SyncInvokeChargerLesSecteurs | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:33:04 | SyncInvokeChargerLesTournees | La référence d'objet n'est pas définie à une instance d'un objet.
+
+30/11/2017 12:33:05 | SyncInvokeRetourneCategorie | Échec du fournisseur sous-jacent sur Open.
+
+
+
+30/11/2017 12:33:22 | SyncInvokeRetourneNationnalite | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:33:22 | SyncInvokeRetourneCodeConsomateur | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:33:22 | SyncInvokeChargerReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:33:22 | SyncInvokeRetourneToutMarque | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:33:23 | SyncInvokeRetourneListeTaxe | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:33:39 | SyncInvokeChargerCoutDemande | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:33:40 | SyncInvokeChargerTarifParCategorie | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 12:33:40 | SyncInvokeChargerTarifParReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 14:02:31 | SyncInvokeRetourneListeDenominationAll | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 14:02:31 | SyncInvokeChargerLesRueDesSecteur | Tentative d'appel de IsDBNull non valide lorsque le lecteur est fermé.
+
+30/11/2017 14:20:14 | SyncInvokeRetourneToutCadran | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+30/11/2017 14:20:17 | SyncInvokeChargerCoutDemande | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 14:20:19 | SyncInvokeRetourneTousCoper | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 14:20:24 | SyncInvokeChargerTarifParCategorie | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 14:20:26 | SyncInvokeRetourneListeDesCas | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 14:20:29 | SyncInvokeRetourneListeTaxe | Échec du fournisseur sous-jacent sur Open.
+
+30/11/2017 14:20:40 | SyncInvokeRetourneCodeRegroupement | Tentative d'appel de IsDBNull non valide lorsque le lecteur est fermé.
+
+30/11/2017 14:20:40 | SyncInvokeRetourneToutMarque | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+30/11/2017 14:21:15 | SyncInvokeChargerTarifParReglageCompteur | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+30/11/2017 15:47:44 | LogException | L'instruction DELETE est en conflit avec la contrainte REFERENCE "FK_DCANALISATION_MAGAZINVIRTUEL". Le conflit s'est produit dans la base de données "GALADB", table "dbo.DCANALISATION", column 'FK_IDMAGAZINVIRTUEL'.
+L'instruction a été arrêtée.
+
+30/11/2017 15:47:44 | LogException | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+30/11/2017 15:47:44 | InsertMargasinVirtuelle | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+

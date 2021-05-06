@@ -1,0 +1,60 @@
+01/08/2018 00:03:53 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+01/08/2018 12:07:41 | SyncInvokeValiderDemande | Debut Validation
+
+01/08/2018 12:07:45 | SyncInvokeValiderDemande | Impossible de convertir l'objet de type 'System.DateTime' en type 'System.Nullable`1[System.TimeSpan]'.
+
+01/08/2018 12:15:47 | SyncInvokeValiderDemande | Debut Validation
+
+01/08/2018 12:16:17 | SyncInvokeValiderDemande | Impossible de convertir l'objet de type 'System.DateTime' en type 'System.Nullable`1[System.TimeSpan]'.
+
+01/08/2018 12:17:27 | SyncInvokeValiderDemande | Debut Validation
+
+01/08/2018 12:19:04 | SyncInvokeValiderDemande | Impossible de convertir l'objet de type 'System.DateTime' en type 'System.Nullable`1[System.TimeSpan]'.
+
+01/08/2018 12:19:30 | SyncInvokeValiderDemande | Debut Validation
+
+01/08/2018 12:20:01 | SyncInvokeValiderDemande | Impossible de convertir l'objet de type 'System.DateTime' en type 'System.Nullable`1[System.TimeSpan]'.
+
+01/08/2018 12:20:33 | SyncInvokeValiderDemande | Debut Validation
+
+01/08/2018 12:21:01 | SyncInvokeValiderDemande | Impossible de convertir l'objet de type 'System.DateTime' en type 'System.Nullable`1[System.TimeSpan]'.
+
+01/08/2018 12:21:22 | SyncInvokeValiderDemande | Debut Validation
+
+01/08/2018 12:22:17 | SyncInvokeValiderDemande | Impossible de convertir l'objet de type 'System.DateTime' en type 'System.Nullable`1[System.TimeSpan]'.
+
+01/08/2018 12:22:53 | SyncInvokeValiderDemande | Debut Validation
+
+01/08/2018 12:29:01 | SyncInvokeValiderDemande | Impossible de convertir l'objet de type 'System.DateTime' en type 'System.Nullable`1[System.TimeSpan]'.
+
+01/08/2018 13:05:25 | SyncInvokeValiderDemande | Debut Validation
+
+01/08/2018 13:05:49 | SyncInvokeValiderDemande | Impossible de convertir l'objet de type 'System.DateTime' en type 'System.Nullable`1[System.TimeSpan]'.
+
+01/08/2018 13:08:05 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+
+01/08/2018 13:10:02 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+
+01/08/2018 15:06:10 | LicenceOK | Enregistrement annulé :
+Impossible d'ouvrir la base de données "GALADB" demandée par la connexion. La connexion a échoué.
+Échec de l'ouverture de session de l'utilisateur 'sa'.
+
+01/08/2018 15:09:41 | LicenceOK | Enregistrement annulé :
+Impossible d'ouvrir la base de données "GALADB" demandée par la connexion. La connexion a échoué.
+Échec de l'ouverture de session de l'utilisateur 'sa'.
+
+01/08/2018 17:19:12 | SyncInvokeChargerLesRueDesSecteur | Échec du fournisseur sous-jacent sur Open.
+
+01/08/2018 17:24:11 | SyncInvokeValiderDemande | Debut Validation
+
+01/08/2018 17:24:12 | SyncInvokeValiderDemande | Impossible de convertir l'objet de type 'System.DateTime' en type 'System.Nullable`1[System.TimeSpan]'.
+
+01/08/2018 17:34:32 | SyncInvokeRetourneListeDemandeCritere | SPX_ACC_GET_COMPTEUR_NOM:Procédure stockée 'SPX_ACC_GET_COMPTEUR_NOM' introuvable.
+
+01/08/2018 17:35:11 | SyncInvokeChargerLesQartiers | La référence d'objet n'est pas définie à une instance d'un objet.
+
+01/08/2018 22:38:43 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+

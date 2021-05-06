@@ -1,0 +1,596 @@
+01/05/2017 01:15:44 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:15:44 | SyncInvokesetFromWebPartBalance | 0263911530182
+
+01/05/2017 01:16:22 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:16:22 | SyncInvokesetFromWebPartBalance | 0263911530182
+
+01/05/2017 01:16:57 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:16:57 | SyncInvokesetFromWebPartBalance | 0263911530182
+
+01/05/2017 01:17:22 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:17:22 | SyncInvokesetFromWebPartBalance | 0263911530182
+
+01/05/2017 01:17:23 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:17:23 | SyncInvokesetFromWebPartBalance | 0263911530182
+
+01/05/2017 01:24:34 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:24:34 | SyncInvokesetFromWebPartBalance | 0263912434233
+
+01/05/2017 01:24:34 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:24:34 | SyncInvokesetFromWebPartBalance | 0263912434233
+
+01/05/2017 01:24:34 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:24:34 | SyncInvokesetFromWebPartBalance | 0263912434233
+
+01/05/2017 01:24:34 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:24:34 | SyncInvokesetFromWebPartBalance | 0263912434233
+
+01/05/2017 01:24:34 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:24:34 | SyncInvokesetFromWebPartBalance | 0263912434233
+
+01/05/2017 01:26:03 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:26:03 | SyncInvokesetFromWebPartBalance | 02639126323
+
+01/05/2017 01:26:03 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:26:03 | SyncInvokesetFromWebPartBalance | 02639126323
+
+01/05/2017 01:26:03 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:26:03 | SyncInvokesetFromWebPartBalance | 02639126323
+
+01/05/2017 01:26:03 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:26:03 | SyncInvokesetFromWebPartBalance | 02639126323
+
+01/05/2017 01:26:03 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:26:03 | SyncInvokesetFromWebPartBalance | 02639126323
+
+01/05/2017 01:27:21 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:27:21 | SyncInvokesetFromWebPartBalance | 0263912721291
+
+01/05/2017 01:27:21 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:27:21 | SyncInvokesetFromWebPartBalance | 0263912721291
+
+01/05/2017 01:27:21 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:27:21 | SyncInvokesetFromWebPartBalance | 0263912721291
+
+01/05/2017 01:27:21 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:27:21 | SyncInvokesetFromWebPartBalance | 0263912721291
+
+01/05/2017 01:27:21 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:27:21 | SyncInvokesetFromWebPartBalance | 0263912721291
+
+01/05/2017 01:28:44 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:28:44 | SyncInvokesetFromWebPartBalance | 0263912844863
+
+01/05/2017 01:28:45 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:28:45 | SyncInvokesetFromWebPartBalance | 0263912844863
+
+01/05/2017 01:28:45 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:28:45 | SyncInvokesetFromWebPartBalance | 0263912844863
+
+01/05/2017 01:28:45 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:28:45 | SyncInvokesetFromWebPartBalance | 0263912844863
+
+01/05/2017 01:28:45 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:28:45 | SyncInvokesetFromWebPartBalance | 0263912844863
+
+01/05/2017 01:37:40 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:37:40 | SyncInvokesetFromWebPartBalance | 0263913740576
+
+01/05/2017 01:37:40 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:37:40 | SyncInvokesetFromWebPartBalance | 0263913740576
+
+01/05/2017 01:37:41 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:37:41 | SyncInvokesetFromWebPartBalance | 0263913740576
+
+01/05/2017 01:37:41 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:37:41 | SyncInvokesetFromWebPartBalance | 0263913740576
+
+01/05/2017 01:37:41 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:37:41 | SyncInvokesetFromWebPartBalance | 0263913740576
+
+01/05/2017 01:49:42 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:49:42 | SyncInvokesetFromWebPartBalance | 0263914928279
+
+01/05/2017 01:50:05 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:50:05 | SyncInvokesetFromWebPartBalance | 0263914928279
+
+01/05/2017 01:50:06 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:50:06 | SyncInvokesetFromWebPartBalance | 0263914928279
+
+01/05/2017 01:50:06 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:50:06 | SyncInvokesetFromWebPartBalance | 0263914928279
+
+01/05/2017 01:50:06 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:50:06 | SyncInvokesetFromWebPartBalance | 0263914928279
+
+01/05/2017 01:57:42 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:57:42 | SyncInvokesetFromWebPartBalance | 0263915726295
+
+01/05/2017 01:57:42 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:57:42 | SyncInvokesetFromWebPartBalance | 0263915726295
+
+01/05/2017 01:57:42 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:57:42 | SyncInvokesetFromWebPartBalance | 0263915726295
+
+01/05/2017 01:57:43 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:57:43 | SyncInvokesetFromWebPartBalance | 0263915726295
+
+01/05/2017 01:57:43 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 01:57:43 | SyncInvokesetFromWebPartBalance | 0263915726295
+
+01/05/2017 02:00:14 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:00:14 | SyncInvokesetFromWebPartBalance | 026392014661
+
+01/05/2017 02:00:14 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:00:14 | SyncInvokesetFromWebPartBalance | 026392014661
+
+01/05/2017 02:00:14 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:00:14 | SyncInvokesetFromWebPartBalance | 026392014661
+
+01/05/2017 02:00:15 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:00:15 | SyncInvokesetFromWebPartBalance | 026392014661
+
+01/05/2017 02:00:15 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:00:15 | SyncInvokesetFromWebPartBalance | 026392014661
+
+01/05/2017 02:09:52 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:09:52 | SyncInvokesetFromWebPartBalance | 026392952101
+
+01/05/2017 02:09:52 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:09:52 | SyncInvokesetFromWebPartBalance | 026392952101
+
+01/05/2017 02:09:52 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:09:52 | SyncInvokesetFromWebPartBalance | 026392952101
+
+01/05/2017 02:09:52 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:09:52 | SyncInvokesetFromWebPartBalance | 026392952101
+
+01/05/2017 02:09:52 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:09:52 | SyncInvokesetFromWebPartBalance | 026392952101
+
+01/05/2017 02:28:09 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:28:09 | SyncInvokesetFromWebPartBalance | 026392288952
+
+01/05/2017 02:28:09 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:28:09 | SyncInvokesetFromWebPartBalance | 026392288952
+
+01/05/2017 02:28:09 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:28:09 | SyncInvokesetFromWebPartBalance | 026392288952
+
+01/05/2017 02:28:09 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:28:09 | SyncInvokesetFromWebPartBalance | 026392288952
+
+01/05/2017 02:28:09 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:28:09 | SyncInvokesetFromWebPartBalance | 026392288952
+
+01/05/2017 02:31:12 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:31:12 | SyncInvokesetFromWebPartBalance | 0263923111716
+
+01/05/2017 02:31:13 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:31:13 | SyncInvokesetFromWebPartBalance | 0263923111716
+
+01/05/2017 02:31:13 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:31:13 | SyncInvokesetFromWebPartBalance | 0263923111716
+
+01/05/2017 02:31:13 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:31:13 | SyncInvokesetFromWebPartBalance | 0263923111716
+
+01/05/2017 02:31:13 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 02:31:13 | SyncInvokesetFromWebPartBalance | 0263923111716
+
+01/05/2017 02:50:55 | SyncInvokeGetDevisByNumDemande | Debut =>02:50:55
+
+01/05/2017 02:51:00 | SyncInvokeGetDevisByNumDemande | Fin =>02:51:00
+
+01/05/2017 02:52:02 | SyncInvokeGetDevisByNumDemande | Debut =>02:52:02
+
+01/05/2017 02:52:06 | SyncInvokeGetDevisByNumDemande | Fin =>02:52:06
+
+01/05/2017 02:52:47 | SyncInvokeGetDevisByNumDemande | Debut =>02:52:47
+
+01/05/2017 02:52:52 | SyncInvokeGetDevisByNumDemande | Fin =>02:52:52
+
+01/05/2017 10:47:50 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:47:50 | SyncInvokesetFromWebPartBalance | 02639104749726
+
+01/05/2017 10:47:50 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:47:50 | SyncInvokesetFromWebPartBalance | 02639104749726
+
+01/05/2017 10:47:50 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:47:50 | SyncInvokesetFromWebPartBalance | 02639104749726
+
+01/05/2017 10:47:50 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:47:50 | SyncInvokesetFromWebPartBalance | 02639104749726
+
+01/05/2017 10:47:51 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:47:51 | SyncInvokesetFromWebPartBalance | 02639104749726
+
+01/05/2017 10:50:22 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:50:22 | SyncInvokesetFromWebPartBalance | 0263910502215
+
+01/05/2017 10:50:22 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:50:22 | SyncInvokesetFromWebPartBalance | 0263910502215
+
+01/05/2017 10:50:22 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:50:22 | SyncInvokesetFromWebPartBalance | 0263910502215
+
+01/05/2017 10:50:22 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:50:22 | SyncInvokesetFromWebPartBalance | 0263910502215
+
+01/05/2017 10:50:22 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:50:22 | SyncInvokesetFromWebPartBalance | 0263910502215
+
+01/05/2017 10:55:23 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:23 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:23 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:23 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:23 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:23 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:24 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:24 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:24 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:24 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:24 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:24 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:24 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:24 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:24 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:24 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:24 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:24 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:25 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:25 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:25 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:25 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:25 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:25 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:25 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:25 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:25 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:25 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:26 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:26 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:26 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:26 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:26 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:26 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:26 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:26 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:26 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:26 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:27 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:27 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:27 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:27 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:27 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:27 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:27 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:27 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:27 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:27 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:28 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:28 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:28 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:28 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:28 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:28 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:28 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:28 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:28 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:28 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:28 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:28 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:29 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:29 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:29 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:29 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:29 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:29 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:29 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:29 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:30 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:30 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:30 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:30 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 10:55:30 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 10:55:30 | SyncInvokesetFromWebPartBalance | 0263910552394
+
+01/05/2017 11:14:48 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:48 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:48 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:48 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:48 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:48 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:48 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:48 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:49 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:49 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:49 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:49 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:49 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:49 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:49 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:49 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:49 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:49 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:49 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:49 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:49 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:49 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:50 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:50 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:50 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:50 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:50 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:50 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:50 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:50 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:50 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:50 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:50 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:50 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:51 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:51 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:51 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:51 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:51 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:51 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:51 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:51 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:51 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:51 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:51 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:51 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:51 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:51 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:52 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:52 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:52 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:52 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:52 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:52 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:52 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:52 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:52 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:52 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:52 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:52 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:53 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:53 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:53 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:53 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:53 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:53 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:53 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:53 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:53 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:53 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:53 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:53 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:54 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:54 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 11:14:54 | SyncInvokesetFromWebPartBalance | Lecture debut
+
+01/05/2017 11:14:54 | SyncInvokesetFromWebPartBalance | 02639111448223
+
+01/05/2017 20:26:27 | SyncInvokesetFromWebPartWithSplit | Lecture debut
+
+01/05/2017 20:26:27 | SyncInvokesetFromWebPartWithSplit | 02639202245344
+

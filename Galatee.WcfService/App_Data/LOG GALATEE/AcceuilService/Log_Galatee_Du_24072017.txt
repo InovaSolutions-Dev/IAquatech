@@ -1,0 +1,16 @@
+24/07/2017 10:29:46 | SyncInvokeInsertLiaisonCompteur | OracleConnection debut( data source=10.100.0.196:1521/TESTMALIMAST;user id=USER_IWEBS;password=12345678 ):ORA-12638: Credential retrieval failed
+
+24/07/2017 10:37:45 | SyncInvokeInsertLiaisonCompteur | OracleConnection debut( data source=10.100.0.196:1521/TESTMALIMAST;user id=USER_IWEBS;password=12345678 ):ORA-12638: Credential retrieval failed
+
+24/07/2017 10:41:02 | SyncInvokeInsertLiaisonCompteur | OracleConnection debut( data source=10.100.0.196:1521/TESTMALIMAST.COM;user id=USER_IWEBS;password=12345678 ):ORA-12638: Credential retrieval failed
+
+24/07/2017 10:42:06 | SyncInvokeInsertLiaisonCompteur | OracleConnection debut( data source=10.100.0.196:1521/TESTMALIMAST.COM;user id=USER_IWEBS;password=12345678 ):ORA-12638: Credential retrieval failed
+
+24/07/2017 10:44:22 | SyncInvokeInsertLiaisonCompteur | OracleConnection debut( data source=10.100.0.196:1521/TESTMALIMAST.COM;user id=USER_IWEBS;password=12345678 ):ORA-12638: Credential retrieval failed
+
+24/07/2017 11:33:27 | SyncInvokeInsertLiaisonCompteur | OracleConnection debut( data source=10.100.0.196:1521/TESTMALIMAST.COM;user id=USER_IWEBS;password=12345678 ):ORA-12638: Credential retrieval failed
+
+24/07/2017 11:35:07 | SyncInvokeInsertLiaisonCompteur | OracleConnection debut( data source=10.100.0.196:1521/TESTMALIMAST.COM;user id=USER_IWEBS;password=12345678 ):ORA-12638: Credential retrieval failed
+
+24/07/2017 12:22:44 | SyncInvokeInsertLiaisonCompteur | OracleConnection debut( data source=10.100.0.196:1521/TESTMALIMAST.COM;user id=USER_IWEBS;password=12345678 ):ORA-12638: Credential retrieval failed
+

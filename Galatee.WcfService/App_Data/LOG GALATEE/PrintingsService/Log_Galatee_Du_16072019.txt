@@ -1,0 +1,620 @@
+16/07/2019 13:20:26 | SyncInvokesetFromWebPart | 11111132025963
+
+16/07/2019 13:20:30 | Callback | localhost1818
+
+16/07/2019 13:20:30 | RenderReport | loadData
+
+16/07/2019 13:20:31 | RenderReport | 11111132025963
+
+16/07/2019 13:20:31 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 13:20:31 | SyncInvokeGetCsPrintFromWebPart | 11111132025963
+
+16/07/2019 13:20:31 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 13:20:31 | LoadData | 11111132025963
+
+16/07/2019 13:20:31 | LoadData | données trouve
+
+16/07/2019 13:20:31 | LoadData | Parametre trouvé
+
+16/07/2019 13:20:31 | data | data trouve data count: 2
+
+16/07/2019 13:20:32 | Page_Load | RenderReport retour ok
+
+16/07/2019 13:20:32 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation1672019132032|pdf
+
+16/07/2019 13:20:38 | Page_Load | ICI3
+
+16/07/2019 13:41:55 | SyncInvokesetFromWebPart | 11111134155378
+
+16/07/2019 13:41:58 | Callback | localhost1818
+
+16/07/2019 13:41:58 | RenderReport | loadData
+
+16/07/2019 13:41:58 | RenderReport | 11111134155378
+
+16/07/2019 13:41:58 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 13:41:58 | SyncInvokeGetCsPrintFromWebPart | 11111134155378
+
+16/07/2019 13:41:58 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 13:41:59 | LoadData | 11111134155378
+
+16/07/2019 13:41:59 | LoadData | données trouve
+
+16/07/2019 13:41:59 | LoadData | Parametre trouvé
+
+16/07/2019 13:41:59 | data | data trouve data count: 2
+
+16/07/2019 13:42:00 | Page_Load | RenderReport retour ok
+
+16/07/2019 13:42:00 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation167201913420|pdf
+
+16/07/2019 13:42:03 | Page_Load | ICI3
+
+16/07/2019 13:45:22 | SyncInvokesetFromWebPart | 1111113452245
+
+16/07/2019 13:45:22 | Callback | localhost1818
+
+16/07/2019 13:45:22 | RenderReport | loadData
+
+16/07/2019 13:45:22 | RenderReport | 1111113452245
+
+16/07/2019 13:45:22 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 13:45:22 | SyncInvokeGetCsPrintFromWebPart | 1111113452245
+
+16/07/2019 13:45:22 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 13:45:22 | LoadData | 1111113452245
+
+16/07/2019 13:45:22 | LoadData | données trouve
+
+16/07/2019 13:45:22 | LoadData | Parametre trouvé
+
+16/07/2019 13:45:22 | data | data trouve data count: 5
+
+16/07/2019 13:45:23 | Page_Load | RenderReport retour ok
+
+16/07/2019 13:45:23 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation1672019134523|pdf
+
+16/07/2019 13:45:25 | Page_Load | ICI3
+
+16/07/2019 13:45:28 | SyncInvokesetFromWebPart | 11111134528184
+
+16/07/2019 13:45:28 | Callback | localhost1818
+
+16/07/2019 13:45:28 | RenderReport | loadData
+
+16/07/2019 13:45:28 | RenderReport | 11111134528184
+
+16/07/2019 13:45:28 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 13:45:28 | SyncInvokeGetCsPrintFromWebPart | 11111134528184
+
+16/07/2019 13:45:28 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 13:45:28 | LoadData | 11111134528184
+
+16/07/2019 13:45:28 | LoadData | données trouve
+
+16/07/2019 13:45:28 | LoadData | Parametre trouvé
+
+16/07/2019 13:45:28 | data | data trouve data count: 5
+
+16/07/2019 13:45:29 | Page_Load | RenderReport retour ok
+
+16/07/2019 13:45:29 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation1672019134529|xlsx
+
+16/07/2019 13:45:31 | RunExportFile | Générer byte
+
+16/07/2019 13:45:31 | RunExportFile | Initialiser le filsStream
+
+16/07/2019 13:45:31 | RunExportFile | Création du fichier
+
+16/07/2019 13:45:31 | Page_Load | ICI3
+
+16/07/2019 13:49:00 | SyncInvokesetFromWebPart | 1111113490591
+
+16/07/2019 13:49:00 | Callback | localhost1818
+
+16/07/2019 13:49:00 | RenderReport | loadData
+
+16/07/2019 13:49:00 | RenderReport | 1111113490591
+
+16/07/2019 13:49:00 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 13:49:00 | SyncInvokeGetCsPrintFromWebPart | 1111113490591
+
+16/07/2019 13:49:00 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 13:49:00 | LoadData | 1111113490591
+
+16/07/2019 13:49:00 | LoadData | données trouve
+
+16/07/2019 13:49:00 | LoadData | Parametre trouvé
+
+16/07/2019 13:49:00 | data | data trouve data count: 4
+
+16/07/2019 13:49:01 | Page_Load | RenderReport retour ok
+
+16/07/2019 13:49:01 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation167201913491|pdf
+
+16/07/2019 13:49:03 | Page_Load | ICI3
+
+16/07/2019 13:59:48 | SyncInvokesetFromWebPart | 11111135947981
+
+16/07/2019 13:59:48 | Callback | localhost1818
+
+16/07/2019 13:59:48 | RenderReport | loadData
+
+16/07/2019 13:59:48 | RenderReport | 11111135947981
+
+16/07/2019 13:59:48 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 13:59:48 | SyncInvokeGetCsPrintFromWebPart | 11111135947981
+
+16/07/2019 13:59:48 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 13:59:48 | LoadData | 11111135947981
+
+16/07/2019 13:59:48 | LoadData | données trouve
+
+16/07/2019 13:59:48 | LoadData | Parametre trouvé
+
+16/07/2019 13:59:48 | data | data trouve data count: 4
+
+16/07/2019 13:59:49 | Page_Load | RenderReport retour ok
+
+16/07/2019 13:59:49 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation1672019135949|pdf
+
+16/07/2019 13:59:51 | Page_Load | ICI3
+
+16/07/2019 14:40:27 | SyncInvokesetFromWebPart | 11111144027200
+
+16/07/2019 14:40:32 | Callback | localhost1818
+
+16/07/2019 14:40:32 | RenderReport | loadData
+
+16/07/2019 14:40:32 | RenderReport | 11111144027200
+
+16/07/2019 14:40:32 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 14:40:32 | SyncInvokeGetCsPrintFromWebPart | 11111144027200
+
+16/07/2019 14:40:32 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 14:40:32 | LoadData | 11111144027200
+
+16/07/2019 14:40:32 | LoadData | données trouve
+
+16/07/2019 14:40:32 | LoadData | Parametre trouvé
+
+16/07/2019 14:40:33 | data | data trouve data count: 4
+
+16/07/2019 14:40:35 | Page_Load | RenderReport retour ok
+
+16/07/2019 14:40:35 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation1672019144035|pdf
+
+16/07/2019 14:40:39 | Page_Load | ICI3
+
+16/07/2019 16:09:33 | SyncInvokesetFromWebPart | 1111116932710
+
+16/07/2019 16:09:34 | Callback | localhost1818
+
+16/07/2019 16:09:34 | RenderReport | loadData
+
+16/07/2019 16:09:34 | RenderReport | 1111116932710
+
+16/07/2019 16:09:34 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 16:09:34 | SyncInvokeGetCsPrintFromWebPart | 1111116932710
+
+16/07/2019 16:09:34 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 16:09:34 | LoadData | 1111116932710
+
+16/07/2019 16:09:34 | LoadData | données trouve
+
+16/07/2019 16:09:34 | LoadData | Parametre trouvé
+
+16/07/2019 16:09:34 | data | data trouve data count: 4
+
+16/07/2019 16:09:35 | Page_Load | RenderReport retour ok
+
+16/07/2019 16:09:35 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation167201916935|pdf
+
+16/07/2019 16:09:36 | Page_Load | ICI3
+
+16/07/2019 16:22:48 | SyncInvokesetFromWebPart | 11111162248672
+
+16/07/2019 16:22:48 | Callback | localhost1818
+
+16/07/2019 16:22:48 | RenderReport | loadData
+
+16/07/2019 16:22:48 | RenderReport | 11111162248672
+
+16/07/2019 16:22:48 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 16:22:48 | SyncInvokeGetCsPrintFromWebPart | 11111162248672
+
+16/07/2019 16:22:48 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 16:22:48 | LoadData | 11111162248672
+
+16/07/2019 16:22:48 | LoadData | données trouve
+
+16/07/2019 16:22:48 | LoadData | Parametre trouvé
+
+16/07/2019 16:22:48 | data | data trouve data count: 4
+
+16/07/2019 16:22:49 | ExportChemin | La définition du rapport « F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Web\Reports\Report\RecapStatFacturation.rdlc » n'est pas valide.
+
+16/07/2019 16:22:54 | Callback | La définition du rapport « F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Web\Reports\Report\RecapStatFacturation.rdlc » n'est pas valide.
+
+16/07/2019 16:23:05 | SyncInvokesetFromWebPart | 1111116235197
+
+16/07/2019 16:23:05 | Callback | localhost1818
+
+16/07/2019 16:23:05 | RenderReport | loadData
+
+16/07/2019 16:23:05 | RenderReport | 1111116235197
+
+16/07/2019 16:23:05 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 16:23:05 | SyncInvokeGetCsPrintFromWebPart | 1111116235197
+
+16/07/2019 16:23:05 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 16:23:05 | LoadData | 1111116235197
+
+16/07/2019 16:23:05 | LoadData | données trouve
+
+16/07/2019 16:23:05 | LoadData | Parametre trouvé
+
+16/07/2019 16:23:05 | data | data trouve data count: 4
+
+16/07/2019 16:23:05 | ExportChemin | La définition du rapport « F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Web\Reports\Report\RecapStatFacturation.rdlc » n'est pas valide.
+
+16/07/2019 16:23:43 | Callback | La définition du rapport « F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Web\Reports\Report\RecapStatFacturation.rdlc » n'est pas valide.
+
+16/07/2019 16:24:01 | SyncInvokesetFromWebPart | 111111624144
+
+16/07/2019 16:24:01 | Callback | localhost1818
+
+16/07/2019 16:24:01 | RenderReport | loadData
+
+16/07/2019 16:24:01 | RenderReport | 111111624144
+
+16/07/2019 16:24:01 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 16:24:01 | SyncInvokeGetCsPrintFromWebPart | 111111624144
+
+16/07/2019 16:24:01 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 16:24:01 | LoadData | 111111624144
+
+16/07/2019 16:24:01 | LoadData | données trouve
+
+16/07/2019 16:24:01 | LoadData | Parametre trouvé
+
+16/07/2019 16:24:01 | data | data trouve data count: 4
+
+16/07/2019 16:24:01 | Page_Load | RenderReport retour ok
+
+16/07/2019 16:24:01 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation167201916241|pdf
+
+16/07/2019 16:24:02 | Page_Load | ICI3
+
+16/07/2019 16:36:57 | SyncInvokesetFromWebPart | 11111163657586
+
+16/07/2019 16:36:57 | Callback | localhost1818
+
+16/07/2019 16:36:57 | RenderReport | loadData
+
+16/07/2019 16:36:57 | RenderReport | 11111163657586
+
+16/07/2019 16:36:57 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 16:36:57 | SyncInvokeGetCsPrintFromWebPart | 11111163657586
+
+16/07/2019 16:36:57 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 16:36:57 | LoadData | 11111163657586
+
+16/07/2019 16:36:57 | LoadData | données trouve
+
+16/07/2019 16:36:57 | LoadData | Parametre trouvé
+
+16/07/2019 16:36:57 | data | data trouve data count: 4
+
+16/07/2019 16:36:58 | Page_Load | RenderReport retour ok
+
+16/07/2019 16:36:58 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation1672019163658|pdf
+
+16/07/2019 16:36:58 | Page_Load | ICI3
+
+16/07/2019 16:39:03 | SyncInvokesetFromWebPart | 1111116393513
+
+16/07/2019 16:39:03 | Callback | localhost1818
+
+16/07/2019 16:39:03 | RenderReport | loadData
+
+16/07/2019 16:39:03 | RenderReport | 1111116393513
+
+16/07/2019 16:39:03 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 16:39:03 | SyncInvokeGetCsPrintFromWebPart | 1111116393513
+
+16/07/2019 16:39:03 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 16:39:03 | LoadData | 1111116393513
+
+16/07/2019 16:39:03 | LoadData | données trouve
+
+16/07/2019 16:39:03 | LoadData | Parametre trouvé
+
+16/07/2019 16:39:03 | data | data trouve data count: 4
+
+16/07/2019 16:39:04 | Page_Load | RenderReport retour ok
+
+16/07/2019 16:39:04 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation167201916394|pdf
+
+16/07/2019 16:39:04 | Page_Load | ICI3
+
+16/07/2019 16:45:56 | SyncInvokesetFromWebPart | 1111116455669
+
+16/07/2019 16:45:56 | Callback | localhost1818
+
+16/07/2019 16:45:56 | RenderReport | loadData
+
+16/07/2019 16:45:56 | RenderReport | 1111116455669
+
+16/07/2019 16:45:56 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 16:45:56 | SyncInvokeGetCsPrintFromWebPart | 1111116455669
+
+16/07/2019 16:45:56 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 16:45:56 | LoadData | 1111116455669
+
+16/07/2019 16:45:56 | LoadData | données trouve
+
+16/07/2019 16:45:56 | LoadData | Parametre trouvé
+
+16/07/2019 16:45:56 | data | data trouve data count: 4
+
+16/07/2019 16:45:56 | Page_Load | RenderReport retour ok
+
+16/07/2019 16:45:56 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation1672019164556|pdf
+
+16/07/2019 16:45:57 | Page_Load | ICI3
+
+16/07/2019 16:47:49 | SyncInvokesetFromWebPart | 1111116474914
+
+16/07/2019 16:47:49 | Callback | localhost1818
+
+16/07/2019 16:47:49 | RenderReport | loadData
+
+16/07/2019 16:47:49 | RenderReport | 1111116474914
+
+16/07/2019 16:47:49 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 16:47:49 | SyncInvokeGetCsPrintFromWebPart | 1111116474914
+
+16/07/2019 16:47:49 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 16:47:49 | LoadData | 1111116474914
+
+16/07/2019 16:47:49 | LoadData | données trouve
+
+16/07/2019 16:47:49 | LoadData | Parametre trouvé
+
+16/07/2019 16:47:49 | data | data trouve data count: 4
+
+16/07/2019 16:47:49 | Page_Load | RenderReport retour ok
+
+16/07/2019 16:47:49 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation1672019164749|pdf
+
+16/07/2019 16:47:50 | Page_Load | ICI3
+
+16/07/2019 17:32:24 | SyncInvokesetFromWebPart | 11111173224877
+
+16/07/2019 17:32:24 | Callback | localhost1818
+
+16/07/2019 17:32:24 | RenderReport | loadData
+
+16/07/2019 17:32:24 | RenderReport | 11111173224877
+
+16/07/2019 17:32:25 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 17:32:25 | SyncInvokeGetCsPrintFromWebPart | 11111173224877
+
+16/07/2019 17:32:25 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 17:32:25 | LoadData | 11111173224877
+
+16/07/2019 17:32:25 | LoadData | données trouve
+
+16/07/2019 17:32:25 | LoadData | Parametre trouvé
+
+16/07/2019 17:32:25 | data | data trouve data count: 4
+
+16/07/2019 17:32:25 | Page_Load | RenderReport retour ok
+
+16/07/2019 17:32:25 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation1672019173225|pdf
+
+16/07/2019 17:32:26 | Page_Load | ICI3
+
+16/07/2019 17:32:54 | SyncInvokesetFromWebPart | 11111173254162
+
+16/07/2019 17:32:54 | Callback | localhost1818
+
+16/07/2019 17:32:54 | RenderReport | loadData
+
+16/07/2019 17:32:54 | RenderReport | 11111173254162
+
+16/07/2019 17:32:54 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 17:32:54 | SyncInvokeGetCsPrintFromWebPart | 11111173254162
+
+16/07/2019 17:32:54 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 17:32:54 | LoadData | 11111173254162
+
+16/07/2019 17:32:54 | LoadData | données trouve
+
+16/07/2019 17:32:54 | LoadData | Parametre trouvé
+
+16/07/2019 17:32:54 | data | data trouve data count: 4
+
+16/07/2019 17:32:54 | Page_Load | RenderReport retour ok
+
+16/07/2019 17:32:54 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation1672019173254|pdf
+
+16/07/2019 17:32:55 | Page_Load | ICI3
+
+16/07/2019 17:56:30 | SyncInvokesetFromWebPart | 11111175630353
+
+16/07/2019 17:56:30 | Callback | localhost1818
+
+16/07/2019 17:56:30 | RenderReport | loadData
+
+16/07/2019 17:56:30 | RenderReport | 11111175630353
+
+16/07/2019 17:56:30 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 17:56:30 | SyncInvokeGetCsPrintFromWebPart | 11111175630353
+
+16/07/2019 17:56:30 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 17:56:30 | LoadData | 11111175630353
+
+16/07/2019 17:56:30 | LoadData | données trouve
+
+16/07/2019 17:56:30 | LoadData | Parametre trouvé
+
+16/07/2019 17:56:30 | data | data trouve data count: 4
+
+16/07/2019 17:56:31 | Page_Load | RenderReport retour ok
+
+16/07/2019 17:56:31 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation1672019175631|pdf
+
+16/07/2019 17:56:31 | Page_Load | ICI3
+
+16/07/2019 17:57:23 | SyncInvokesetFromWebPart | 11111175723677
+
+16/07/2019 17:57:23 | Callback | localhost1818
+
+16/07/2019 17:57:23 | RenderReport | loadData
+
+16/07/2019 17:57:23 | RenderReport | 11111175723677
+
+16/07/2019 17:57:23 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 17:57:23 | SyncInvokeGetCsPrintFromWebPart | 11111175723677
+
+16/07/2019 17:57:23 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 17:57:23 | LoadData | 11111175723677
+
+16/07/2019 17:57:23 | LoadData | données trouve
+
+16/07/2019 17:57:23 | LoadData | Parametre trouvé
+
+16/07/2019 17:57:23 | data | data trouve data count: 4
+
+16/07/2019 17:57:24 | Page_Load | RenderReport retour ok
+
+16/07/2019 17:57:24 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation1672019175724|pdf
+
+16/07/2019 17:57:24 | Page_Load | ICI3
+
+16/07/2019 18:01:46 | SyncInvokesetFromWebPart | 1111118146207
+
+16/07/2019 18:01:46 | Callback | localhost1818
+
+16/07/2019 18:01:46 | RenderReport | loadData
+
+16/07/2019 18:01:46 | RenderReport | 1111118146207
+
+16/07/2019 18:01:46 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 18:01:46 | SyncInvokeGetCsPrintFromWebPart | 1111118146207
+
+16/07/2019 18:01:46 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 18:01:46 | LoadData | 1111118146207
+
+16/07/2019 18:01:46 | LoadData | données trouve
+
+16/07/2019 18:01:46 | LoadData | Parametre trouvé
+
+16/07/2019 18:01:46 | data | data trouve
+
+16/07/2019 18:01:46 | CreatePDFChemin | ~/Reports/Facturation/AnomalieFacturation.rdlc | Chemin du fichier rdlc
+
+16/07/2019 18:01:47 | CreatePDFChemin | Print : System.Collections.Specialized.StringCollection  Print : System.Collections.Specialized.StringCollection | Set Parameters
+
+16/07/2019 18:01:47 | CreatePDFChemin | Add DataSources ok
+
+16/07/2019 18:01:47 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+16/07/2019 18:07:18 | SyncInvokesetFromWebPart | 1111118718969
+
+16/07/2019 18:07:19 | Callback | localhost1818
+
+16/07/2019 18:07:19 | RenderReport | loadData
+
+16/07/2019 18:07:19 | RenderReport | 1111118718969
+
+16/07/2019 18:07:19 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 18:07:19 | SyncInvokeGetCsPrintFromWebPart | 1111118718969
+
+16/07/2019 18:07:19 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 18:07:19 | LoadData | 1111118718969
+
+16/07/2019 18:07:19 | LoadData | données trouve
+
+16/07/2019 18:07:19 | LoadData | Parametre trouvé
+
+16/07/2019 18:07:19 | data | data trouve data count: 5
+
+16/07/2019 18:07:19 | Page_Load | RenderReport retour ok
+
+16/07/2019 18:07:19 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation167201918719|pdf
+
+16/07/2019 18:07:20 | Page_Load | ICI3
+
+16/07/2019 18:09:35 | SyncInvokesetFromWebPart | 1111118935873
+
+16/07/2019 18:09:35 | Callback | localhost1818
+
+16/07/2019 18:09:35 | RenderReport | loadData
+
+16/07/2019 18:09:36 | RenderReport | 1111118935873
+
+16/07/2019 18:09:36 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/07/2019 18:09:36 | SyncInvokeGetCsPrintFromWebPart | 1111118935873
+
+16/07/2019 18:09:36 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/07/2019 18:09:36 | LoadData | 1111118935873
+
+16/07/2019 18:09:36 | LoadData | données trouve
+
+16/07/2019 18:09:36 | LoadData | Parametre trouvé
+
+16/07/2019 18:09:36 | data | data trouve data count: 5
+
+16/07/2019 18:09:36 | Page_Load | RenderReport retour ok
+
+16/07/2019 18:09:36 | RunExportFile | \\LAP-IV-IWEBS01\Impression|RecapStatFacturation167201918936|pdf
+
+16/07/2019 18:09:37 | Page_Load | ICI3
+

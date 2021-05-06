@@ -1,0 +1,55 @@
+﻿<sdk:ChildWindow
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:controls="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls"
+           xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk"
+             xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+          xmlns:behaviors="clr-namespace:Galatee.Silverlight.Classes"
+           xmlns:Converters="clr-namespace:Galatee.Silverlight.Classes"
+    
+    xmlns:Controls="clr-namespace:SilverlightContrib.Controls;assembly=SilverlightContrib.Controls" x:Class="Galatee.Silverlight.Administration.UcListeReglement"
+    
+    Width="885.5" Height="545" Title="Liste des règlements" Style="{StaticResource ChildWindowGalatee}">
+    <controls:ChildWindow.Resources>
+        <Converters:DateTimeConverter x:Key="DateTimeConverter"/>
+        <Converters:DecimalConverter x:Key="DecimalConverter"/>
+    </controls:ChildWindow.Resources>
+    <Grid x:Name="LayoutRoot" Margin="2,2,-1,2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="96*"/>
+            <ColumnDefinition Width="851*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Button x:Name="btnFermer" Content="Fermer" Click="btnFermer_Click" Width="75" Height="23" HorizontalAlignment="Right" Margin="0,9,17,3" Grid.Row="1" Grid.Column="1" />
+        <Button x:Name="btnValider" Content="Valider" Click="btnValider_Click" Width="75" Height="23" HorizontalAlignment="Right" Margin="0,9,96,0" Grid.Row="1" Grid.Column="1" VerticalAlignment="Top" />
+        <Controls:GroupBox FontWeight="SemiBold" Margin="0,0,10,0" x:Name="groupBox1_Copy3" Header="Règlements" Height="435" VerticalAlignment="Top" Grid.ColumnSpan="2" >
+        </Controls:GroupBox>
+        <sdk:DataGrid AutoGenerateColumns="False" HorizontalAlignment="Left"  LoadingRow="dgMyDataGrid_LoadingRow"
+			Margin="10,30,0,65" x:Name="dtgrdParametre" Width="827"  ItemsSource="{Binding DonnesDatagrid}"
+			ScrollViewer.HorizontalScrollBarVisibility="Visible" AllowDrop="False" DataContext="{Binding}"  SelectionMode="Extended" SelectionChanged="dtgrdParametre_SelectionChanged"  MouseRightButtonDown="dtgrdParametre_MouseRightButtonDown" Grid.ColumnSpan="2" >
+            <sdk:DataGrid.Columns>
+                <sdk:DataGridTextColumn Binding="{Binding CLIENT, Mode=TwoWay}" Header="REFERENCE" Width="Auto" IsReadOnly="True" />
+                <sdk:DataGridTextColumn Binding="{Binding NOM, Mode=TwoWay}" Header="NOM ABONNE" MinWidth="200" Width="Auto" IsReadOnly="True" />
+                <sdk:DataGridTextColumn Binding="{Binding NDOC, Mode=TwoWay}" Header="NUMERO FACTURE" Width="Auto" IsReadOnly="True" />
+                <sdk:DataGridTextColumn Binding="{Binding REFEM, Mode=TwoWay}" Header="PERIODE" Width="Auto" IsReadOnly="True" />
+                <sdk:DataGridTextColumn Binding="{Binding SOLDEFACTURE, Mode=TwoWay,Converter={StaticResource DecimalConverter}}" Header="SOLDE ACTUEL" Width="Auto" IsReadOnly="True" />
+                <sdk:DataGridTextColumn Binding="{Binding MONTANT, Mode=TwoWay,Converter={StaticResource DecimalConverter}}" Header="MONTANT PAYE" Width="Auto" IsReadOnly="True" />
+
+            </sdk:DataGrid.Columns>
+            <i:Interaction.Behaviors>
+                <behaviors:DataGridDoubleClickBehavior/>
+                <behaviors:DataGridContexMenuBehavior />
+            </i:Interaction.Behaviors>
+        </sdk:DataGrid>
+        <sdk:Label Content="Nombre de factures" HorizontalAlignment="Left" Height="31" Margin="24,394,0,0" VerticalAlignment="Top" Width="144" Grid.ColumnSpan="2" FontSize="14"/>
+        <TextBox Grid.Column="1" HorizontalAlignment="Left" IsReadOnly="True" Height="25" Margin="86,390,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="118" Name="txtNombre" FontSize="14" FontWeight="Bold"/>
+        <sdk:Label Content="Montant des règlements" HorizontalAlignment="Left" Height="31" Margin="248,394,0,0" VerticalAlignment="Top" Width="181" FontSize="14" Grid.Column="1"/>
+        <TextBox Grid.Column="1" HorizontalAlignment="Left" IsReadOnly="True" Height="25" Margin="434,390,0,0" TextWrapping="Wrap"  Name="txtMontant" VerticalAlignment="Top" Width="187" FontSize="14" FontWeight="Bold"/>
+        <ProgressBar x:Name="prgBar" HorizontalAlignment="Left" Height="27" Margin="0,5,0,0" VerticalAlignment="Top" Width="405" IsIndeterminate="True" Grid.Row="1" Grid.Column="1"/>
+
+
+    </Grid>
+</sdk:ChildWindow>

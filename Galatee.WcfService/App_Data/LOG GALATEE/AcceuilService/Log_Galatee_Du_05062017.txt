@@ -1,0 +1,24 @@
+05/06/2017 13:14:55 | SyncInvokeValiderDemande | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+05/06/2017 13:16:13 | SyncInvokeValiderDemande | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+05/06/2017 13:20:09 | SyncInvokeValiderDemande | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+05/06/2017 13:22:02 | SyncInvokeValiderDemande | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+05/06/2017 13:24:03 | SyncInvokeValiderDemande | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+05/06/2017 15:45:39 | SyncInvokeListeDesDonneesDesSite | Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+05/06/2017 16:38:22 | SyncInvokeListeDesProduit | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+05/06/2017 16:38:23 | SyncInvokeListeDesDonneesDesSite | Échec du fournisseur sous-jacent sur Open.
+
+05/06/2017 16:38:23 | SyncInvokeChargerTousFrequence | Échec du fournisseur sous-jacent sur Open.
+
+05/06/2017 16:38:23 | SyncInvokeChargerLesTournees | La référence d'objet n'est pas définie à une instance d'un objet.
+
+| SyncInvokeListeDesDonneesDesSite | Échec du fournisseur sous-jacent sur Open.
+
+05/06/2017 16:38:25 | SyncInvokeRetourneCategorie | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+

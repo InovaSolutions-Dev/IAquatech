@@ -1,0 +1,13 @@
+D:\PROJET IWEBS\IWEB\Galatee\Licence.Web\bin\Licence.Web.dll
+D:\PROJET IWEBS\IWEB\Galatee\Licence.Web\bin\Licence.Web.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Licence.Web\obj\Debug\Licence.Web.dll
+D:\PROJET IWEBS\IWEB\Galatee\Licence.Web\obj\Debug\Licence.Web.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Licence.Web\obj\Debug\Licence.Web.csprojResolveAssemblyReference.cache
+F:\SOURCES\AQUATECH\Galatee_save\Licence.Web\bin\Licence.Web.dll
+F:\SOURCES\AQUATECH\Galatee_save\Licence.Web\bin\Licence.Web.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Licence.Web\bin\Galatee.Silverlight.Security.dll
+F:\SOURCES\AQUATECH\Galatee_save\Licence.Web\bin\Galatee.Silverlight.Security.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Licence.Web\bin\en-US\Galatee.Silverlight.Security.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Licence.Web\obj\Debug\Licence.Web.csprojResolveAssemblyReference.cache
+F:\SOURCES\AQUATECH\Galatee_save\Licence.Web\obj\Debug\Licence.Web.dll
+F:\SOURCES\AQUATECH\Galatee_save\Licence.Web\obj\Debug\Licence.Web.pdb

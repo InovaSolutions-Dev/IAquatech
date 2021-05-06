@@ -1,0 +1,46 @@
+21/07/2019 11:54:51 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+21/07/2019 11:54:51 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+21/07/2019 12:16:25 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+21/07/2019 12:16:52 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+21/07/2019 13:02:25 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+21/07/2019 13:02:26 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+21/07/2019 13:25:54 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+21/07/2019 13:25:54 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+21/07/2019 13:54:17 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+21/07/2019 13:54:45 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+21/07/2019 14:03:39 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+21/07/2019 14:03:39 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+21/07/2019 15:30:56 | LogException | Le chemin réseau n’a pas été trouvé
+
+21/07/2019 15:30:56 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+21/07/2019 15:30:56 | ChargerMenuEtSousMenu | Échec du fournisseur sous-jacent sur Open.
+
+21/07/2019 15:48:57 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+21/07/2019 15:48:58 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+21/07/2019 21:46:02 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+21/07/2019 21:46:27 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+21/07/2019 21:52:44 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+21/07/2019 21:52:45 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+21/07/2019 22:40:17 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+21/07/2019 22:40:20 | SyncInvokereturnEnumereWrapper | Suite traitement
+

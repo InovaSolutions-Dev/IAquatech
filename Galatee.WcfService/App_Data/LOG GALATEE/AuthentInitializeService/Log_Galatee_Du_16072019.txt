@@ -1,0 +1,44 @@
+16/07/2019 05:04:30 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+16/07/2019 05:05:01 | LogException | Le chemin réseau n’a pas été trouvé
+
+16/07/2019 05:05:01 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+16/07/2019 05:05:01 | returnEnumereWrapper | Échec du fournisseur sous-jacent sur Open.
+
+16/07/2019 10:08:47 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+16/07/2019 10:09:56 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+16/07/2019 10:33:54 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+16/07/2019 10:33:54 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+16/07/2019 11:40:18 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+16/07/2019 11:41:25 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+16/07/2019 11:50:05 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+16/07/2019 11:50:05 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+16/07/2019 13:40:30 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+16/07/2019 13:40:31 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+16/07/2019 14:00:06 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+16/07/2019 14:00:06 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+16/07/2019 14:11:39 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+16/07/2019 14:11:39 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+16/07/2019 14:11:39 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+16/07/2019 14:11:39 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+16/07/2019 16:06:50 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+16/07/2019 16:07:19 | SyncInvokereturnEnumereWrapper | Suite traitement
+

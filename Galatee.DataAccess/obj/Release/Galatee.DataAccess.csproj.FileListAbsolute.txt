@@ -1,0 +1,480 @@
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\bin\Release\EntityFramework.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\bin\Release\Excel.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\bin\Release\ISF.Common.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\bin\Release\EntityFramework.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\bin\Release\Excel.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\bin\Release\ISF.Common.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB100216\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\bin\Release\EntityFramework.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\bin\Release\Excel.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\bin\Release\ISF.Common.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\bin\Release\EntityFramework.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\bin\Release\Excel.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\bin\Release\ISF.Common.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\bin\Release\log4net.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\bin\Release\log4net.xml
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\bin\Release\EntityFramework.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\bin\Release\Excel.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\bin\Release\ISF.Common.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\bin\Release\log4net.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\bin\Release\log4net.xml
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB - Copie\Galatee - Copie\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\bin\Release\EntityFramework.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\bin\Release\Excel.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\bin\Release\ISF.Common.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\bin\Release\log4net.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\bin\Release\log4net.xml
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+D:\PROJET IWEBS\Sauvegarde\IWEB EN COURS\Galatee - Copie\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\EntityFramework.dll
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Excel.dll
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\ISF.Common.dll
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\log4net.dll
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\log4net.xml
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+D:\PROJET IWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\EntityFramework.dll
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Excel.dll
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\ISF.Common.dll
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\log4net.dll
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\log4net.xml
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+D:\PROJET IWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\EntityFramework.dll
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Excel.dll
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\ISF.Common.dll
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\log4net.dll
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\log4net.xml
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+D:\PROJETIWEBS\AUTRE1\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\EntityFramework.dll
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Excel.dll
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\ISF.Common.dll
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\log4net.dll
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Oracle.DataAccess.dll
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\log4net.xml
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+D:\PROJETIWEBS\IWEB EN COURS - Copie\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\EntityFramework.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Excel.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\ISF.Common.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\log4net.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Oracle.DataAccess.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\log4net.xml
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\EntityFramework.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Excel.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\ISF.Common.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\log4net.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\log4net.xml
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\EntityFramework.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\Excel.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\ISF.Common.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\log4net.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\Oracle.DataAccess.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\log4net.xml
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\bin\Release\EntityFramework.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\bin\Release\Excel.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\bin\Release\ISF.Common.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\bin\Release\log4net.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\bin\Release\log4net.xml
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\bin\Release\EntityFramework.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\bin\Release\Excel.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\bin\Release\ISF.Common.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\bin\Release\log4net.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\bin\Release\log4net.xml
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\bin\Release\EntityFramework.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\bin\Release\Excel.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\bin\Release\ISF.Common.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\bin\Release\log4net.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\bin\Release\log4net.xml
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\bin\Release\EntityFramework.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\bin\Release\Excel.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\bin\Release\ISF.Common.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\bin\Release\log4net.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\bin\Release\log4net.xml
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\bin\Release\EntityFramework.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\bin\Release\Excel.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\bin\Release\ISF.Common.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\bin\Release\log4net.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\bin\Release\log4net.xml
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+C:\SOURCES NOUVELLES\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+C:\SOURCES NOUVELLES\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+C:\SOURCES NOUVELLES\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+C:\SOURCES NOUVELLES\Galatee.DataAccess\bin\Release\EntityFramework.dll
+C:\SOURCES NOUVELLES\Galatee.DataAccess\bin\Release\Excel.dll
+C:\SOURCES NOUVELLES\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+C:\SOURCES NOUVELLES\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+C:\SOURCES NOUVELLES\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+C:\SOURCES NOUVELLES\Galatee.DataAccess\bin\Release\ISF.Common.dll
+C:\SOURCES NOUVELLES\Galatee.DataAccess\bin\Release\log4net.dll
+C:\SOURCES NOUVELLES\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\SOURCES NOUVELLES\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+C:\SOURCES NOUVELLES\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\SOURCES NOUVELLES\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+C:\SOURCES NOUVELLES\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+C:\SOURCES NOUVELLES\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+C:\SOURCES NOUVELLES\Galatee.DataAccess\bin\Release\log4net.xml
+C:\SOURCES NOUVELLES\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+C:\SOURCES NOUVELLES\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+C:\SOURCES NOUVELLES\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+C:\SOURCES NOUVELLES\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\EntityFramework.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Excel.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\ISF.Common.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\log4net.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\log4net.xml
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\EntityFramework.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Excel.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\ISF.Common.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\log4net.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\log4net.xml
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\EntityFramework.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Excel.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\ISF.Common.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\log4net.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\log4net.xml
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll.config
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.DataAccess.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.DataAccess.pdb
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\EntityFramework.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Excel.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.Structure.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.Tools.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\ISF.Common.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\log4net.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.Security.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.Entity.Model.pdb
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.Structure.pdb
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.Tools.pdb
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\log4net.xml
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\bin\Release\Galatee.Security.pdb
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\obj\Release\Galatee.DataAccess.csprojResolveAssemblyReference.cache
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\obj\Release\Galatee.DataAccess.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.DataAccess\obj\Release\Galatee.DataAccess.pdb

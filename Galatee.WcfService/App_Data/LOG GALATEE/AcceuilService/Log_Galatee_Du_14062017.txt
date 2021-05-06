@@ -1,0 +1,20 @@
+14/06/2017 12:19:57 | SyncInvokeListeDesDonneesDesSite | Enregistrement annulé :
+Impossible d'ouvrir la base de données "GALADB" demandée par la connexion. La connexion a échoué.
+Échec de l'ouverture de session de l'utilisateur 'sa'.
+
+14/06/2017 21:21:42 | SyncInvokeRetourneListeDemandeCritere | Impossible de créer une valeur constante de type « Galatee.Entity.Model.DAG ». Seuls les types primitifs ou les types énumération sont pris en charge dans ce contexte.
+
+14/06/2017 21:24:34 | SyncInvokeRetourneListeDemandeCritere | Impossible de créer une valeur constante de type « Galatee.Entity.Model.DAG ». Seuls les types primitifs ou les types énumération sont pris en charge dans ce contexte.
+
+14/06/2017 21:34:37 | SyncInvokeRetourneListeDemandeCritere | Impossible de créer une valeur constante de type « Galatee.Entity.Model.DAG ». Seuls les types primitifs ou les types énumération sont pris en charge dans ce contexte.
+
+14/06/2017 21:46:27 | SyncInvokeRetourneListeDemandeCritere | Impossible de créer une valeur constante de type « Galatee.Entity.Model.DAG ». Seuls les types primitifs ou les types énumération sont pris en charge dans ce contexte.
+
+14/06/2017 21:57:46 | SyncInvokeRetourneListeDemandeCritere | Une exception de type 'System.OutOfMemoryException' a été levée.
+
+14/06/2017 22:13:17 | SyncInvokeRetourneListeDemandeCritere | Une exception de type 'System.OutOfMemoryException' a été levée.
+
+14/06/2017 22:14:26 | SyncInvokeRetourneListeDemandeCritere | Une exception de type 'System.OutOfMemoryException' a été levée.
+
+14/06/2017 22:18:01 | SyncInvokeRetourneListeDemandeCritere | Une exception de type 'System.OutOfMemoryException' a été levée.
+

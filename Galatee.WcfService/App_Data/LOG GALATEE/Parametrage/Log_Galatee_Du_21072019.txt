@@ -1,0 +1,10 @@
+21/07/2019 11:09:35 | SelectGroupeValidationByUserId | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+21/07/2019 18:18:56 | SelectGroupeValidationByUserId | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+21/07/2019 23:01:00 | LogException | Une instruction de mise à jour, d'insertion ou de suppression dans le magasin a affecté un nombre inattendu de lignes (0). Des entités ont peut-être été modifiées ou supprimées depuis leur chargement. Actualisez les entrées ObjectStateManager.
+
+21/07/2019 23:01:00 | DeleteAffectationEtapeWorkflow | Une instruction de mise à jour, d'insertion ou de suppression dans le magasin a affecté un nombre inattendu de lignes (0). Des entités ont peut-être été modifiées ou supprimées depuis leur chargement. Actualisez les entrées ObjectStateManager.
+

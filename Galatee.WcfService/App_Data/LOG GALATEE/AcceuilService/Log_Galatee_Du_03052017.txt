@@ -1,0 +1,8 @@
+03/05/2017 16:43:40 | SyncInvokeValiderCreationFactureIsole | Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+03/05/2017 16:56:58 | SyncInvokeValiderCreationFactureIsole | Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+03/05/2017 16:59:25 | SyncInvokeValiderCreationFactureIsole | Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+03/05/2017 17:33:46 | SyncInvokeValiderCreationFactureIsole | Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+

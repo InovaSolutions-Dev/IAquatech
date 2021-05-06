@@ -1,0 +1,4 @@
+20/06/2017 23:36:34 | SelectAllCompteurInDisponible | Impossible de créer une valeur constante Null de type « System.Collections.Generic.List`1 ». Seuls les types d'entités, les types énumération ou les types primitifs sont pris en charge dans ce contexte.
+
+20/06/2017 23:38:22 | SelectAllCompteurInDisponible | Impossible de créer une valeur constante Null de type « System.Collections.Generic.List`1 ». Seuls les types d'entités, les types énumération ou les types primitifs sont pris en charge dans ce contexte.
+

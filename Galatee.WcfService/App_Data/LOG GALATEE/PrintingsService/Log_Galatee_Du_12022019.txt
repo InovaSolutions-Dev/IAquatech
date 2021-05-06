@@ -1,0 +1,28 @@
+12/02/2019 21:12:04 | SyncInvokesetFromWebPart | 1111121124545
+
+12/02/2019 21:12:10 | Callback | localhost1818
+
+12/02/2019 21:12:10 | RenderReport | loadData
+
+12/02/2019 21:12:10 | RenderReport | 1111121124545
+
+12/02/2019 21:12:10 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+12/02/2019 21:12:10 | SyncInvokeGetCsPrintFromWebPart | 1111121124545
+
+12/02/2019 21:12:10 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+12/02/2019 21:12:11 | LoadData | 1111121124545
+
+12/02/2019 21:12:11 | LoadData | données trouve
+
+12/02/2019 21:12:11 | LoadData | Parametre non trouvé
+
+12/02/2019 21:12:11 | data | data trouve
+
+12/02/2019 21:12:11 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+12/02/2019 21:12:11 | CreatePDFChemin | Add DataSources ok
+
+12/02/2019 21:12:11 | RunCreationPDF | \\INOVA-PC20\Impression
+

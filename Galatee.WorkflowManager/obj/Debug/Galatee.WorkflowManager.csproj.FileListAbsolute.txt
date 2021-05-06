@@ -1,0 +1,98 @@
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\bin\Galatee.WorkflowManager.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\bin\Galatee.WorkflowManager.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\bin\Galatee.DataAccess.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\bin\Galatee.Entity.Model.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\bin\Galatee.Structure.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\bin\Galatee.WorkflowLibrary.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\bin\EntityFramework.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\bin\Galatee.Tools.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\bin\Galatee.Security.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\bin\ISF.Common.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\bin\Galatee.DataAccess.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\bin\Galatee.Entity.Model.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\bin\Galatee.Structure.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\bin\Galatee.WorkflowLibrary.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\bin\Galatee.Tools.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\bin\Galatee.Security.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\obj\Debug\Galatee.WorkflowManager.csprojResolveAssemblyReference.cache
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\obj\Debug\Galatee.WorkflowManager.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.WorkflowManager\obj\Debug\Galatee.WorkflowManager.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\bin\Galatee.WorkflowManager.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\bin\Galatee.WorkflowManager.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\bin\Galatee.DataAccess.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\bin\Galatee.Entity.Model.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\bin\Galatee.Structure.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\bin\Galatee.WorkflowLibrary.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\bin\EntityFramework.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\bin\Galatee.Tools.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\bin\Oracle.DataAccess.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\bin\Galatee.Security.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\bin\Galatee.DataAccess.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\bin\Galatee.Entity.Model.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\bin\Galatee.Structure.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\bin\Galatee.WorkflowLibrary.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\bin\Galatee.Tools.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\bin\Galatee.Security.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\obj\Debug\Galatee.WorkflowManager.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\obj\Debug\Galatee.WorkflowManager.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WorkflowManager\obj\Debug\Galatee.WorkflowManager.pdb
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\bin\Galatee.WorkflowManager.dll
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\bin\Galatee.WorkflowManager.pdb
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\bin\Galatee.DataAccess.dll
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\bin\Galatee.Entity.Model.dll
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\bin\Galatee.Structure.dll
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\bin\Galatee.WorkflowLibrary.dll
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\bin\EntityFramework.dll
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\bin\Galatee.Tools.dll
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\bin\Newtonsoft.Json.dll
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\bin\Oracle.DataAccess.dll
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\bin\Galatee.Security.dll
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\bin\Galatee.DataAccess.pdb
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\bin\Galatee.Entity.Model.pdb
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\bin\Galatee.Structure.pdb
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\bin\Galatee.WorkflowLibrary.pdb
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\bin\Galatee.Tools.pdb
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\bin\Galatee.Security.pdb
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\obj\Debug\Galatee.WorkflowManager.csprojResolveAssemblyReference.cache
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\obj\Debug\Galatee.WorkflowManager.dll
+C:\SOURCES NOUVELLES\Galatee.WorkflowManager\obj\Debug\Galatee.WorkflowManager.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.WorkflowManager.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.WorkflowManager.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.DataAccess.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.Entity.Model.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.Structure.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.WorkflowLibrary.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\EntityFramework.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.Tools.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Newtonsoft.Json.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Oracle.DataAccess.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.Security.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.DataAccess.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.Entity.Model.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.Structure.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.WorkflowLibrary.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.Tools.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.Security.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\obj\Debug\Galatee.WorkflowManager.csprojResolveAssemblyReference.cache
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\obj\Debug\Galatee.WorkflowManager.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WorkflowManager\obj\Debug\Galatee.WorkflowManager.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.WorkflowManager.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.WorkflowManager.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.DataAccess.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.Entity.Model.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.Structure.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.WorkflowLibrary.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\EntityFramework.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.Tools.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Newtonsoft.Json.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Oracle.DataAccess.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.Security.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.DataAccess.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.Entity.Model.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.Structure.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.WorkflowLibrary.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.Tools.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\bin\Galatee.Security.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\obj\Debug\Galatee.WorkflowManager.csprojResolveAssemblyReference.cache
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\obj\Debug\Galatee.WorkflowManager.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WorkflowManager\obj\Debug\Galatee.WorkflowManager.pdb

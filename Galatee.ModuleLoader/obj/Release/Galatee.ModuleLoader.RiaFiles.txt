@@ -1,0 +1,2 @@
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.ModuleLoader
+Generated_Code\Galatee.Silverlight.Web.g.cs

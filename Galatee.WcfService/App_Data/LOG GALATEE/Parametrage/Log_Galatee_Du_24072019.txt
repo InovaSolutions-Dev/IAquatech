@@ -1,0 +1,4 @@
+24/07/2019 16:32:51 | LogException | La transaction (ID de processus 142) a été bloquée sur les ressources verrou par un autre processus et a été choisie comme victime. Réexécutez la transaction.
+
+24/07/2019 16:32:51 | ConfigurerPlusieurWorkflowEtCentre | Une erreur s'est produite lors d'une opération de lecture effectuée à partir du lecteur de données du fournisseur de magasins. Pour plus de détails, consultez l'exception interne.
+

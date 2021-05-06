@@ -1,0 +1,20 @@
+31/05/2017 01:21:26 | SyncInvokeGetDevisByNumDemande | Debut =>01:21:26
+
+31/05/2017 01:21:47 | SyncInvokeGetDevisByNumDemande | Fin =>01:21:47
+
+31/05/2017 01:22:49 | SyncInvokeInsertLiaisonCompteur | ORA-12170: TNS:Connect timeout occurred
+
+31/05/2017 01:33:38 | SyncInvokeGetDevisByNumDemande | Debut =>01:33:38
+
+31/05/2017 01:33:44 | SyncInvokeGetDevisByNumDemande | Fin =>01:33:44
+
+31/05/2017 13:22:44 | SyncInvokeGetDevisByNumDemande | Debut =>13:22:44
+
+31/05/2017 13:22:54 | SyncInvokeGetDevisByNumDemande | Fin =>13:22:54
+
+31/05/2017 13:25:04 | SyncInvokeGetDevisByNumDemande | Debut =>13:25:04
+
+31/05/2017 13:25:09 | SyncInvokeGetDevisByNumDemande | Fin =>13:25:09
+
+31/05/2017 16:38:00 | SyncInvokeListeDesDonneesDesSite | Échec du fournisseur sous-jacent sur Open.
+

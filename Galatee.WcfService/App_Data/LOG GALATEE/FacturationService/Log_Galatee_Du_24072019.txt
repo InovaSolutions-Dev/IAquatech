@@ -1,0 +1,6 @@
+24/07/2019 11:55:09 | SyncInvokeEditerLotGenerale | SPX_FAC_EDITIONINDEX:Une erreur de niveau transport s'est produite lors de la réception des résultats du serveur. (provider: TCP Provider, error: 0 - Le nom réseau spécifié n’est plus disponible.)
+
+24/07/2019 12:03:11 | SyncInvokeEditerLotGenerale | SPX_FAC_EDITIONINDEX:Une erreur de niveau transport s'est produite lors de la réception des résultats du serveur. (provider: TCP Provider, error: 0 - Une connexion existante a dû être fermée par l’hôte distant.)
+
+24/07/2019 12:24:12 | SyncInvokeEditerLotGenerale | SPX_FAC_EDITIONINDEX:Une erreur de niveau transport s'est produite lors de la réception des résultats du serveur. (provider: TCP Provider, error: 0 - Le nom réseau spécifié n’est plus disponible.)
+

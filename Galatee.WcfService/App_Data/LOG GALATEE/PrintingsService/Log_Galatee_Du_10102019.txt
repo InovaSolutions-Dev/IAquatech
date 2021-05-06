@@ -1,0 +1,34 @@
+10/10/2019 14:43:28 | SyncInvokesetFromWebPart | 11111144324589
+
+10/10/2019 14:43:30 | Callback | localhost1818
+
+10/10/2019 14:43:30 | RenderReport | loadData
+
+10/10/2019 14:43:30 | RenderReport | 11111144324589
+
+10/10/2019 14:43:30 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+10/10/2019 14:43:30 | SyncInvokeGetCsPrintFromWebPart | 11111144324589
+
+10/10/2019 14:43:30 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+10/10/2019 14:43:30 | LoadData | 11111144324589
+
+10/10/2019 14:43:30 | LoadData | données trouve
+
+10/10/2019 14:43:30 | LoadData | Parametre non trouvé
+
+10/10/2019 14:43:30 | data | data trouve data count: 421
+
+10/10/2019 14:43:30 | Page_Load | RenderReport retour ok
+
+10/10/2019 14:43:30 | RunExportFile | \\LAP-IV-IWEBS01\Impression|ImpayeCategorieTourneeXls10102019144330|xlsx
+
+10/10/2019 14:43:33 | RunExportFile | Générer byte
+
+10/10/2019 14:43:33 | RunExportFile | Initialiser le filsStream
+
+10/10/2019 14:43:33 | RunExportFile | Création du fichier
+
+10/10/2019 14:43:33 | Page_Load | ICI3
+

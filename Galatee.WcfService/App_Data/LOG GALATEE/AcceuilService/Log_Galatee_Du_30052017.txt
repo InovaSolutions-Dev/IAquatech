@@ -1,0 +1,18 @@
+30/05/2017 15:51:58 | SyncInvokeGetDevisByNumDemande | Debut =>15:51:57
+
+30/05/2017 15:52:38 | SyncInvokeGetDevisByNumDemande | Fin =>15:52:38
+
+30/05/2017 16:09:36 | SyncInvokeGetDevisByNumDemande | Debut =>16:09:36
+
+30/05/2017 16:10:09 | SyncInvokeGetDevisByNumDemande | Fin =>16:10:09
+
+30/05/2017 16:17:09 | SyncInvokeInsertLiaisonCompteur | Délai d'expiration de la demande de connexion
+
+30/05/2017 16:22:20 | SyncInvokeInsertLiaisonCompteur | Délai d'expiration de la demande de connexion
+
+30/05/2017 16:52:29 | SyncInvokeGetDevisByNumDemande | Debut =>16:52:29
+
+30/05/2017 16:52:37 | SyncInvokeGetDevisByNumDemande | Fin =>16:52:37
+
+30/05/2017 16:55:24 | SyncInvokeInsertLiaisonCompteur | ORA-28547: connection to server failed, probable Oracle Net admin error
+

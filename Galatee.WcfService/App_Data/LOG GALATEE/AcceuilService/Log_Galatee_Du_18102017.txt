@@ -1,0 +1,8 @@
+18/10/2017 13:03:01 | SyncInvokeGetDevisByNumDemande | Debut =>13:03:01
+
+18/10/2017 13:03:05 | SyncInvokeGetDevisByNumDemande | Fin =>13:03:05
+
+18/10/2017 13:03:45 | SyncInvokeGetDevisByNumDemande | Debut =>13:03:45
+
+18/10/2017 13:03:47 | SyncInvokeGetDevisByNumDemande | Fin =>13:03:47
+

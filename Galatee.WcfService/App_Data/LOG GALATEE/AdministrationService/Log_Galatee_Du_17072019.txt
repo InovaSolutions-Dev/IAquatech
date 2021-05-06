@@ -1,0 +1,22 @@
+17/07/2019 03:11:58 | LogException | Le chemin réseau n’a pas été trouvé
+
+17/07/2019 03:11:58 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+17/07/2019 03:11:58 | RetourneListePoste | Échec du fournisseur sous-jacent sur Open.
+
+17/07/2019 11:11:09 | SyncInvokeRetourneListeAllUser | ok
+
+17/07/2019 11:21:25 | SyncInvokeRetourneListeAllUser | ok
+
+17/07/2019 11:52:03 | SyncInvokeRetourneListeAllUser | ok
+
+17/07/2019 12:47:36 | SyncInvokeRetourneListeAllUser | ok
+
+17/07/2019 16:20:47 | SyncInvokeRetourneListeAllUser | ok
+
+17/07/2019 16:23:26 | SyncInvokeRetourneListeAllUser | ok
+
+17/07/2019 16:53:00 | SyncInvokeRetourneListeAllUser | ok
+
+17/07/2019 17:23:01 | SyncInvokeRetourneListeAllUser | ok
+

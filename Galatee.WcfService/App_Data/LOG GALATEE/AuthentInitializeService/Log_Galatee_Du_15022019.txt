@@ -1,0 +1,7 @@
+15/02/2019 08:29:13 | LogException | Dépassement du délai d’attente
+
+15/02/2019 08:29:14 | LogException | Le délai d'exécution a expiré. Le délai d'attente s'est écoulé avant la fin de l'opération ou le serveur ne répond pas.
+Une erreur de niveau transport s'est produite lors de la réception des résultats du serveur. (provider: Session Provider, error: 19 - La connexion physique ne peut pas être utilisée)
+
+15/02/2019 08:29:14 | GetStrategieSecuriteActif | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+

@@ -1,0 +1,47 @@
+05/04/2018 13:30:22 | EditionFactureResiliation | La référence d'objet n'est pas définie à une instance d'un objet.
+
+05/04/2018 13:31:07 | EditionFactureResiliation | La référence d'objet n'est pas définie à une instance d'un objet.
+
+05/04/2018 13:34:52 | EditionFactureResiliation | La référence d'objet n'est pas définie à une instance d'un objet.
+
+05/04/2018 13:40:56 | EditionFactureResiliation | La référence d'objet n'est pas définie à une instance d'un objet.
+
+05/04/2018 13:42:51 | EditionFactureResiliation | La référence d'objet n'est pas définie à une instance d'un objet.
+
+05/04/2018 13:46:16 | EditionFactureResiliation | La référence d'objet n'est pas définie à une instance d'un objet.
+
+05/04/2018 13:47:10 | EditionFactureResiliation | La référence d'objet n'est pas définie à une instance d'un objet.
+
+05/04/2018 14:59:44 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+05/04/2018 15:06:29 | LicenceOK | La référence d'objet n'est pas définie à une instance d'un objet.
+
+05/04/2018 15:07:44 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+05/04/2018 15:33:45 | SyncInvokeChargerTousFrequence | Échec du fournisseur sous-jacent sur Open.
+
+05/04/2018 15:33:45 | SyncInvokeChargerTypeBranchement | Échec du fournisseur sous-jacent sur Open.
+
+05/04/2018 15:33:48 | SyncInvokeRetourneCodeRegroupement | Échec du fournisseur sous-jacent sur Open.
+
+05/04/2018 15:33:50 | SyncInvokeChargerCalibreCompteur | Échec du fournisseur sous-jacent sur Open.
+
+
+05/04/2018 16:06:40 | SyncInvokeCalculFactureResilation | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+05/04/2018 16:07:55 | AnnulerFactureResiliation | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+05/04/2018 16:13:12 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+05/04/2018 16:20:01 | EditionFactureResiliation | Tentative d'appel de IsDBNull non valide lorsque le lecteur est fermé.
+
+05/04/2018 16:23:24 | EditionFactureResiliation | Échec du fournisseur sous-jacent sur Open.
+
+05/04/2018 16:25:01 | EditionFactureResiliation | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+

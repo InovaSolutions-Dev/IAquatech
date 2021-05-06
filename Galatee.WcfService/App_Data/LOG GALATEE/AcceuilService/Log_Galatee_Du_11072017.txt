@@ -1,0 +1,9 @@
+11/07/2017 09:37:00 | SyncInvokeListeDesDonneesDesSite | L'entrée 'galadbEntities' a déjà été ajoutée. (C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\Connexion.config line 8)
+
+11/07/2017 09:52:32 | SyncInvokeEclipseSimpleCompteurTransition | Une exception a été levée par l'initialiseur de type pour 'Oracle.DataAccess.Client.OracleCommand'.
+
+11/07/2017 14:55:23 | SyncInvokeListeDesDonneesDesSite | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+11/07/2017 15:23:22 | SyncInvokeValiderDemande | Debut Validation
+

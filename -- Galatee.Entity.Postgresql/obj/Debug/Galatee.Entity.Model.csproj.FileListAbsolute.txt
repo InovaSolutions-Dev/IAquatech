@@ -1,0 +1,40 @@
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Entity.Postgresql\bin\Debug\Galatee.Entity.Model.dll.config
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Entity.Postgresql\bin\Debug\Galatee.Entity.Model.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Entity.Postgresql\bin\Debug\Galatee.Entity.Model.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Entity.Postgresql\bin\Debug\EntityFramework.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Entity.Postgresql\bin\Debug\Galatee.Security.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Entity.Postgresql\bin\Debug\Galatee.Structure.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Entity.Postgresql\bin\Debug\Galatee.Tools.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Entity.Postgresql\bin\Debug\ISF.Common.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Entity.Postgresql\bin\Debug\Galatee.Security.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Entity.Postgresql\bin\Debug\Galatee.Structure.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Entity.Postgresql\bin\Debug\Galatee.Tools.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Entity.Postgresql\obj\Debug\Galatee.Entity.Model.csprojResolveAssemblyReference.cache
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Entity.Postgresql\obj\Debug\Galatee.Entity.Model.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Entity.Postgresql\obj\Debug\Galatee.Entity.Model.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.Entity.Postgresql\bin\Debug\Galatee.Entity.Model.dll.config
+C:\Users\EDMSA\Documents\Galatee\Galatee.Entity.Postgresql\bin\Debug\Galatee.Entity.Model.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Entity.Postgresql\bin\Debug\Galatee.Entity.Model.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.Entity.Postgresql\bin\Debug\EntityFramework.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Entity.Postgresql\bin\Debug\Galatee.Security.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Entity.Postgresql\bin\Debug\Galatee.Structure.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Entity.Postgresql\bin\Debug\Galatee.Tools.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Entity.Postgresql\bin\Debug\Galatee.Security.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.Entity.Postgresql\bin\Debug\Galatee.Structure.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.Entity.Postgresql\bin\Debug\Galatee.Tools.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.Entity.Postgresql\obj\Debug\Galatee.Entity.Model.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.Entity.Postgresql\obj\Debug\Galatee.Entity.Model.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Entity.Postgresql\obj\Debug\Galatee.Entity.Model.pdb
+C:\SOURCES NOUVELLES\Galatee.Entity.Postgresql\bin\Debug\Galatee.Entity.Model.dll.config
+C:\SOURCES NOUVELLES\Galatee.Entity.Postgresql\bin\Debug\Galatee.Entity.Model.dll
+C:\SOURCES NOUVELLES\Galatee.Entity.Postgresql\bin\Debug\Galatee.Entity.Model.pdb
+C:\SOURCES NOUVELLES\Galatee.Entity.Postgresql\bin\Debug\EntityFramework.dll
+C:\SOURCES NOUVELLES\Galatee.Entity.Postgresql\bin\Debug\Galatee.Security.dll
+C:\SOURCES NOUVELLES\Galatee.Entity.Postgresql\bin\Debug\Galatee.Structure.dll
+C:\SOURCES NOUVELLES\Galatee.Entity.Postgresql\bin\Debug\Galatee.Tools.dll
+C:\SOURCES NOUVELLES\Galatee.Entity.Postgresql\bin\Debug\Galatee.Security.pdb
+C:\SOURCES NOUVELLES\Galatee.Entity.Postgresql\bin\Debug\Galatee.Structure.pdb
+C:\SOURCES NOUVELLES\Galatee.Entity.Postgresql\bin\Debug\Galatee.Tools.pdb
+C:\SOURCES NOUVELLES\Galatee.Entity.Postgresql\obj\Debug\Galatee.Entity.Model.csprojResolveAssemblyReference.cache
+C:\SOURCES NOUVELLES\Galatee.Entity.Postgresql\obj\Debug\Galatee.Entity.Model.dll
+C:\SOURCES NOUVELLES\Galatee.Entity.Postgresql\obj\Debug\Galatee.Entity.Model.pdb

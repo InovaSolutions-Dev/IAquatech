@@ -1,0 +1,49 @@
+04/09/2018 11:26:30 | LicenceOK | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=3203; poignée de main=14295; 
+
+04/09/2018 11:50:47 | SyncInvokeChargerRubrique | ChargerRubrique :Échec du fournisseur sous-jacent sur Open.
+
+04/09/2018 11:50:52 | SyncInvokeChargerPuissanceSouscrite | Échec du fournisseur sous-jacent sur Open.
+
+04/09/2018 11:50:57 | SyncInvokeChargerPuissanceInstalle | Échec du fournisseur sous-jacent sur Open.
+
+04/09/2018 11:50:58 | SyncInvokeChargerPuissanceReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+04/09/2018 11:50:58 | SyncInvokeChargerTypeBranchement | Échec du fournisseur sous-jacent sur Open.
+
+04/09/2018 11:51:23 | SyncInvokeRetourneOptionDemande | Échec du fournisseur sous-jacent sur Open.
+
+04/09/2018 11:51:23 | SyncInvokeChargerTousMois | Échec du fournisseur sous-jacent sur Open.
+
+ une instance d'un objet.
+
+04/09/2018 11:51:24 | SyncInvokeChargerLesRueDesSecteur | Échec du fournisseur sous-jacent sur Open.
+
+04/09/2018 11:51:25 | SyncInvokeListeDesProduit | Échec du fournisseur sous-jacent sur Open.
+
+04/09/2018 11:51:25 | SyncInvokeRetourneCategorie | Échec du fournisseur sous-jacent sur Open.
+
+04/09/2018 11:51:27 | SyncInvokeRetourneCodeRegroupement | Échec du fournisseur sous-jacent sur Open.
+
+04/09/2018 11:51:28 | SyncInvokeChargerCalibreCompteur | Échec du fournisseur sous-jacent sur Open.
+
+
+04/09/2018 11:51:28 | SyncInvokeRetourneNationnalite | Échec du fournisseur sous-jacent sur Open.
+
+
+04/09/2018 11:51:29 | SyncInvokeChargerType | Échec du fournisseur sous-jacent sur Open.
+
+04/09/2018 11:51:30 | SyncInvokeRetourneListeTaxe | Échec du fournisseur sous-jacent sur Open.
+
+04/09/2018 11:51:31 | SyncInvokeRetourneTousCoper | Échec du fournisseur sous-jacent sur Open.
+
+04/09/2018 11:51:31 | SyncInvokeChargerCoutDemande | Échec du fournisseur sous-jacent sur Open.
+
+04/09/2018 11:51:32 | SyncInvokeChargerTarifParReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+04/09/2018 11:51:33 | SyncInvokeChargerTarifParCategorie | Échec du fournisseur sous-jacent sur Open.
+
+04/09/2018 12:08:54 | SyncInvokeRetourneOptionDemande | Échec du fournisseur sous-jacent sur Open.
+
+Open.
+

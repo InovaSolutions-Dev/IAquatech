@@ -1,0 +1,3 @@
+04/04/2017 19:56:32 | SyncInvokeListeDesDonneesDesSite | Enregistrement annulé :
+Échec de l'ouverture de session de l'utilisateur '1234567'.
+

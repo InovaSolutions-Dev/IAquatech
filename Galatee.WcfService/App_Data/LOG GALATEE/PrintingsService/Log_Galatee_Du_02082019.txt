@@ -1,0 +1,146 @@
+02/08/2019 11:17:05 | SyncInvokesetFromWebPart | 1111111174517
+
+02/08/2019 11:17:11 | Callback | localhost1818
+
+02/08/2019 11:17:11 | RenderReport | loadData
+
+02/08/2019 11:17:11 | RenderReport | 1111111174517
+
+02/08/2019 11:17:11 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+02/08/2019 11:17:11 | SyncInvokeGetCsPrintFromWebPart | 1111111174517
+
+02/08/2019 11:17:11 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+02/08/2019 11:17:11 | LoadData | 1111111174517
+
+02/08/2019 11:17:11 | LoadData | données trouve
+
+02/08/2019 11:17:11 | LoadData | Parametre non trouvé
+
+02/08/2019 11:17:11 | data | data trouve
+
+02/08/2019 11:17:12 | CreatePDFChemin | ~/Reports/Index/Index.rdlc | Chemin du fichier rdlc
+
+02/08/2019 11:17:12 | CreatePDFChemin | Add DataSources ok
+
+02/08/2019 11:17:12 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+02/08/2019 11:19:19 | SyncInvokesetFromWebPart | 11111111918493
+
+02/08/2019 11:19:21 | Callback | localhost1818
+
+02/08/2019 11:19:21 | RenderReport | loadData
+
+02/08/2019 11:19:21 | RenderReport | 11111111918493
+
+02/08/2019 11:19:21 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+02/08/2019 11:19:21 | SyncInvokeGetCsPrintFromWebPart | 11111111918493
+
+02/08/2019 11:19:21 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+02/08/2019 11:19:22 | LoadData | 11111111918493
+
+02/08/2019 11:19:22 | LoadData | données trouve
+
+02/08/2019 11:19:22 | LoadData | Parametre non trouvé
+
+02/08/2019 11:19:22 | data | data trouve
+
+02/08/2019 11:19:22 | CreatePDFChemin | ~/Reports/Index/Index.rdlc | Chemin du fichier rdlc
+
+02/08/2019 11:19:22 | CreatePDFChemin | Add DataSources ok
+
+02/08/2019 11:19:22 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+02/08/2019 11:20:39 | SyncInvokesetFromWebPart | 11111112039180
+
+02/08/2019 11:20:53 | Callback | localhost1818
+
+02/08/2019 11:20:53 | RenderReport | loadData
+
+02/08/2019 11:20:53 | RenderReport | 11111112039180
+
+02/08/2019 11:20:53 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+02/08/2019 11:20:53 | SyncInvokeGetCsPrintFromWebPart | 11111112039180
+
+02/08/2019 11:20:53 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+02/08/2019 11:20:53 | LoadData | 11111112039180
+
+02/08/2019 11:20:53 | LoadData | données trouve
+
+02/08/2019 11:20:53 | LoadData | Parametre non trouvé
+
+02/08/2019 11:20:53 | data | data trouve
+
+02/08/2019 11:20:53 | CreatePDFChemin | ~/Reports/Index/Index.rdlc | Chemin du fichier rdlc
+
+02/08/2019 11:20:53 | CreatePDFChemin | Add DataSources ok
+
+02/08/2019 11:20:53 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+02/08/2019 11:23:16 | SyncInvokesetFromWebPart | 11111112315549
+
+02/08/2019 11:23:18 | Callback | localhost1818
+
+02/08/2019 11:23:18 | RenderReport | loadData
+
+02/08/2019 11:23:18 | RenderReport | 11111112315549
+
+02/08/2019 11:23:18 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+02/08/2019 11:23:18 | SyncInvokeGetCsPrintFromWebPart | 11111112315549
+
+02/08/2019 11:23:18 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+02/08/2019 11:23:18 | LoadData | 11111112315549
+
+02/08/2019 11:23:18 | LoadData | données trouve
+
+02/08/2019 11:23:18 | LoadData | Parametre non trouvé
+
+02/08/2019 11:23:18 | data | data trouve
+
+02/08/2019 11:23:19 | CreatePDFChemin | ~/Reports/Index/Index.rdlc | Chemin du fichier rdlc
+
+02/08/2019 11:23:19 | CreatePDFChemin | Add DataSources ok
+
+02/08/2019 11:23:19 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+02/08/2019 11:44:50 | SyncInvokesetFromWebPart | 11111114449962
+
+02/08/2019 11:44:52 | Callback | localhost1818
+
+02/08/2019 11:44:53 | RenderReport | loadData
+
+02/08/2019 11:44:53 | RenderReport | 11111114449962
+
+02/08/2019 11:44:53 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+02/08/2019 11:44:53 | SyncInvokeGetCsPrintFromWebPart | 11111114449962
+
+02/08/2019 11:44:53 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+02/08/2019 11:44:53 | LoadData | 11111114449962
+
+02/08/2019 11:44:53 | LoadData | données trouve
+
+02/08/2019 11:44:53 | LoadData | Parametre non trouvé
+
+02/08/2019 11:44:53 | data | data trouve data count: 2
+
+02/08/2019 11:44:53 | Page_Load | RenderReport retour ok
+
+02/08/2019 11:44:53 | RunExportFile | \\LAP-IV-IWEBS01\Impression|Impayes282019114453|xlsx
+
+02/08/2019 11:44:55 | RunExportFile | Générer byte
+
+02/08/2019 11:44:55 | RunExportFile | Initialiser le filsStream
+
+02/08/2019 11:44:55 | RunExportFile | Création du fichier
+
+02/08/2019 11:44:55 | Page_Load | ICI3
+

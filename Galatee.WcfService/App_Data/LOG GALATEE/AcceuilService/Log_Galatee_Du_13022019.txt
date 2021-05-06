@@ -1,0 +1,49 @@
+13/02/2019 01:26:53 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+13/02/2019 02:44:15 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+13/02/2019 03:06:01 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+13/02/2019 03:18:05 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+13/02/2019 03:49:20 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+13/02/2019 03:49:48 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+
+13/02/2019 03:51:59 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+
+13/02/2019 08:33:50 | LicenceOK | L'entrée 'galadbEntities' a déjà été ajoutée. (E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\Connexion.config line 5)
+
+13/02/2019 08:34:26 | LicenceOK | L'entrée 'galadbEntities' a déjà été ajoutée. (E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\Connexion.config line 5)
+
+13/02/2019 08:38:36 | SyncInvokeCalculFactureResilation | SPX_CALCUL_FACTURATION_BT (00100001) : Nom d'objet 'ABO07..CREDFAC' non valide.
+Le nombre des transactions après EXECUTE indique un nombre différent d'instructions BEGIN et COMMIT. Nombre précédent = 0, nombre actuel = 1.
+
+13/02/2019 08:38:51 | AnnulerFactureResiliation | La valeur ne peut pas être null.
+Nom du paramètre : source
+
+13/02/2019 10:19:37 | ValiderFacturation | SPX_MISE_A_JOUR_FACTURATION (00100001) : Conflit de types d'opérandes : int est incompatible avec uniqueidentifier
+Conflit de types d'opérandes : int est incompatible avec uniqueidentifier
+
+13/02/2019 10:26:13 | ValiderFacturation | SPX_MISE_A_JOUR_FACTURATION (00100001) : Conflit de types d'opérandes : int est incompatible avec uniqueidentifier
+Conflit de types d'opérandes : int est incompatible avec uniqueidentifier
+
+13/02/2019 10:37:43 | ValiderFacturation | La référence d'objet n'est pas définie à une instance d'un objet.
+
+13/02/2019 10:47:49 | ValiderFacturation | La référence d'objet n'est pas définie à une instance d'un objet.
+
+13/02/2019 10:55:38 | ValiderFacturation | SPX_MISE_A_JOUR_FACTURATION (00100001) : Les données de chaîne ou binaires seront tronquées.
+L'instruction a été arrêtée.
+
+13/02/2019 11:09:21 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+13/02/2019 11:11:56 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+13/02/2019 11:57:30 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+
+13/02/2019 12:54:45 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+
+13/02/2019 12:57:04 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+13/02/2019 22:26:45 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+

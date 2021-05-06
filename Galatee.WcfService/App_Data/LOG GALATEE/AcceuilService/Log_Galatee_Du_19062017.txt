@@ -1,0 +1,36 @@
+19/06/2017 11:39:41 | SyncInvokeValiderDemande | Debut Validation
+
+19/06/2017 11:49:46 | SyncInvokeValiderDemande | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+19/06/2017 12:06:34 | SyncInvokeValiderDemande | Debut Validation
+
+19/06/2017 12:10:15 | SyncInvokeValiderDemande | Debut Validation
+
+19/06/2017 12:17:50 | SyncInvokeValiderDemande | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+19/06/2017 12:22:46 | SyncInvokeValiderDemande | Debut Validation
+
+19/06/2017 12:25:11 | SyncInvokeValiderDemande | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+19/06/2017 13:06:22 | SyncInvokeValiderDemande | Debut Validation
+
+19/06/2017 13:08:24 | SyncInvokeValiderDemande | Debut Validation
+
+19/06/2017 13:12:08 | SyncInvokeValiderDemande | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+19/06/2017 13:41:17 | SyncInvokeValiderDemande | Debut Validation
+
+19/06/2017 13:43:01 | SyncInvokeValiderDemande | Debut Validation
+
+19/06/2017 13:50:21 | SyncInvokeValiderDemande | Debut Validation
+
+19/06/2017 14:00:32 | SyncInvokeValiderDemande | Debut Validation
+
+19/06/2017 14:01:02 | SyncInvokeValiderDemande | Debut Validation
+
+19/06/2017 16:54:00 | SyncInvokeChargerLesTournees | La référence d'objet n'est pas définie à une instance d'un objet.
+
+19/06/2017 22:57:26 | SyncInvokeValiderDemande | Debut Validation
+
+19/06/2017 23:32:17 | SyncInvokeValiderDemande | Debut Validation
+

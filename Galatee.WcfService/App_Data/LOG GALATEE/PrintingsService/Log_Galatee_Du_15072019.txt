@@ -1,0 +1,792 @@
+15/07/2019 13:56:10 | SyncInvokesetFromWebPart | 11111135610699
+
+15/07/2019 13:56:11 | SyncInvokesetFromWebPart | Le processus ne peut pas accéder au fichier 'F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\App_Data\LOG GALATEE\PrintingsService\Log_Galatee_Du_15072019.txt', car il est en cours d'utilisation par un autre processus.
+
+15/07/2019 13:56:13 | Callback | localhost1818
+
+15/07/2019 13:56:13 | RenderReport | loadData
+
+15/07/2019 13:56:13 | RenderReport | 11111135610699
+
+15/07/2019 13:56:13 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 13:56:13 | SyncInvokeGetCsPrintFromWebPart | 11111135610699
+
+15/07/2019 13:56:13 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 13:56:13 | LoadData | 11111135610699
+
+15/07/2019 13:56:13 | LoadData | données trouve
+
+15/07/2019 13:56:13 | LoadData | Parametre trouvé
+
+15/07/2019 13:56:13 | data | data trouve
+
+15/07/2019 13:56:13 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 13:56:14 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 13:56:14 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 13:56:14 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 14:10:16 | SyncInvokesetFromWebPart | 11111141015996
+
+15/07/2019 14:10:16 | Callback | localhost1818
+
+15/07/2019 14:10:16 | Callback | localhost1818
+
+15/07/2019 14:10:16 | RenderReport | loadData
+
+15/07/2019 14:10:16 | RenderReport | loadData
+
+15/07/2019 14:10:16 | RenderReport | 11111141015864
+
+15/07/2019 14:10:16 | RenderReport | 11111141015996
+
+15/07/2019 14:10:16 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 14:10:16 | SyncInvokeGetCsPrintFromWebPart | 11111141015864
+
+15/07/2019 14:10:16 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 14:10:16 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 14:10:16 | SyncInvokeGetCsPrintFromWebPart | 11111141015996
+
+15/07/2019 14:10:16 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 14:10:16 | LoadData | 11111141015864
+
+15/07/2019 14:10:16 | LoadData | 11111141015996
+
+15/07/2019 14:10:16 | LoadData | données trouve
+
+15/07/2019 14:10:16 | LoadData | données trouve
+
+15/07/2019 14:10:16 | LoadData | Parametre trouvé
+
+15/07/2019 14:10:16 | LoadData | Parametre trouvé
+
+15/07/2019 14:10:16 | data | data trouve
+
+15/07/2019 14:10:16 | data | data trouve
+
+15/07/2019 14:10:16 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 14:10:16 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 14:10:17 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 14:10:17 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 14:10:17 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 14:10:17 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 14:10:17 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 14:10:17 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 14:11:10 | SyncInvokesetFromWebPart | 11111141110896
+
+15/07/2019 14:11:10 | Callback | localhost1818
+
+15/07/2019 14:11:10 | RenderReport | loadData
+
+15/07/2019 14:11:10 | RenderReport | 11111141110896
+
+15/07/2019 14:11:11 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 14:11:11 | SyncInvokeGetCsPrintFromWebPart | 11111141110896
+
+15/07/2019 14:11:11 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 14:11:11 | LoadData | 11111141110896
+
+15/07/2019 14:11:11 | LoadData | données trouve
+
+15/07/2019 14:11:11 | LoadData | Parametre trouvé
+
+15/07/2019 14:11:11 | data | data trouve
+
+15/07/2019 14:11:11 | CreatePDFChemin | ~/Reports/Caisse/ListeCaisse.rdlc | Chemin du fichier rdlc
+
+15/07/2019 14:11:11 | CreatePDFChemin | pcentre : System.Collections.Specialized.StringCollection  pdatefin : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 14:11:11 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 14:11:11 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 15:50:09 | SyncInvokesetFromWebPart | 1111115508758
+
+15/07/2019 15:50:10 | Callback | localhost1818
+
+15/07/2019 15:50:10 | Callback | localhost1818
+
+15/07/2019 15:50:10 | RenderReport | loadData
+
+15/07/2019 15:50:10 | RenderReport | loadData
+
+15/07/2019 15:50:10 | RenderReport | 1111115508877
+
+15/07/2019 15:50:10 | RenderReport | 1111115508758
+
+15/07/2019 15:50:10 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 15:50:10 | SyncInvokeGetCsPrintFromWebPart | 1111115508758
+
+15/07/2019 15:50:10 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 15:50:10 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 15:50:10 | LoadData | 1111115508877
+
+15/07/2019 15:50:10 | LoadData | 1111115508758
+
+15/07/2019 15:50:10 | LoadData | données trouve
+
+15/07/2019 15:50:10 | LoadData | données trouve
+
+15/07/2019 15:50:10 | LoadData | Parametre trouvé
+
+15/07/2019 15:50:10 | LoadData | Parametre trouvé
+
+15/07/2019 15:50:10 | data | data trouve
+
+15/07/2019 15:50:10 | data | data trouve
+
+15/07/2019 15:50:10 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 15:50:10 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 15:50:11 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 15:50:11 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 15:50:11 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 15:50:11 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 15:50:11 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 15:50:11 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 15:50:51 | SyncInvokesetFromWebPart | 11111155051315
+
+15/07/2019 15:50:51 | SyncInvokesetFromWebPart | 11111155051318
+
+15/07/2019 15:50:51 | Callback | localhost1818
+
+15/07/2019 15:50:51 | Callback | localhost1818
+
+15/07/2019 15:50:51 | RenderReport | loadData
+
+15/07/2019 15:50:51 | RenderReport | loadData
+
+15/07/2019 15:50:51 | RenderReport | 11111155051315
+
+15/07/2019 15:50:51 | RenderReport | 11111155051318
+
+15/07/2019 15:50:51 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 15:50:51 | SyncInvokeGetCsPrintFromWebPart | 11111155051315
+
+15/07/2019 15:50:51 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 15:50:51 | SyncInvokeGetCsPrintFromWebPart | 11111155051318
+
+15/07/2019 15:50:51 | LoadData | 11111155051315
+
+15/07/2019 15:50:51 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 15:50:51 | LoadData | données trouve
+
+15/07/2019 15:50:51 | LoadData | 11111155051318
+
+15/07/2019 15:50:51 | LoadData | données trouve
+
+15/07/2019 15:50:51 | LoadData | Parametre trouvé
+
+15/07/2019 15:50:51 | LoadData | Parametre trouvé
+
+15/07/2019 15:50:51 | data | data trouve
+
+15/07/2019 15:50:51 | data | data trouve
+
+15/07/2019 15:50:51 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 15:50:51 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 15:50:52 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 15:50:52 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 15:50:52 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 15:50:52 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 15:50:52 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 15:50:52 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 15:58:01 | SyncInvokesetFromWebPart | 1111115581288
+
+15/07/2019 15:58:01 | SyncInvokesetFromWebPart | 1111115581283
+
+15/07/2019 15:58:01 | Callback | localhost1818
+
+15/07/2019 15:58:01 | Callback | localhost1818
+
+15/07/2019 15:58:01 | RenderReport | loadData
+
+15/07/2019 15:58:01 | RenderReport | loadData
+
+15/07/2019 15:58:01 | RenderReport | 1111115581288
+
+15/07/2019 15:58:01 | RenderReport | 1111115581283
+
+15/07/2019 15:58:01 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 15:58:01 | SyncInvokeGetCsPrintFromWebPart | 1111115581288
+
+15/07/2019 15:58:01 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 15:58:01 | LoadData | 1111115581288
+
+15/07/2019 15:58:01 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 15:58:01 | SyncInvokeGetCsPrintFromWebPart | 1111115581283
+
+15/07/2019 15:58:01 | LoadData | données trouve
+
+15/07/2019 15:58:01 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 15:58:01 | LoadData | 1111115581283
+
+15/07/2019 15:58:01 | LoadData | Parametre trouvé
+
+15/07/2019 15:58:01 | LoadData | données trouve
+
+15/07/2019 15:58:01 | data | data trouve
+
+15/07/2019 15:58:01 | LoadData | Parametre trouvé
+
+15/07/2019 15:58:01 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 15:58:01 | data | data trouve
+
+15/07/2019 15:58:01 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 15:58:01 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 15:58:01 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 15:58:01 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 15:58:01 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 15:58:01 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 15:58:02 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 16:13:52 | SyncInvokesetFromWebPart | 11111161352512
+
+15/07/2019 16:13:52 | SyncInvokesetFromWebPart | 11111161352516
+
+15/07/2019 16:13:52 | Callback | localhost1818
+
+15/07/2019 16:13:52 | Callback | localhost1818
+
+15/07/2019 16:13:52 | RenderReport | loadData
+
+15/07/2019 16:13:52 | RenderReport | loadData
+
+15/07/2019 16:13:52 | RenderReport | 11111161352512
+
+15/07/2019 16:13:52 | RenderReport | 11111161352516
+
+15/07/2019 16:13:52 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 16:13:52 | SyncInvokeGetCsPrintFromWebPart | 11111161352512
+
+15/07/2019 16:13:52 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 16:13:52 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 16:13:52 | LoadData | 11111161352512
+
+rt | 11111161352516
+
+15/07/2019 16:13:52 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 16:13:52 | LoadData | données trouve
+
+15/07/2019 16:13:52 | LoadData | 11111161352516
+
+15/07/2019 16:13:52 | LoadData | données trouve
+
+15/07/2019 16:13:52 | LoadData | Parametre trouvé
+
+15/07/2019 16:13:52 | LoadData | Parametre trouvé
+
+15/07/2019 16:13:52 | data | data trouve
+
+15/07/2019 16:13:52 | data | data trouve
+
+15/07/2019 16:13:52 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 16:13:52 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 16:13:53 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 16:13:53 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 16:13:53 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 16:13:53 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 16:13:53 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 16:13:53 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 17:23:24 | SyncInvokesetFromWebPart | 11111172323873
+
+15/07/2019 17:23:24 | Callback | localhost1818
+
+15/07/2019 17:23:24 | Callback | localhost1818
+
+15/07/2019 17:23:24 | RenderReport | loadData
+
+15/07/2019 17:23:24 | RenderReport | loadData
+
+15/07/2019 17:23:24 | RenderReport | 11111172323996
+
+15/07/2019 17:23:24 | RenderReport | 11111172323873
+
+15/07/2019 17:23:24 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 17:23:24 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 17:23:24 | SyncInvokeGetCsPrintFromWebPart | 11111172323996
+
+15/07/2019 17:23:24 | SyncInvokeGetCsPrintFromWebPart | 11111172323873
+
+15/07/2019 17:23:24 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 17:23:24 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 17:23:24 | LoadData | 11111172323873
+
+15/07/2019 17:23:24 | LoadData | 11111172323996
+
+15/07/2019 17:23:24 | LoadData | données trouve
+
+15/07/2019 17:23:24 | LoadData | données trouve
+
+15/07/2019 17:23:24 | LoadData | Parametre trouvé
+
+15/07/2019 17:23:24 | LoadData | Parametre trouvé
+
+15/07/2019 17:23:24 | data | data trouve
+
+15/07/2019 17:23:24 | data | data trouve
+
+15/07/2019 17:23:24 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 17:23:24 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 17:23:26 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 17:23:26 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 17:23:26 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 17:23:26 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 17:23:26 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 17:23:26 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 17:23:59 | SyncInvokesetFromWebPart | 11111172359161
+
+15/07/2019 17:23:59 | Callback | localhost1818
+
+15/07/2019 17:23:59 | Callback | localhost1818
+
+15/07/2019 17:23:59 | RenderReport | loadData
+
+15/07/2019 17:23:59 | RenderReport | 11111172359161
+
+15/07/2019 17:23:59 | RenderReport | loadData
+
+15/07/2019 17:23:59 | RenderReport | 11111172359157
+
+15/07/2019 17:23:59 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 17:23:59 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 17:23:59 | SyncInvokeGetCsPrintFromWebPart | 11111172359161
+
+15/07/2019 17:23:59 | SyncInvokeGetCsPrintFromWebPart | 11111172359157
+
+15/07/2019 17:23:59 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 17:23:59 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 17:23:59 | LoadData | 11111172359161
+
+15/07/2019 17:23:59 | LoadData | 11111172359157
+
+15/07/2019 17:23:59 | LoadData | données trouve
+
+15/07/2019 17:23:59 | LoadData | données trouve
+
+15/07/2019 17:23:59 | LoadData | Parametre non trouvé
+
+15/07/2019 17:23:59 | LoadData | Parametre trouvé
+
+15/07/2019 17:23:59 | data | data trouve
+
+15/07/2019 17:23:59 | data | data trouve
+
+15/07/2019 17:23:59 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 17:23:59 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 17:23:59 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 17:23:59 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 17:23:59 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 17:23:59 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 17:23:59 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 17:28:12 | SyncInvokesetFromWebPart | 1111117281280
+
+15/07/2019 17:28:12 | SyncInvokesetFromWebPart | 1111117281276
+
+15/07/2019 17:28:12 | Callback | localhost1818
+
+15/07/2019 17:28:12 | Callback | localhost1818
+
+15/07/2019 17:28:12 | RenderReport | loadData
+
+15/07/2019 17:28:12 | RenderReport | loadData
+
+15/07/2019 17:28:12 | RenderReport | 1111117281276
+
+15/07/2019 17:28:12 | RenderReport | 1111117281280
+
+15/07/2019 17:28:12 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 17:28:12 | SyncInvokeGetCsPrintFromWebPart | 1111117281276
+
+15/07/2019 17:28:12 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 17:28:12 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 17:28:12 | SyncInvokeGetCsPrintFromWebPart | 1111117281280
+
+15/07/2019 17:28:12 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 17:28:12 | LoadData | 1111117281276
+
+15/07/2019 17:28:12 | LoadData | 1111117281280
+
+15/07/2019 17:28:12 | LoadData | données trouve
+
+15/07/2019 17:28:12 | LoadData | données trouve
+
+15/07/2019 17:28:12 | LoadData | Parametre trouvé
+
+15/07/2019 17:28:12 | LoadData | Parametre trouvé
+
+15/07/2019 17:28:12 | data | data trouve
+
+15/07/2019 17:28:12 | data | data trouve
+
+15/07/2019 17:28:12 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 17:28:12 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 17:28:12 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 17:28:12 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 17:28:12 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 17:28:12 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 17:28:12 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 17:28:12 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 17:38:16 | PrintingFromService | 11111173816565
+
+15/07/2019 17:38:16 | Callback | localhost1818
+
+15/07/2019 17:38:17 | RenderReport | loadData
+
+15/07/2019 17:38:17 | RenderReport | 11111173816565
+
+15/07/2019 17:38:17 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 17:38:17 | SyncInvokeGetCsPrintFromWebPart | 11111173816565
+
+15/07/2019 17:38:17 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 17:38:17 | LoadData | 11111173816565
+
+15/07/2019 17:38:17 | LoadData | données trouve
+
+15/07/2019 17:38:17 | LoadData | Parametre trouvé
+
+15/07/2019 17:38:17 | data | data trouve data count: 160
+
+15/07/2019 17:38:18 | Page_Load | RenderReport retour ok
+
+15/07/2019 17:38:18 | RunExportFile | \\LAP-IV-IWEBS01\Impression|FactureSimpleO19051032A1572019173818|pdf
+
+15/07/2019 17:38:20 | Page_Load | ICI3
+
+15/07/2019 17:50:53 | SyncInvokesetFromWebPart | 11111175053722
+
+15/07/2019 17:50:54 | Callback | localhost1818
+
+15/07/2019 17:50:54 | Callback | localhost1818
+
+15/07/2019 17:50:54 | RenderReport | loadData
+
+15/07/2019 17:50:54 | RenderReport | loadData
+
+15/07/2019 17:50:54 | RenderReport | 11111175053722
+
+15/07/2019 17:50:54 | RenderReport | 11111175053851
+
+15/07/2019 17:50:54 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 17:50:54 | SyncInvokeGetCsPrintFromWebPart | 11111175053722
+
+15/07/2019 17:50:54 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 17:50:54 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 17:50:54 | SyncInvokeGetCsPrintFromWebPart | 11111175053851
+
+15/07/2019 17:50:54 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 17:50:54 | LoadData | 11111175053722
+
+15/07/2019 17:50:54 | LoadData | 11111175053851
+
+15/07/2019 17:50:54 | LoadData | données trouve
+
+15/07/2019 17:50:54 | LoadData | données trouve
+
+15/07/2019 17:50:54 | LoadData | Parametre trouvé
+
+15/07/2019 17:50:54 | LoadData | Parametre trouvé
+
+15/07/2019 17:50:54 | data | data trouve
+
+15/07/2019 17:50:54 | data | data trouve
+
+15/07/2019 17:50:54 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 17:50:54 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+15/07/2019 17:50:55 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 17:50:55 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 17:50:55 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 17:50:55 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 17:50:55 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 17:50:55 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 17:58:42 | SyncInvokesetFromWebPart | 11111175842421
+
+15/07/2019 17:58:42 | Callback | localhost1818
+
+15/07/2019 17:58:42 | RenderReport | loadData
+
+15/07/2019 17:58:42 | RenderReport | 11111175842421
+
+15/07/2019 17:58:42 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 17:58:42 | SyncInvokeGetCsPrintFromWebPart | 11111175842421
+
+15/07/2019 17:58:42 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 17:58:42 | LoadData | 11111175842421
+
+15/07/2019 17:58:42 | LoadData | données trouve
+
+15/07/2019 17:58:42 | LoadData | Parametre trouvé
+
+15/07/2019 17:58:42 | data | data trouve
+
+15/07/2019 17:58:42 | CreatePDFChemin | ~/Reports/Recouvrement/moratoire.rdlc | Chemin du fichier rdlc
+
+15/07/2019 17:58:43 | CreatePDFChemin | pCentre : System.Collections.Specialized.StringCollection  pExigibilite : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 17:58:43 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 17:58:43 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 18:21:25 | SyncInvokesetFromWebPart | 11111182125492
+
+15/07/2019 18:21:26 | Callback | localhost1818
+
+15/07/2019 18:21:26 | RenderReport | loadData
+
+15/07/2019 18:21:26 | RenderReport | 11111182125492
+
+15/07/2019 18:21:26 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 18:21:26 | SyncInvokeGetCsPrintFromWebPart | 11111182125492
+
+15/07/2019 18:21:26 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 18:21:26 | LoadData | 11111182125492
+
+15/07/2019 18:21:26 | LoadData | données trouve
+
+15/07/2019 18:21:26 | LoadData | Parametre trouvé
+
+15/07/2019 18:21:26 | data | data trouve
+
+15/07/2019 18:21:26 | CreatePDFChemin | ~/Reports/Recouvrement/moratoire.rdlc | Chemin du fichier rdlc
+
+15/07/2019 18:21:27 | CreatePDFChemin | pCentre : System.Collections.Specialized.StringCollection  pExigibilite : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 18:21:27 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 18:21:27 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 18:29:08 | SyncInvokesetFromWebPart | 1111118298398
+
+15/07/2019 18:29:09 | Callback | localhost1818
+
+15/07/2019 18:29:09 | RenderReport | loadData
+
+15/07/2019 18:29:09 | RenderReport | 1111118298398
+
+15/07/2019 18:29:09 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 18:29:09 | SyncInvokeGetCsPrintFromWebPart | 1111118298398
+
+15/07/2019 18:29:09 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 18:29:09 | LoadData | 1111118298398
+
+15/07/2019 18:29:09 | LoadData | données trouve
+
+15/07/2019 18:29:09 | LoadData | Parametre trouvé
+
+15/07/2019 18:29:09 | data | data trouve
+
+15/07/2019 18:29:09 | CreatePDFChemin | ~/Reports/Recouvrement/moratoire.rdlc | Chemin du fichier rdlc
+
+15/07/2019 18:29:10 | CreatePDFChemin | pCentre : System.Collections.Specialized.StringCollection  pExigibilite : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 18:29:10 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 18:29:10 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 18:43:02 | SyncInvokesetFromWebPart | 1111118432152
+
+15/07/2019 18:43:02 | Callback | localhost1818
+
+15/07/2019 18:43:02 | RenderReport | loadData
+
+15/07/2019 18:43:02 | RenderReport | 1111118432152
+
+15/07/2019 18:43:02 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 18:43:02 | SyncInvokeGetCsPrintFromWebPart | 1111118432152
+
+15/07/2019 18:43:03 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 18:43:03 | LoadData | 1111118432152
+
+15/07/2019 18:43:03 | LoadData | données trouve
+
+15/07/2019 18:43:03 | LoadData | Parametre trouvé
+
+15/07/2019 18:43:03 | data | data trouve
+
+15/07/2019 18:43:03 | CreatePDFChemin | ~/Reports/Recouvrement/moratoire.rdlc | Chemin du fichier rdlc
+
+15/07/2019 18:43:03 | CreatePDFChemin | pCentre : System.Collections.Specialized.StringCollection  pExigibilite : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 18:43:03 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 18:43:03 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 18:46:06 | SyncInvokesetFromWebPart | 1111118466214
+
+15/07/2019 18:46:06 | Callback | localhost1818
+
+15/07/2019 18:46:06 | RenderReport | loadData
+
+15/07/2019 18:46:06 | RenderReport | 1111118466214
+
+15/07/2019 18:46:06 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 18:46:06 | SyncInvokeGetCsPrintFromWebPart | 1111118466214
+
+15/07/2019 18:46:06 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 18:46:06 | LoadData | 1111118466214
+
+15/07/2019 18:46:06 | LoadData | données trouve
+
+15/07/2019 18:46:06 | LoadData | Parametre trouvé
+
+15/07/2019 18:46:06 | data | data trouve
+
+15/07/2019 18:46:06 | CreatePDFChemin | ~/Reports/Recouvrement/moratoire.rdlc | Chemin du fichier rdlc
+
+15/07/2019 18:46:07 | CreatePDFChemin | pCentre : System.Collections.Specialized.StringCollection  pExigibilite : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 18:46:07 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 18:46:07 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+15/07/2019 18:54:33 | SyncInvokesetFromWebPart | 11111185432654
+
+15/07/2019 18:54:33 | Callback | localhost1818
+
+15/07/2019 18:54:33 | RenderReport | loadData
+
+15/07/2019 18:54:33 | RenderReport | 11111185432654
+
+15/07/2019 18:54:33 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/07/2019 18:54:33 | SyncInvokeGetCsPrintFromWebPart | 11111185432654
+
+15/07/2019 18:54:33 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/07/2019 18:54:33 | LoadData | 11111185432654
+
+15/07/2019 18:54:33 | LoadData | données trouve
+
+15/07/2019 18:54:33 | LoadData | Parametre trouvé
+
+15/07/2019 18:54:33 | data | data trouve
+
+15/07/2019 18:54:33 | CreatePDFChemin | ~/Reports/Recouvrement/moratoire.rdlc | Chemin du fichier rdlc
+
+15/07/2019 18:54:34 | CreatePDFChemin | pCentre : System.Collections.Specialized.StringCollection  pExigibilite : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/07/2019 18:54:34 | CreatePDFChemin | Add DataSources ok
+
+15/07/2019 18:54:34 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+

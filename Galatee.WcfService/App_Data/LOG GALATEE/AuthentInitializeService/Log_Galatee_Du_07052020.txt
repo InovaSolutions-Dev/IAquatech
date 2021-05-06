@@ -1,0 +1,14 @@
+07/05/2020 16:29:19 | GetStrategieSecuriteActif | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:19 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+07/05/2020 16:29:56 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+07/05/2020 16:47:47 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+07/05/2020 16:47:47 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+07/05/2020 18:25:39 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+07/05/2020 18:25:40 | SyncInvokereturnEnumereWrapper | Suite traitement
+

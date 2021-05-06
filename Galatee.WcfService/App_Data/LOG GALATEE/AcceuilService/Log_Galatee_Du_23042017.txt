@@ -1,0 +1,130 @@
+23/04/2017 09:32:07 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:08 | RecursifSet | 0263993148678
+
+23/04/2017 09:32:18 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:18 | RecursifSet | 0263993148678
+
+23/04/2017 09:32:43 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:43 | RecursifSet | 0263993148678
+
+23/04/2017 09:32:43 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:43 | RecursifSet | 0263993148678
+
+23/04/2017 09:32:43 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:44 | RecursifSet | 0263993148678
+
+23/04/2017 09:32:44 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:44 | RecursifSet | 0263993148678
+
+23/04/2017 09:32:44 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:44 | RecursifSet | 0263993148678
+
+23/04/2017 09:32:44 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:44 | RecursifSet | 0263993148678
+
+23/04/2017 09:32:44 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:44 | RecursifSet | 0263993148678
+
+23/04/2017 09:32:44 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:44 | RecursifSet | 0263993148678
+
+23/04/2017 09:32:44 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:44 | RecursifSet | 0263993148678
+
+23/04/2017 09:32:44 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:44 | RecursifSet | 0263993148678
+
+23/04/2017 09:32:44 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:44 | RecursifSet | 0263993148678
+
+23/04/2017 09:32:44 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:44 | RecursifSet | 0263993148678
+
+23/04/2017 09:32:44 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:44 | RecursifSet | 0263993148678
+
+23/04/2017 09:32:44 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:44 | RecursifSet | 0263993148678
+
+23/04/2017 09:32:44 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:44 | RecursifSet | 0263993148678
+
+23/04/2017 09:32:44 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:44 | RecursifSet | 0263993148678
+
+23/04/2017 09:32:44 | RecursifSet | Lecture debut
+
+23/04/2017 09:32:44 | RecursifSet | 0263993148678
+
+23/04/2017 17:43:51 | SyncInvokeValiderDemande | Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+23/04/2017 17:44:46 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+
+23/04/2017 21:20:04 | SyncInvokesetFromWebPartWithSplit | Lecture debut
+
+23/04/2017 21:20:04 | SyncInvokesetFromWebPartWithSplit | 01485211944761
+
+23/04/2017 21:20:05 | SyncInvokesetFromWebPartWithSplit | Lecture debut
+
+23/04/2017 21:20:05 | SyncInvokesetFromWebPartWithSplit | 01485211944761
+
+23/04/2017 21:20:05 | SyncInvokesetFromWebPartWithSplit | Lecture debut
+
+23/04/2017 21:20:05 | SyncInvokesetFromWebPartWithSplit | 01485211944761
+
+23/04/2017 21:20:05 | SyncInvokesetFromWebPartWithSplit | Lecture debut
+
+23/04/2017 21:20:05 | SyncInvokesetFromWebPartWithSplit | 01485211944761
+
+23/04/2017 21:23:05 | SyncInvokesetFromWebPartWithSplit | Lecture debut
+
+23/04/2017 21:23:05 | SyncInvokesetFromWebPartWithSplit | 01485212259236
+
+23/04/2017 21:23:05 | SyncInvokesetFromWebPartWithSplit | Lecture debut
+
+23/04/2017 21:23:05 | SyncInvokesetFromWebPartWithSplit | 01485212259236
+
+23/04/2017 21:23:05 | SyncInvokesetFromWebPartWithSplit | Lecture debut
+
+23/04/2017 21:23:05 | SyncInvokesetFromWebPartWithSplit | 01485212259236
+
+23/04/2017 21:23:05 | SyncInvokesetFromWebPartWithSplit | Lecture debut
+
+23/04/2017 21:23:05 | SyncInvokesetFromWebPartWithSplit | 01485212259236
+
+23/04/2017 21:25:15 | SyncInvokesetFromWebPartWithSplit | Lecture debut
+
+23/04/2017 21:25:15 | SyncInvokesetFromWebPartWithSplit | 0148521251368
+
+23/04/2017 22:44:19 | SyncInvokeListeDesDonneesDesSite | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+23/04/2017 22:45:46 | SyncInvokeListeDesDonneesDesSite | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+23/04/2017 23:39:40 | SyncInvokesetFromWebPartWithSplit | Lecture debut
+
+23/04/2017 23:39:40 | SyncInvokesetFromWebPartWithSplit | 01485233859199
+
+23/04/2017 23:58:33 | SyncInvokesetFromWebPartWithSplit | Lecture debut
+
+23/04/2017 23:58:33 | SyncInvokesetFromWebPartWithSplit | 01485235832118
+

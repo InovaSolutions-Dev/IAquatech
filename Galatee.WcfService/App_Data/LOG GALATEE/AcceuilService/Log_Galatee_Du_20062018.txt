@@ -1,0 +1,37 @@
+20/06/2018 15:14:45 | SyncInvokeRetourneNationnalite | Échec du fournisseur sous-jacent sur Open.
+
+20/06/2018 15:14:45 | SyncInvokeRetourneCodeConsomateur | Échec du fournisseur sous-jacent sur Open.
+
+20/06/2018 15:14:45 | SyncInvokeChargerCalibreCompteur | Échec du fournisseur sous-jacent sur Open.
+
+20/06/2018 15:14:45 | SyncInvokeRetourneToutCadran | Échec du fournisseur sous-jacent sur Open.
+
+20/06/2018 15:14:45 | SyncInvokeRetourneToutMarque | Échec du fournisseur sous-jacent sur Open.
+
+20/06/2018 15:14:45 | SyncInvokeChargerType | Échec du fournisseur sous-jacent sur Open.
+
+20/06/2018 15:14:45 | SyncInvokeRetourneListeTaxe | Échec du fournisseur sous-jacent sur Open.
+
+20/06/2018 15:14:46 | SyncInvokeChargerCoutDemande | Échec du fournisseur sous-jacent sur Open.
+
+20/06/2018 15:14:46 | SyncInvokeRetourneTousCoper | Échec du fournisseur sous-jacent sur Open.
+
+20/06/2018 15:14:46 | SyncInvokeRetourneListeDesCas | Échec du fournisseur sous-jacent sur Open.
+
+20/06/2018 15:14:46 | SyncInvokeChargerTarifParCategorie | Échec du fournisseur sous-jacent sur Open.
+
+20/06/2018 15:14:46 | SyncInvokeChargerTarifParReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+20/06/2018 15:30:10 | LogException | Une erreur de niveau transport s'est produite lors de la réception des résultats du serveur. (provider: Session Provider, error: 19 - La connexion physique ne peut pas être utilisée)
+
+20/06/2018 15:30:10 | ChargerTypeDocument | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+20/06/2018 22:08:14 | SyncInvokeRetourneFermable | Échec du fournisseur sous-jacent sur Open.
+
+20/06/2018 22:08:20 | SyncInvokeChargerLesQartiers | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+20/06/2018 22:08:36 | SyncInvokeChargerTarifParReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+20/06/2018 22:08:36 | SyncInvokeChargerCalibreCompteur | Échec du fournisseur sous-jacent sur Open.
+

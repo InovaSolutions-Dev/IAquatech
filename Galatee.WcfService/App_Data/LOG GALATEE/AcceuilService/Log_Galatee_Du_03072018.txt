@@ -1,0 +1,16 @@
+03/07/2018 15:44:20 | LicenceOK | La référence d'objet n'est pas définie à une instance d'un objet.
+
+03/07/2018 15:46:52 | SyncInvokeRetourneToutMarque | Échec du fournisseur sous-jacent sur Open.
+
+03/07/2018 16:45:39 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+03/07/2018 20:04:31 | SyncInvokeChargerLesRueDesSecteur | Tentative d'appel de IsDBNull non valide lorsque le lecteur est fermé.
+
+03/07/2018 20:04:42 | SyncInvokeChargerLesTournees | La référence d'objet n'est pas définie à une instance d'un objet.
+
+03/07/2018 20:04:43 | SyncInvokeChargerCoutDemande | Tentative d'appel de IsDBNull non valide lorsque le lecteur est fermé.
+
+03/07/2018 22:50:30 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+

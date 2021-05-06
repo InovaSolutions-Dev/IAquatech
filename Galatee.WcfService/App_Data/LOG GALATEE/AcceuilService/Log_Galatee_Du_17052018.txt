@@ -1,0 +1,16 @@
+17/05/2018 00:01:05 | SyncInvokeGetDevisByNumDemande | Debut =>00:01:05
+
+17/05/2018 00:01:08 | SyncInvokeGetDevisByNumDemande | Fin =>00:01:08
+
+17/05/2018 17:10:49 | SyncInvokeGetDevisByNumDemande | Debut =>17:10:49
+
+17/05/2018 17:10:54 | GetDevisByNumDemande | Échec du cast en type valeur « Int32 », car la valeur matérialisée est Null. Le paramètre générique du type de résultat ou la requête doit utiliser un type Nullable.
+
+17/05/2018 17:11:04 | SyncInvokeGetDevisByNumDemande | Debut =>17:11:04
+
+17/05/2018 17:11:10 | SyncInvokeGetDevisByNumDemande | Fin =>17:11:10
+
+17/05/2018 17:15:51 | SyncInvokeGetDevisByNumDemande | Debut =>17:15:51
+
+17/05/2018 17:15:53 | GetDevisByNumDemande | Échec du cast en type valeur « Int32 », car la valeur matérialisée est Null. Le paramètre générique du type de résultat ou la requête doit utiliser un type Nullable.
+

@@ -1,0 +1,28 @@
+21/01/2019 00:25:31 | SyncInvokesetFromWebPart | 0252702529962
+
+21/01/2019 00:25:44 | Callback | localhost1818
+
+21/01/2019 00:25:44 | RenderReport | loadData
+
+21/01/2019 00:25:44 | RenderReport | 0252702529962
+
+21/01/2019 00:25:44 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+21/01/2019 00:25:44 | SyncInvokeGetCsPrintFromWebPart | 0252702529962
+
+21/01/2019 00:25:44 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+21/01/2019 00:25:45 | LoadData | 0252702529962
+
+21/01/2019 00:25:45 | LoadData | données trouve
+
+21/01/2019 00:25:45 | LoadData | Parametre non trouvé
+
+21/01/2019 00:25:45 | data | data trouve data count: 1926
+
+21/01/2019 00:25:45 | Page_Load | RenderReport retour ok
+
+21/01/2019 00:25:45 | RunExportFile | \\INOVA-PC20\Impression|ComptabilisationFac211201902545|pdf
+
+21/01/2019 00:26:12 | Page_Load | ICI3
+

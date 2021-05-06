@@ -1,0 +1,8 @@
+01/04/2019 23:57:33 | LogException | Dépassement du délai d’attente
+
+01/04/2019 23:57:33 | LogException | Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=11280; poignée de main=2350; 
+
+01/04/2019 23:57:33 | SelectGroupeValidationByUserId | Échec du fournisseur sous-jacent sur Open.
+
+01/04/2019 23:58:13 | SelectGroupeValidationByUserId | Tentative d'appel de IsDBNull non valide lorsque le lecteur est fermé.
+

@@ -1,0 +1,9 @@
+05/04/2017 06:26:26 | SyncInvokeListeDesDonneesDesSite | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+05/04/2017 12:29:18 | SyncInvokeListeDesDonneesDesSite | Enregistrement annulé :
+Échec de l'ouverture de session de l'utilisateur 'sa'.
+
+05/04/2017 22:23:11 | SyncInvokeListeDesDonneesDesSite | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+

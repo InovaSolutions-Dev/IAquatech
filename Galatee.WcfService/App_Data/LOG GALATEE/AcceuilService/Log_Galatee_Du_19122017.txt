@@ -1,0 +1,37 @@
+19/12/2017 01:23:32 | SyncInvokeRetourneFermable | Échec du fournisseur sous-jacent sur Open.
+
+19/12/2017 01:24:03 | SyncInvokeRetourneCodeConsomateur | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=1810; poignée de main=16024; 
+
+19/12/2017 01:25:17 | SyncInvokeChargerLesQartiers | La référence d'objet n'est pas définie à une instance d'un objet.
+
+19/12/2017 01:25:17 | SyncInvokeChargerTypeBranchement | Échec du fournisseur sous-jacent sur Open.
+
+19/12/2017 01:25:18 | SyncInvokeRetourneCategorie | Échec du fournisseur sous-jacent sur Open.
+
+19/12/2017 01:25:18 | SyncInvokeListeDesProduit | Échec du fournisseur sous-jacent sur Open.
+
+19/12/2017 01:25:19 | SyncInvokeRetourneListeDenominationAll | Échec du fournisseur sous-jacent sur Open.
+
+19/12/2017 01:25:20 | SyncInvokeRetourneNationnalite | Échec du fournisseur sous-jacent sur Open.
+
+
+
+19/12/2017 01:25:21 | SyncInvokeChargerCalibreCompteur | Échec du fournisseur sous-jacent sur Open.
+
+19/12/2017 01:25:21 | SyncInvokeRetourneCodeConsomateur | Échec du fournisseur sous-jacent sur Open.
+
+19/12/2017 01:25:40 | SyncInvokeChargerType | Échec du fournisseur sous-jacent sur Open.
+
+19/12/2017 01:27:19 | SyncInvokeChargerLesRueDesSecteur | L'appel de « Read » lorsque le lecteur de données est fermé n'est pas une opération valide.
+
+19/12/2017 01:27:19 | SyncInvokeChargerLesTournees | La référence d'objet n'est pas définie à une instance d'un objet.
+
+19/12/2017 10:46:04 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+19/12/2017 11:00:04 | LicenceOK | La référence d'objet n'est pas définie à une instance d'un objet.
+
+19/12/2017 11:00:48 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+

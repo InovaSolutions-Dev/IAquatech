@@ -1,0 +1,38 @@
+11/02/2019 12:55:46 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+11/02/2019 13:11:59 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+11/02/2019 13:21:38 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+11/02/2019 14:43:21 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+11/02/2019 16:15:17 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+11/02/2019 16:16:13 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+11/02/2019 16:20:32 | SyncInvokeCreeDemande | Impossible d'insérer la valeur NULL dans la colonne 'FK_IDOPERATION', table 'AQUATECH.wkf.DEMANDE_WORFKLOW'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+11/02/2019 16:20:32 | CreeDemande | Impossible d'insérer la valeur NULL dans la colonne 'FK_IDOPERATION', table 'AQUATECH.wkf.DEMANDE_WORFKLOW'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+11/02/2019 16:33:10 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+11/02/2019 16:40:10 | SyncInvokeCreeDemande | Impossible d'insérer la valeur NULL dans la colonne 'FK_IDOPERATION', table 'AQUATECH.wkf.DEMANDE_WORFKLOW'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+11/02/2019 16:40:10 | CreeDemande | Impossible d'insérer la valeur NULL dans la colonne 'FK_IDOPERATION', table 'AQUATECH.wkf.DEMANDE_WORFKLOW'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+11/02/2019 16:44:38 | SyncInvokeCreeDemande | Impossible d'insérer la valeur NULL dans la colonne 'FK_IDOPERATION', table 'AQUATECH.wkf.DEMANDE_WORFKLOW'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+11/02/2019 16:44:38 | CreeDemande | Impossible d'insérer la valeur NULL dans la colonne 'FK_IDOPERATION', table 'AQUATECH.wkf.DEMANDE_WORFKLOW'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+11/02/2019 16:52:26 | SyncInvokeCreeDemande | Impossible d'insérer la valeur NULL dans la colonne 'FK_IDOPERATION', table 'AQUATECH.wkf.DEMANDE_WORFKLOW'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+11/02/2019 16:52:26 | CreeDemande | Impossible d'insérer la valeur NULL dans la colonne 'FK_IDOPERATION', table 'AQUATECH.wkf.DEMANDE_WORFKLOW'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+

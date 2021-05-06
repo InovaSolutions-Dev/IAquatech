@@ -1,0 +1,51 @@
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\ConfigigurationModem.ini
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\Galatee.Sms.WsManagement.exe.config
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\Galatee.Sms.WsManagement.exe
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\Galatee.Sms.WsManagement.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\Galatee.DataAccess.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\Galatee.Security.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\Galatee.Sms.Tools.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\Galatee.Structure.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\Galatee.Entity.Model.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\EntityFramework.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\Galatee.Tools.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\ISF.Common.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\Galatee.DataAccess.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\Galatee.Security.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\Galatee.Sms.Tools.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\Galatee.Structure.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\Galatee.Entity.Model.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\bin\Debug\Galatee.Tools.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\obj\Debug\Galatee.Sms.WsManagement.csprojResolveAssemblyReference.cache
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\obj\Debug\Galatee.Sms.WsManagement.GalateeSmsManagement.resources
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\obj\Debug\Galatee.Sms.WsManagement.ProjectInstaller.resources
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\obj\Debug\Galatee.Sms.WsManagement.csproj.GenerateResource.Cache
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\obj\Debug\Galatee.Sms.WsManagement.exe
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.WsManagement\obj\Debug\Galatee.Sms.WsManagement.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\ConfigigurationModem.ini
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\Galatee.Sms.WsManagement.exe.config
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\Galatee.Sms.WsManagement.exe
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\Galatee.Sms.WsManagement.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\Galatee.DataAccess.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\Galatee.Security.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\Galatee.Sms.Tools.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\Galatee.Structure.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\Galatee.Entity.Model.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\EntityFramework.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\Galatee.Tools.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\Newtonsoft.Json.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\Oracle.DataAccess.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\Galatee.DataAccess.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\Galatee.Security.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\Galatee.Sms.Tools.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\Galatee.Structure.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\Galatee.Entity.Model.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\bin\Debug\Galatee.Tools.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\obj\Debug\Galatee.Sms.WsManagement.csprojResolveAssemblyReference.cache
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\obj\Debug\Galatee.Sms.WsManagement.GalateeSmsManagement.resources
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\obj\Debug\Galatee.Sms.WsManagement.ProjectInstaller.resources
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\obj\Debug\Galatee.Sms.WsManagement.csproj.GenerateResource.Cache
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\obj\Debug\Galatee.Sms.WsManagement.exe
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.WsManagement\obj\Debug\Galatee.Sms.WsManagement.pdb

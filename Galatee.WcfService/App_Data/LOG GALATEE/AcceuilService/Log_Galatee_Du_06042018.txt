@@ -1,0 +1,17 @@
+06/04/2018 01:04:58 | ValiderFacturation | La référence d'objet n'est pas définie à une instance d'un objet.
+
+06/04/2018 01:24:29 | ValiderFacturation | La référence d'objet n'est pas définie à une instance d'un objet.
+
+06/04/2018 01:26:54 | ValiderFacturation | La référence d'objet n'est pas définie à une instance d'un objet.
+
+06/04/2018 01:35:39 | ValiderFacturation | La référence d'objet n'est pas définie à une instance d'un objet.
+
+06/04/2018 01:40:55 | ValiderFacturation | La référence d'objet n'est pas définie à une instance d'un objet.
+
+06/04/2018 01:48:42 | ValiderFacturation | Un DataReader associé à cette Command est déjà ouvert. Il doit d'abord être fermé.
+
+06/04/2018 03:51:01 | ValiderFacturation | SPX_FAC_MISEAJOUR_LOTRI_APRESCALCUL (01100001) : Impossible d'insérer la valeur NULL dans la colonne 'FK_IDPRODUIT', table 'GALADB.dbo.PROFAC'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+Impossible d'insérer la valeur NULL dans la colonne 'FK_IDPRODUIT', table 'GALADB.dbo.REDFAC'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+L'instruction a été arrêtée.
+

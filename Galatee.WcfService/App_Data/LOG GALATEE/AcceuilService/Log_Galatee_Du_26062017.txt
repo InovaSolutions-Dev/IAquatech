@@ -1,0 +1,10 @@
+26/06/2017 05:30:27 | SyncInvokeRetourneStatistiqueTravaux_Brt_Ext | SPX_RPT_TRAVAUXBRANCHEMENTS_EXTENTIONS:SPX_RPT_TRAVAUXBRANCHEMENTS_EXTENTIONS:Impossible de construire le type de données date, car certains des arguments ont des valeurs qui ne sont pas valides.
+
+26/06/2017 05:39:41 | SyncInvokeRetourneStatistiqueTravaux_Brt_Ext | SPX_RPT_TRAVAUXBRANCHEMENTS_EXTENTIONS:SPX_RPT_TRAVAUXBRANCHEMENTS_EXTENTIONS:Impossible de construire le type de données date, car certains des arguments ont des valeurs qui ne sont pas valides.
+
+26/06/2017 05:43:53 | SyncInvokeRetourneStatistiqueTravaux_Brt_Ext | SPX_RPT_TRAVAUXBRANCHEMENTS_EXTENTIONS:SPX_RPT_TRAVAUXBRANCHEMENTS_EXTENTIONS:Impossible de construire le type de données date, car certains des arguments ont des valeurs qui ne sont pas valides.
+
+26/06/2017 05:53:33 | SyncInvokeRetourneStatistiqueTravaux_Brt_Ext | SPX_RPT_TRAVAUXBRANCHEMENTS_EXTENTIONS:SPX_RPT_TRAVAUXBRANCHEMENTS_EXTENTIONS:Impossible de convertir l'objet de type 'System.Int32' en type 'System.Decimal'.
+
+26/06/2017 06:18:10 | SyncInvokeRetourneStatistiqueTravaux_Brt_Ext | SPX_RPT_TRAVAUXBRANCHEMENTS_EXTENTIONS:SPX_RPT_TRAVAUXBRANCHEMENTS_EXTENTIONS:Impossible de convertir l'objet de type 'System.Decimal' en type 'System.Int32'.
+

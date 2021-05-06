@@ -1,0 +1,20 @@
+21/07/2020 10:14:37 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+21/07/2020 10:14:52 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+21/07/2020 10:29:02 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+21/07/2020 10:29:06 | LogException | Échec de l'ouverture de session de l'utilisateur 'INOVA\s2amanis'.
+
+21/07/2020 10:29:06 | returnEnumereWrapper | Échec du fournisseur sous-jacent sur Open.
+
+21/07/2020 10:43:44 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+21/07/2020 10:45:49 | LogException | Échec de l'ouverture de session de l'utilisateur 'INOVA\s2amanis'.
+
+21/07/2020 10:45:49 | returnEnumereWrapper | Échec du fournisseur sous-jacent sur Open.
+
+21/07/2020 14:26:05 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+21/07/2020 14:27:18 | SyncInvokereturnEnumereWrapper | Suite traitement
+

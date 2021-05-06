@@ -1,0 +1,16 @@
+25/11/2019 00:04:10 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+25/11/2019 00:04:41 | LogException | Le chemin réseau n’a pas été trouvé
+
+25/11/2019 00:04:41 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+25/11/2019 00:04:41 | returnEnumereWrapper | Échec du fournisseur sous-jacent sur Open.
+
+25/11/2019 00:14:05 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+25/11/2019 00:14:40 | LogException | Le chemin réseau n’a pas été trouvé
+
+25/11/2019 00:14:40 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+25/11/2019 00:14:40 | returnEnumereWrapper | Échec du fournisseur sous-jacent sur Open.
+

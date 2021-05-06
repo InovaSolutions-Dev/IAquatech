@@ -1,0 +1,18 @@
+20/05/2018 22:19:13 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+
+20/05/2018 22:19:30 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+
+20/05/2018 22:21:13 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+
+20/05/2018 22:31:52 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+
+20/05/2018 22:38:03 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+
+20/05/2018 22:38:37 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+
+20/05/2018 22:40:05 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+
+20/05/2018 23:52:31 | SyncInvokeRetourneListeTaxe | Échec du fournisseur sous-jacent sur Open.
+
+20/05/2018 23:52:31 | SyncInvokeRetourneListeDenominationAll | Échec du fournisseur sous-jacent sur Open.
+

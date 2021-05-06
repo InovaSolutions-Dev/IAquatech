@@ -1,0 +1,99 @@
+22/07/2019 00:12:39 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 00:12:39 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 00:27:01 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 00:27:01 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 00:58:47 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 00:59:16 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 01:18:37 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 01:19:09 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 01:33:38 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 01:34:09 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 01:43:11 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 01:43:11 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 01:57:15 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 01:57:15 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 02:44:56 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 02:44:56 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 02:53:15 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 02:53:44 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 14:10:10 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 14:10:39 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 14:18:18 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 14:18:18 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 15:48:46 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 15:49:56 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 15:53:55 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 15:53:55 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 16:28:20 | GetStrategieSecuriteActif | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+22/07/2019 16:28:20 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 16:28:48 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 16:28:48 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 16:28:48 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 16:28:48 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 16:28:48 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 16:33:50 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 16:33:50 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 16:34:43 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 16:34:43 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 16:36:49 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 16:36:49 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 16:44:50 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 16:45:19 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 17:09:23 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 17:09:52 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 17:21:26 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 17:21:26 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 17:30:50 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 17:31:18 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+22/07/2019 18:38:46 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+22/07/2019 18:38:46 | SyncInvokereturnEnumereWrapper | Suite traitement
+

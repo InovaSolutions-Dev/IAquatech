@@ -1,0 +1,6 @@
+22/07/2019 18:43:39 | SyncInvokeInsererUnReleveur | Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+22/07/2019 19:09:08 | SyncInvokeEditerLotGenerale | SPX_FAC_EDITIONINDEX:Une erreur de niveau transport s'est produite lors de la réception des résultats du serveur. (provider: TCP Provider, error: 0 - Une connexion existante a dû être fermée par l’hôte distant.)
+
+22/07/2019 19:26:51 | SyncInvokeEditerLotGenerale | SPX_FAC_EDITIONINDEX:Une erreur de niveau transport s'est produite lors de la réception des résultats du serveur. (provider: TCP Provider, error: 0 - Le nom réseau spécifié n’est plus disponible.)
+

@@ -1,0 +1,14 @@
+18/09/2019 11:08:40 | SyncInvokeRetourneListeAllUser | ok
+
+18/09/2019 11:10:38 | SelectSoldeFacture | La référence d'objet n'est pas définie à une instance d'un objet.
+
+18/09/2019 11:15:38 | SelectSoldeFacture | La référence d'objet n'est pas définie à une instance d'un objet.
+
+18/09/2019 11:32:53 | SyncInvokeRetourneListeAllUser | ok
+
+18/09/2019 11:33:21 | SelectSoldeFacture | La référence d'objet n'est pas définie à une instance d'un objet.
+
+18/09/2019 11:45:47 | SyncInvokeRetourneListeAllUser | ok
+
+18/09/2019 17:04:51 | SyncInvokeRetourneListeAllUser | ok
+

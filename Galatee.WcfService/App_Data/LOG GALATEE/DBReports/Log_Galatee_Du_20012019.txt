@@ -1,0 +1,2 @@
+20/01/2019 01:10:34 | ReturneCompabilisationRecap | Le centre 470 doit être paramétré dans la table COMPTA_CENTRE
+

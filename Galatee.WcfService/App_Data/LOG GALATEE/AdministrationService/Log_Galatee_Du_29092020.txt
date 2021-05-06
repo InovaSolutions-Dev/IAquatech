@@ -1,0 +1,4 @@
+29/09/2020 17:51:41 | SyncInvokeRetourneListeAllUser | ok
+
+29/09/2020 17:52:19 | SelectSoldeFacture | La référence d'objet n'est pas définie à une instance d'un objet.
+

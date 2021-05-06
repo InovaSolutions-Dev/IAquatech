@@ -1,0 +1,94 @@
+11/12/2017 00:14:30 | SyncInvokeGetDevisByNumDemande | Debut =>00:14:30
+
+11/12/2017 00:14:53 | SyncInvokeGetDevisByNumDemande | Fin =>00:14:53
+
+11/12/2017 00:19:21 | SyncInvokeGetDevisByNumDemande | Debut =>00:19:21
+
+11/12/2017 00:19:31 | SyncInvokeGetDevisByNumDemande | Fin =>00:19:31
+
+11/12/2017 00:28:39 | SyncInvokeInsertLiaisonCompteur | La référence d'objet n'est pas définie à une instance d'un objet.
+
+11/12/2017 00:31:30 | SyncInvokeInsertLiaisonCompteur | La référence d'objet n'est pas définie à une instance d'un objet.
+
+11/12/2017 00:47:45 | SyncInvokeInsertLiaisonCompteur | ORA-12170: TNS:Connect timeout occurred
+
+11/12/2017 12:37:03 | SyncInvokeGetDevisByNumDemande | Debut =>12:37:03
+
+11/12/2017 12:37:06 | SyncInvokeGetDevisByNumDemande | Fin =>12:37:06
+
+11/12/2017 15:17:14 | SyncInvokeGetDevisByNumDemande | Debut =>15:17:14
+
+11/12/2017 15:17:16 | SyncInvokeGetDevisByNumDemande | Fin =>15:17:16
+
+11/12/2017 15:26:16 | SyncInvokeGetDevisByNumDemande | Debut =>15:26:16
+
+11/12/2017 15:26:18 | SyncInvokeGetDevisByNumDemande | Fin =>15:26:18
+
+11/12/2017 15:44:15 | SyncInvokeGetDevisByNumDemande | Debut =>15:44:15
+
+11/12/2017 15:44:17 | SyncInvokeGetDevisByNumDemande | Fin =>15:44:17
+
+11/12/2017 16:05:27 | SyncInvokeGetDevisByNumDemande | Debut =>16:05:27
+
+11/12/2017 16:05:29 | SyncInvokeGetDevisByNumDemande | Fin =>16:05:29
+
+11/12/2017 16:06:17 | SyncInvokeGetDevisByNumDemande | Debut =>16:06:17
+
+11/12/2017 16:06:19 | SyncInvokeGetDevisByNumDemande | Fin =>16:06:19
+
+11/12/2017 16:06:54 | SyncInvokeGetDevisByNumDemande | Debut =>16:06:54
+
+11/12/2017 16:06:55 | SyncInvokeGetDevisByNumDemande | Fin =>16:06:55
+
+11/12/2017 16:15:35 | SyncInvokeGetDevisByNumDemande | Debut =>16:15:35
+
+11/12/2017 16:15:37 | SyncInvokeGetDevisByNumDemande | Fin =>16:15:37
+
+11/12/2017 16:26:57 | SyncInvokeGetDevisByNumDemande | Debut =>16:26:57
+
+11/12/2017 16:26:59 | SyncInvokeGetDevisByNumDemande | Fin =>16:26:59
+
+11/12/2017 16:43:53 | SyncInvokeGetDevisByNumDemande | Debut =>16:43:53
+
+11/12/2017 16:43:56 | SyncInvokeGetDevisByNumDemande | Fin =>16:43:56
+
+11/12/2017 17:08:40 | SyncInvokeGetDevisByNumDemande | Debut =>17:08:40
+
+11/12/2017 17:08:43 | SyncInvokeGetDevisByNumDemande | Fin =>17:08:43
+
+11/12/2017 17:09:41 | SyncInvokeGetDevisByNumDemande | Debut =>17:09:41
+
+11/12/2017 17:09:43 | SyncInvokeGetDevisByNumDemande | Fin =>17:09:43
+
+11/12/2017 22:48:36 | SyncInvokeChargerLesTournees | La référence d'objet n'est pas définie à une instance d'un objet.
+
+11/12/2017 22:48:37 | SyncInvokeRetourneListeTaxe | Échec du fournisseur sous-jacent sur Open.
+
+11/12/2017 22:48:37 | SyncInvokeRetourneTousCoper | Échec du fournisseur sous-jacent sur Open.
+
+11/12/2017 22:48:38 | SyncInvokeChargerTarifParCategorie | Échec du fournisseur sous-jacent sur Open.
+
+11/12/2017 22:48:39 | SyncInvokeChargerTarifParReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+11/12/2017 22:50:52 | SyncInvokeRetourneCodeRegroupement | Tentative d'appel de IsDBNull non valide lorsque le lecteur est fermé.
+
+11/12/2017 22:50:53 | SyncInvokeChargerLesRueDesSecteur | Tentative d'appel de IsDBNull non valide lorsque le lecteur est fermé.
+
+11/12/2017 22:51:01 | SyncInvokeChargerCoutDemande | Tentative d'appel de IsDBNull non valide lorsque le lecteur est fermé.
+
+11/12/2017 22:53:25 | SyncInvokeGetDevisByNumDemande | Debut =>22:53:25
+
+11/12/2017 22:53:30 | SyncInvokeGetDevisByNumDemande | Fin =>22:53:30
+
+11/12/2017 23:20:46 | SyncInvokeGetDevisByNumDemande | Debut =>23:20:46
+
+11/12/2017 23:20:50 | SyncInvokeGetDevisByNumDemande | Fin =>23:20:50
+
+11/12/2017 23:37:12 | SyncInvokeGetDevisByNumDemande | Debut =>23:37:12
+
+11/12/2017 23:37:16 | SyncInvokeGetDevisByNumDemande | Fin =>23:37:16
+
+11/12/2017 23:44:00 | SyncInvokeGetDevisByNumDemande | Debut =>23:44:00
+
+11/12/2017 23:44:16 | SyncInvokeGetDevisByNumDemande | Fin =>23:44:16
+

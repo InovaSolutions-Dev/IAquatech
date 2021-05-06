@@ -1,0 +1,17 @@
+15/07/2019 12:37:11 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+15/07/2019 17:45:30 | LicenceOK | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=22; poignée de main=12527; 
+
+15/07/2019 17:53:11 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+15/07/2019 18:19:51 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+15/07/2019 18:28:25 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+15/07/2019 18:42:45 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+15/07/2019 18:53:55 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+15/07/2019 18:54:51 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+

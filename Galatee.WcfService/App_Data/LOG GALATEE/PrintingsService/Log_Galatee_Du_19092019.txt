@@ -1,0 +1,62 @@
+19/09/2019 13:24:14 | SyncInvokesetFromWebPart | 00012132414454
+
+19/09/2019 13:24:15 | SyncInvokesetFromWebPart | Le processus ne peut pas accéder au fichier 'F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\App_Data\LOG GALATEE\PrintingsService\Log_Galatee_Du_19092019.txt', car il est en cours d'utilisation par un autre processus.
+
+19/09/2019 13:24:17 | Callback | localhost1818
+
+19/09/2019 13:24:17 | RenderReport | loadData
+
+19/09/2019 13:24:17 | RenderReport | 00012132414454
+
+19/09/2019 13:24:17 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+19/09/2019 13:24:17 | SyncInvokeGetCsPrintFromWebPart | 00012132414454
+
+19/09/2019 13:24:17 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+19/09/2019 13:24:18 | LoadData | 00012132414454
+
+19/09/2019 13:24:18 | LoadData | données trouve
+
+19/09/2019 13:24:18 | LoadData | Parametre trouvé
+
+19/09/2019 13:24:18 | data | data trouve
+
+19/09/2019 13:24:18 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+19/09/2019 13:24:19 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+19/09/2019 13:24:19 | CreatePDFChemin | Add DataSources ok
+
+19/09/2019 13:24:19 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+19/09/2019 13:24:34 | SyncInvokesetFromWebPart | 00012132434590
+
+19/09/2019 13:24:34 | Callback | localhost1818
+
+19/09/2019 13:24:34 | RenderReport | loadData
+
+19/09/2019 13:24:34 | RenderReport | 00012132434590
+
+19/09/2019 13:24:34 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+19/09/2019 13:24:34 | SyncInvokeGetCsPrintFromWebPart | 00012132434590
+
+19/09/2019 13:24:34 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+19/09/2019 13:24:34 | LoadData | 00012132434590
+
+19/09/2019 13:24:34 | LoadData | données trouve
+
+19/09/2019 13:24:35 | LoadData | Parametre trouvé
+
+19/09/2019 13:24:35 | data | data trouve
+
+19/09/2019 13:24:35 | CreatePDFChemin | ~/Reports/Caisse/ListeDesTransactions.rdlc | Chemin du fichier rdlc
+
+19/09/2019 13:24:35 | CreatePDFChemin | pUser : System.Collections.Specialized.StringCollection  pDateFin : System.Collections.Specialized.StringCollection | Set Parameters
+
+19/09/2019 13:24:35 | CreatePDFChemin | Add DataSources ok
+
+19/09/2019 13:24:35 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+

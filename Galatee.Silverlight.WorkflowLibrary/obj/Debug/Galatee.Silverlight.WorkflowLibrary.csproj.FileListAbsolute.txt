@@ -1,0 +1,25 @@
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.WorkflowLibrary\Bin\Debug\Galatee.Silverlight.WorkflowLibrary.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.WorkflowLibrary\Bin\Debug\Galatee.Silverlight.WorkflowLibrary.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.WorkflowLibrary\obj\Debug\Galatee.Silverlight.WorkflowLibrary.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.WorkflowLibrary\obj\Debug\Galatee.Silverlight.WorkflowLibrary.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.WorkflowLibrary\obj\Debug\Galatee.Silverlight.WorkflowLibrary.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.WorkflowLibrary\Bin\Debug\Galatee.Silverlight.WorkflowLibrary.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.WorkflowLibrary\Bin\Debug\Galatee.Silverlight.WorkflowLibrary.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.WorkflowLibrary\obj\Debug\Galatee.Silverlight.WorkflowLibrary.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.WorkflowLibrary\obj\Debug\Galatee.Silverlight.WorkflowLibrary.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.WorkflowLibrary\obj\Debug\Galatee.Silverlight.WorkflowLibrary.pdb
+C:\SOURCES NOUVELLES\Galatee.Silverlight.WorkflowLibrary\Bin\Debug\Galatee.Silverlight.WorkflowLibrary.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.WorkflowLibrary\Bin\Debug\Galatee.Silverlight.WorkflowLibrary.pdb
+C:\SOURCES NOUVELLES\Galatee.Silverlight.WorkflowLibrary\obj\Debug\Galatee.Silverlight.WorkflowLibrary.csprojResolveAssemblyReference.cache
+C:\SOURCES NOUVELLES\Galatee.Silverlight.WorkflowLibrary\obj\Debug\Galatee.Silverlight.WorkflowLibrary.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.WorkflowLibrary\obj\Debug\Galatee.Silverlight.WorkflowLibrary.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.WorkflowLibrary\Bin\Debug\Galatee.Silverlight.WorkflowLibrary.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.WorkflowLibrary\Bin\Debug\Galatee.Silverlight.WorkflowLibrary.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.WorkflowLibrary\obj\Debug\Galatee.Silverlight.WorkflowLibrary.csprojResolveAssemblyReference.cache
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.WorkflowLibrary\obj\Debug\Galatee.Silverlight.WorkflowLibrary.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.WorkflowLibrary\obj\Debug\Galatee.Silverlight.WorkflowLibrary.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.WorkflowLibrary\Bin\Debug\Galatee.Silverlight.WorkflowLibrary.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.WorkflowLibrary\Bin\Debug\Galatee.Silverlight.WorkflowLibrary.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.WorkflowLibrary\obj\Debug\Galatee.Silverlight.WorkflowLibrary.csprojResolveAssemblyReference.cache
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.WorkflowLibrary\obj\Debug\Galatee.Silverlight.WorkflowLibrary.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.WorkflowLibrary\obj\Debug\Galatee.Silverlight.WorkflowLibrary.pdb

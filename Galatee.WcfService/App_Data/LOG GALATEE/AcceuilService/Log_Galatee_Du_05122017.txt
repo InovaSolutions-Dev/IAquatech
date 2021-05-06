@@ -1,0 +1,3 @@
+05/12/2017 11:46:51 | SyncInvokeChargerTousFrequence | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé au début de la phase suivant la connexion.La connexion a pu passer le délai en attendant que le serveur termine le processus de connexion et réponde. Elle peut également avoir passé le délai lors de la tentative de création de plusieurs connexions actives.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=10338; poignée de main=13683; [connexion] initialisation=0; authentification=0; [Post connexion] terminé=1000; 
+

@@ -1,0 +1,79 @@
+15/07/2019 12:35:40 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 12:36:09 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+15/07/2019 12:37:46 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 12:37:46 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+15/07/2019 12:49:22 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 12:49:22 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+15/07/2019 12:54:32 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 12:54:32 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+15/07/2019 13:35:06 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 13:35:34 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+15/07/2019 13:41:21 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 13:41:21 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+15/07/2019 13:54:43 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 13:54:43 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+15/07/2019 14:08:05 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 14:08:05 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+15/07/2019 15:18:40 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 15:19:09 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+15/07/2019 15:48:22 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 15:48:51 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+15/07/2019 17:04:48 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 17:04:48 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+15/07/2019 17:36:11 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 17:36:11 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+15/07/2019 17:45:46 | GetStrategieSecuriteActif | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=23; poignée de main=12531; 
+
+15/07/2019 17:45:46 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 17:46:32 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+15/07/2019 17:50:08 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 17:50:08 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+15/07/2019 18:18:42 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 18:19:10 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+15/07/2019 18:27:51 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 18:27:51 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+15/07/2019 18:27:51 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 18:27:51 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+15/07/2019 18:42:11 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 18:42:11 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+15/07/2019 18:51:41 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+15/07/2019 18:52:09 | SyncInvokereturnEnumereWrapper | Suite traitement
+

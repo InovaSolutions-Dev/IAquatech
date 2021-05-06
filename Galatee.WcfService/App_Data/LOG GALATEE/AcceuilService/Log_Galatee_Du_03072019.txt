@@ -1,0 +1,58 @@
+03/07/2019 11:23:08 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+03/07/2019 13:48:41 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+03/07/2019 14:08:05 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+03/07/2019 14:08:55 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+03/07/2019 14:17:49 | SyncInvokeCreeDemande | Impossible d'insérer la valeur NULL dans la colonne 'FK_IDOPERATION', table 'AQUATECH.wkf.DEMANDE_WORFKLOW'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+03/07/2019 14:17:49 | CreeDemande | Impossible d'insérer la valeur NULL dans la colonne 'FK_IDOPERATION', table 'AQUATECH.wkf.DEMANDE_WORFKLOW'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+03/07/2019 14:24:28 | SyncInvokeCreeDemande | Impossible d'insérer la valeur NULL dans la colonne 'FK_IDOPERATION', table 'AQUATECH.wkf.DEMANDE_WORFKLOW'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+03/07/2019 14:24:28 | CreeDemande | Impossible d'insérer la valeur NULL dans la colonne 'FK_IDOPERATION', table 'AQUATECH.wkf.DEMANDE_WORFKLOW'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+03/07/2019 14:29:30 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+03/07/2019 15:09:18 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+03/07/2019 15:30:58 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+03/07/2019 15:37:09 | SyncInvokeCalculFactureResilation | SPX_CALCUL_FACTURATION_BT (00100001) : Nom de colonne non valide : 'FK_IDABON'.
+Nom de colonne non valide : 'LOTRI'.
+Nom de colonne non valide : 'ISANNULE'.
+Nom de colonne non valide : 'TOTREDTTC'.
+Nom de colonne non valide : 'FK_IDABON'.
+Nom de colonne non valide : 'FK_IDPRODUIT'.
+Nom de colonne non valide : 'ISANNULE'.
+Nom de colonne non valide : 'FK_IDABON'.
+Nom de colonne non valide : 'ISANNULE'.
+
+03/07/2019 23:22:33 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+03/07/2019 23:33:33 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+03/07/2019 23:33:57 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+
+03/07/2019 23:37:51 | SyncInvokeCalculFactureResilation | SPX_CALCUL_FACTURATION_BT (00100001) : Nom de colonne non valide : 'FK_IDABON'.
+Nom de colonne non valide : 'LOTRI'.
+Nom de colonne non valide : 'ISANNULE'.
+Nom de colonne non valide : 'TOTREDTTC'.
+Nom de colonne non valide : 'FK_IDABON'.
+Nom de colonne non valide : 'FK_IDPRODUIT'.
+Nom de colonne non valide : 'ISANNULE'.
+Nom de colonne non valide : 'FK_IDABON'.
+Nom de colonne non valide : 'ISANNULE'.
+
+03/07/2019 23:51:50 | ValiderFacturation | SPX_MISE_A_JOUR_FACTURATION (00100001) : Conflit de types d'opérandes : int est incompatible avec uniqueidentifier
+Conflit de types d'opérandes : int est incompatible avec uniqueidentifier
+
+03/07/2019 23:53:02 | ValiderFacturation | SPX_MISE_A_JOUR_FACTURATION (00100001) : Conflit de types d'opérandes : int est incompatible avec uniqueidentifier
+Conflit de types d'opérandes : int est incompatible avec uniqueidentifier
+

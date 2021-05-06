@@ -1,0 +1,2 @@
+09/04/2017 16:07:02 | SyncInvokeRetourneListeDesCas | Échec du fournisseur sous-jacent sur Open.
+

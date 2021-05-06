@@ -1,0 +1,11 @@
+01/04/2019 12:17:10 | LicenceOK | La référence d'objet n'est pas définie à une instance d'un objet.
+
+01/04/2019 12:18:25 | LicenceOK | La référence d'objet n'est pas définie à une instance d'un objet.
+
+01/04/2019 12:18:25 | LicenceOK | La référence d'objet n'est pas définie à une instance d'un objet.
+
+01/04/2019 12:19:47 | SyncInvokeListeDesDonneesDesSite | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+01/04/2019 23:58:06 | LicenceOK | La référence d'objet n'est pas définie à une instance d'un objet.
+

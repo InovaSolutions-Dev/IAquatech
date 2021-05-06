@@ -1,0 +1,6 @@
+01/07/2019 13:59:52 | GetStrategieSecuriteActif | L'entrée 'ABO07Entities' a déjà été ajoutée. (F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\Connexion.config line 5)
+
+01/07/2019 13:59:53 | LogException | L'entrée 'ABO07Entities' a déjà été ajoutée. (F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\Connexion.config line 5)
+
+01/07/2019 13:59:53 | returnEnumereWrapper | Une exception a été levée par l'initialiseur de type pour 'System.Data.Entity.Internal.AppConfig'.
+

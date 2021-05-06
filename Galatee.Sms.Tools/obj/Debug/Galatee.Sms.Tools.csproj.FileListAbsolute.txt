@@ -1,0 +1,20 @@
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.Tools\bin\Debug\Galatee.Sms.Tools.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.Tools\bin\Debug\Galatee.Sms.Tools.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.Tools\bin\Debug\Galatee.Security.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.Tools\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.Tools\bin\Debug\Galatee.Security.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.Tools\obj\Debug\Galatee.Sms.Tools.csprojResolveAssemblyReference.cache
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.Tools\obj\Debug\Galatee.Sms.Tools.Properties.Resources.resources
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.Tools\obj\Debug\Galatee.Sms.Tools.csproj.GenerateResource.Cache
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.Tools\obj\Debug\Galatee.Sms.Tools.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Sms.Tools\obj\Debug\Galatee.Sms.Tools.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.Tools\bin\Debug\Galatee.Sms.Tools.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.Tools\bin\Debug\Galatee.Sms.Tools.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.Tools\bin\Debug\Galatee.Security.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.Tools\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.Tools\bin\Debug\Galatee.Security.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.Tools\obj\Debug\Galatee.Sms.Tools.csprojResolveAssemblyReference.cache
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.Tools\obj\Debug\Galatee.Sms.Tools.Properties.Resources.resources
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.Tools\obj\Debug\Galatee.Sms.Tools.csproj.GenerateResource.Cache
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.Tools\obj\Debug\Galatee.Sms.Tools.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Sms.Tools\obj\Debug\Galatee.Sms.Tools.pdb

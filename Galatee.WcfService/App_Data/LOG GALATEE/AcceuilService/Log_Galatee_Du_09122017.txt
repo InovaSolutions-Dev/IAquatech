@@ -1,0 +1,117 @@
+09/12/2017 19:41:32 | SyncInvokeChargerLesTournees | La référence d'objet n'est pas définie à une instance d'un objet.
+
+09/12/2017 19:46:36 | SyncInvokeRetourneTousCoper | Échec du fournisseur sous-jacent sur Open.
+
+sur Open.
+
+sur Open.
+
+09/12/2017 19:46:36 | SyncInvokeRetourneOrigine | La référence d'objet n'est pas définie à une instance d'un objet.
+
+09/12/2017 19:46:37 | SyncInvokeRetourneListeTaxe | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:46:37 | LogException | Le nom d’utilisateur ou le mot de passe est incorrect
+
+09/12/2017 19:46:37 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+09/12/2017 19:46:37 | GetAllTypeClient | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:52:05 | SyncInvokeRetourneTousCoper | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:52:05 | SyncInvokeChargerTarifParCategorie | Échec du fournisseur sous-jacent sur Open.
+
+n.
+
+09/12/2017 19:53:04 | SyncInvokeChargerReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:05 | SyncInvokeRetourneToutMarque | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:06 | SyncInvokeRetourneListeTaxe | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:08 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+09/12/2017 19:53:08 | SyncInvokeRetourneListeDesCas | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:08 | SyncInvokeRetourneOrigine | La référence d'objet n'est pas définie à une instance d'un objet.
+
+09/12/2017 19:53:09 | SyncInvokeRetourneTousCoper | Échec du fournisseur sous-jacent sur Open.
+
+sur Open.
+
+09/12/2017 19:53:10 | SyncInvokeChargerPuissanceReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:11 | LogException | Le nom d’utilisateur ou le mot de passe est incorrect
+
+09/12/2017 19:53:11 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+09/12/2017 19:53:11 | GetAllTypeClient | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:12 | SyncInvokeChargerRubrique | ChargerPosteTransformateur :Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:13 | SyncInvokeChargerPuissanceSouscrite | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:13 | SyncInvokeChargerPuissanceInstalle | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:14 | SyncInvokeChargerForfait | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:14 | SyncInvokeChargerPuissanceReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:15 | SyncInvokeRetourneTousApplicationTaxe | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:15 | SyncInvokeChargerCommune | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:16 | SyncInvokeChargerpPosteSource | ChargerpPosteSource :Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:16 | SyncInvokeChargerDepartHTA | ChargerpDepartHTA :Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:18 | SyncInvokeChargerLesSecteurs | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:18 | SyncInvokeChargerPosteTransformateur | ChargerPosteTransformateur :Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:19 | SyncInvokeRetourneOptionDemande | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:20 | SyncInvokeRetourneCategorie | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:21 | SyncInvokeRetourneFermable | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:21 | SyncInvokeRetourneListeDenominationAll | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:22 | SyncInvokeRetourneNationnalite | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:22 | SyncInvokeRetourneCodeConsomateur | Échec du fournisseur sous-jacent sur Open.
+
+
+09/12/2017 19:53:23 | SyncInvokeRetourneToutCadran | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 19:53:23 | SyncInvokeChargerReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 20:05:36 | SyncInvokeChargerCoutDemande | Échec du fournisseur sous-jacent sur Open.
+
+ur Open.
+
+09/12/2017 20:05:36 | SyncInvokeRetourneToutMarque | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 20:25:38 | SyncInvokeChargerLesTournees | La référence d'objet n'est pas définie à une instance d'un objet.
+
+09/12/2017 20:25:40 | SyncInvokeRetourneOptionDemande | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 20:25:42 | SyncInvokeRetourneCategorie | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 20:25:42 | SyncInvokeListeDesProduit | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 20:25:59 | SyncInvokeRetourneCodeConsomateur | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 20:25:59 | SyncInvokeChargerDepartHTA | ChargerpDepartHTA :Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 20:26:00 | SyncInvokeRetourneListeTaxe | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 20:26:00 | SyncInvokeChargerCoutDemande | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 20:26:02 | SyncInvokeRetourneListeDesCas | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 20:26:02 | SyncInvokeRetourneTousCoper | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 20:26:02 | SyncInvokeChargerTarifParCategorie | Échec du fournisseur sous-jacent sur Open.
+
+09/12/2017 20:58:33 | SyncInvokeChargerTarifParReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+

@@ -1,0 +1,30 @@
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Structure\bin\Debug\Galatee.Structure.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Structure\bin\Debug\Galatee.Structure.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Structure\bin\Debug\ISF.Common.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Structure\obj\Debug\Galatee.Structure.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Structure\obj\Debug\Galatee.Structure.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Structure\obj\Debug\Galatee.Structure.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.Structure\bin\Debug\Galatee.Structure.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Structure\bin\Debug\Galatee.Structure.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.Structure\bin\Debug\ISF.Common.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Structure\obj\Debug\Galatee.Structure.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.Structure\obj\Debug\Galatee.Structure.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Structure\obj\Debug\Galatee.Structure.pdb
+C:\SOURCES NOUVELLES\Galatee.Structure\bin\Debug\Galatee.Structure.dll
+C:\SOURCES NOUVELLES\Galatee.Structure\bin\Debug\Galatee.Structure.pdb
+C:\SOURCES NOUVELLES\Galatee.Structure\bin\Debug\ISF.Common.dll
+C:\SOURCES NOUVELLES\Galatee.Structure\obj\Debug\Galatee.Structure.csprojResolveAssemblyReference.cache
+C:\SOURCES NOUVELLES\Galatee.Structure\obj\Debug\Galatee.Structure.dll
+C:\SOURCES NOUVELLES\Galatee.Structure\obj\Debug\Galatee.Structure.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Structure\bin\Debug\Galatee.Structure.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Structure\bin\Debug\Galatee.Structure.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Structure\bin\Debug\ISF.Common.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Structure\obj\Debug\Galatee.Structure.csprojResolveAssemblyReference.cache
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Structure\obj\Debug\Galatee.Structure.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Structure\obj\Debug\Galatee.Structure.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Structure\bin\Debug\Galatee.Structure.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Structure\bin\Debug\Galatee.Structure.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Structure\bin\Debug\ISF.Common.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Structure\obj\Debug\Galatee.Structure.csprojResolveAssemblyReference.cache
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Structure\obj\Debug\Galatee.Structure.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Structure\obj\Debug\Galatee.Structure.pdb

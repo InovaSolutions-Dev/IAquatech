@@ -1,0 +1,27 @@
+15/07/2019 16:33:44 | InsererEncaissement | La référence d'objet n'est pas définie à une instance d'un objet.
+
+15/07/2019 16:34:08 | InsererEncaissement | La référence d'objet n'est pas définie à une instance d'un objet.
+
+15/07/2019 16:37:22 | InsererEncaissement | La référence d'objet n'est pas définie à une instance d'un objet.
+
+15/07/2019 16:37:35 | InsererEncaissement | SPX_CAIS_INSERERTRANSCAISS:Impossible d'insérer la valeur NULL dans la colonne 'FK_IDLCLIENT', table 'GALADB.dbo.TRANSCAISSE'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+15/07/2019 16:44:27 | InsererEncaissement | SPX_CAIS_INSERERTRANSCAISS:Impossible d'insérer la valeur NULL dans la colonne 'FK_IDLCLIENT', table 'GALADB.dbo.TRANSCAISSE'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+15/07/2019 16:46:09 | InsererEncaissement | SPX_CAIS_INSERERTRANSCAISS:L'instruction INSERT est en conflit avec la contrainte FOREIGN KEY "FK_TRANSCAISSE_LCLIENT". Le conflit s'est produit dans la base de données "GALADB", table "dbo.LCLIENT", column 'PK_ID'.
+L'instruction a été arrêtée.
+
+15/07/2019 16:48:07 | InsererEncaissement | SPX_CAIS_INSERERTRANSCAISS:L'instruction INSERT est en conflit avec la contrainte FOREIGN KEY "FK_TRANSCAISSE_LCLIENT". Le conflit s'est produit dans la base de données "GALADB", table "dbo.LCLIENT", column 'PK_ID'.
+L'instruction a été arrêtée.
+
+15/07/2019 17:12:03 | InsererEncaissement | SPX_CAIS_INSERERTRANSCAISS:Impossible d'insérer la valeur NULL dans la colonne 'FK_IDLCLIENT', table 'GALADB.dbo.TRANSCAISSE'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+15/07/2019 17:12:53 | InsererEncaissement | SPX_CAIS_INSERERTRANSCAISS:Impossible d'insérer la valeur NULL dans la colonne 'FK_IDLCLIENT', table 'GALADB.dbo.TRANSCAISSE'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+15/07/2019 17:16:19 | InsererEncaissement | SPX_CAIS_INSERERTRANSCAISS:Impossible d'insérer la valeur NULL dans la colonne 'FK_IDLCLIENT', table 'GALADB.dbo.TRANSCAISSE'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+

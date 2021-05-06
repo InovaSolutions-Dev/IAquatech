@@ -1,0 +1,10 @@
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.RestService\bin\Galatee.RestService.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.RestService\bin\Galatee.RestService.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.RestService\obj\Debug\Galatee.RestService.csprojResolveAssemblyReference.cache
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.RestService\obj\Debug\Galatee.RestService.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.RestService\obj\Debug\Galatee.RestService.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.RestService\bin\Galatee.RestService.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.RestService\bin\Galatee.RestService.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.RestService\obj\Debug\Galatee.RestService.csprojResolveAssemblyReference.cache
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.RestService\obj\Debug\Galatee.RestService.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.RestService\obj\Debug\Galatee.RestService.pdb

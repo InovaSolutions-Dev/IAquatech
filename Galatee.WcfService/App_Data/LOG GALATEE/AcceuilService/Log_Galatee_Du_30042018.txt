@@ -1,0 +1,8 @@
+30/04/2018 10:45:49 | LicenceOK | Enregistrement annulé :
+Impossible d'ouvrir la base de données "GALADB" demandée par la connexion. La connexion a échoué.
+Échec de l'ouverture de session de l'utilisateur 'sa'.
+
+30/04/2018 10:47:04 | LicenceOK | Enregistrement annulé :
+Impossible d'ouvrir la base de données "GALADB" demandée par la connexion. La connexion a échoué.
+Échec de l'ouverture de session de l'utilisateur 'sa'.
+

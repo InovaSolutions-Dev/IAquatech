@@ -1,0 +1,18 @@
+27/09/2017 02:59:59 | SyncInvokeCreeDemande | Impossible d'insérer la valeur NULL dans la colonne 'FK_IDETAPESUIVANTE', table 'GALADB.wkf.DEMANDE_WORFKLOW'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction INSERT est en conflit avec la contrainte FOREIGN KEY "FK_COPIE_DMD_CIRCUIT_DEMANDE_WORFKLOW". Le conflit s'est produit dans la base de données "GALADB", table "wkf.DEMANDE_WORFKLOW", column 'PK_ID'.
+L'instruction INSERT est en conflit avec la contrainte FOREIGN KEY "FK_COPIE_DMD_CIRCUIT_DEMANDE_WORFKLOW". Le conflit s'est produit dans la base de données "GALADB", table "wkf.DEMANDE_WORFKLOW", column 'PK_ID'.
+L'instruction INSERT est en conflit avec la contrainte FOREIGN KEY "FK_COPIE_DMD_CONDITIONBRANCHEMENT_COPIE_DMD_CIRCUIT". Le conflit s'est produit dans la base de données "GALADB", table "wkf.COPIE_DMD_CIRCUIT", column 'PK_ID'.
+L'instruction a été arrêtée.
+L'instruction a été arrêtée.
+L'instruction a été arrêtée.
+L'instruction a été arrêtée.
+
+27/09/2017 02:59:59 | CreeDemande | Impossible d'insérer la valeur NULL dans la colonne 'FK_IDETAPESUIVANTE', table 'GALADB.wkf.DEMANDE_WORFKLOW'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction INSERT est en conflit avec la contrainte FOREIGN KEY "FK_COPIE_DMD_CIRCUIT_DEMANDE_WORFKLOW". Le conflit s'est produit dans la base de données "GALADB", table "wkf.DEMANDE_WORFKLOW", column 'PK_ID'.
+L'instruction INSERT est en conflit avec la contrainte FOREIGN KEY "FK_COPIE_DMD_CIRCUIT_DEMANDE_WORFKLOW". Le conflit s'est produit dans la base de données "GALADB", table "wkf.DEMANDE_WORFKLOW", column 'PK_ID'.
+L'instruction INSERT est en conflit avec la contrainte FOREIGN KEY "FK_COPIE_DMD_CONDITIONBRANCHEMENT_COPIE_DMD_CIRCUIT". Le conflit s'est produit dans la base de données "GALADB", table "wkf.COPIE_DMD_CIRCUIT", column 'PK_ID'.
+L'instruction a été arrêtée.
+L'instruction a été arrêtée.
+L'instruction a été arrêtée.
+L'instruction a été arrêtée.
+

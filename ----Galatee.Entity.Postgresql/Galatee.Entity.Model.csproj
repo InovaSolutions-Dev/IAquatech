@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F8EB6E94-C9B7-4CD7-BCED-97615C41044F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Galatee.Entity.Model</RootNamespace>
+    <AssemblyName>Galatee.Entity.Model</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=4.4.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Galatee.Dll\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABO07.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ABO07.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ABO07.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ABO07.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ABO07.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ABO07.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Accueil\AccueilProcedures.cs" />
+    <Compile Include="Administration\AdminProcedures.cs" />
+    <Compile Include="Administration\AdminProceduresSynchroBD.cs" />
+    <Compile Include="Administration\ImportFichierProcedure.cs" />
+    <Compile Include="CENTFAC.cs">
+      <DependentUpon>ABO07.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ConnectionStringConfiguration.cs" />
+    <Compile Include="Common\CommonProcedures.cs" />
+    <Compile Include="Caisse\CaisseProcedures.cs" />
+    <Compile Include="CPROFAC.cs">
+      <DependentUpon>ABO07.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CREDFAC.cs">
+      <DependentUpon>ABO07.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Devis\DevisProcedures.cs" />
+    <Compile Include="Eservice\EserviceProcedure.cs" />
+    <Compile Include="Facturation\FacturationMiseAJourProcedure.cs" />
+    <Compile Include="Facturation\FacturationProcedure.cs" />
+    <Compile Include="Fonctions\FonctionCaisse.cs" />
+    <Compile Include="Fraude\CENTRE.cs">
+      <DependentUpon>Fraude.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Fraude\CLIENT.cs">
+      <DependentUpon>Fraude.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Fraude\DENONCIATEUR.cs">
+      <DependentUpon>Fraude.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Fraude\ETAPEFRAUDE.cs">
+      <DependentUpon>Fraude.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Fraude\Fraude.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Fraude.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Fraude\FRAUDE.cs">
+      <DependentUpon>Fraude.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Fraude\Fraude.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Fraude.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Fraude\Fraude1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Fraude.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Fraude\FraudeProcedure.cs" />
+    <Compile Include="Fraude\SOURCECONTROLE.cs">
+      <DependentUpon>Fraude.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GALADB.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GALADB.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GALADB.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GALADB.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GALADB.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GALADB.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Habilitation\AuthentProcedures.cs" />
+    <Compile Include="Index\IndexProcedures.cs" />
+    <Compile Include="InterfaceComptable\InterfaceComptableProcedure.cs" />
+    <Compile Include="Interfaces\InterfaceProcedures.cs" />
+    <Compile Include="Mobiles\MobileProcedures.cs" />
+    <Compile Include="Parametrage\ParamProcedureWfl.cs" />
+    <Compile Include="Parametrage\ParamProcedure.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Entities.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Reclamation\ReclamationProcedure.cs" />
+    <Compile Include="Recouvrement\RecouvProcedures.cs" />
+    <Compile Include="Reports\ReportsProcedures.cs" />
+    <Compile Include="Rpnt\ConnectionStringConfiguration.cs" />
+    <Compile Include="Rpnt\RpntProcedures.cs" />
+    <Compile Include="Scelles\ScellesProcedure.cs" />
+    <Compile Include="SIG\SIGProcedures.cs" />
+    <Compile Include="Tarification\TarificationProcedure.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EntityDeploy Include="ABO07.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ABO07.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="ABO07.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ABO07.edmx</DependentUpon>
+      <LastGenOutput>ABO07.Context.cs</LastGenOutput>
+    </None>
+    <None Include="ABO07.edmx.diagram">
+      <DependentUpon>ABO07.edmx</DependentUpon>
+    </None>
+    <None Include="ABO07.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ABO07.edmx</DependentUpon>
+      <LastGenOutput>ABO07.cs</LastGenOutput>
+    </None>
+    <None Include="App.Config">
+      <SubType>Designer</SubType>
+    </None>
+    <EntityDeploy Include="Fraude\Fraude.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Fraude.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Fraude\Fraude.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Fraude.edmx</DependentUpon>
+      <LastGenOutput>Fraude.Context.cs</LastGenOutput>
+    </None>
+    <None Include="Fraude\Fraude.edmx.diagram">
+      <DependentUpon>Fraude.edmx</DependentUpon>
+    </None>
+    <None Include="Fraude\Fraude.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Fraude.edmx</DependentUpon>
+      <LastGenOutput>Fraude1.cs</LastGenOutput>
+    </None>
+    <EntityDeploy Include="GALADB.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>GALADB.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="GALADB.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>GALADB.edmx</DependentUpon>
+      <LastGenOutput>GALADB.Context.cs</LastGenOutput>
+    </None>
+    <None Include="GALADB.edmx.diagram">
+      <DependentUpon>GALADB.edmx</DependentUpon>
+    </None>
+    <None Include="GALADB.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>GALADB.edmx</DependentUpon>
+      <LastGenOutput>GALADB.cs</LastGenOutput>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\ABO07Entities.datasource" />
+    <None Include="Properties\DataSources\galadbEntities.datasource" />
+    <None Include="Properties\DataSources\galadbEntities11.datasource" />
+    <None Include="Rpnt\vssver.scc" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Galatee.Security\Galatee.Security.csproj">
+      <Project>{cd7b4752-8eb7-415c-b8c0-7257a91e4f6a}</Project>
+      <Name>Galatee.Security</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Galatee.Structure\Galatee.Structure.csproj">
+      <Project>{16d759ee-71cb-42b0-b9ea-13eacfd7dd01}</Project>
+      <Name>Galatee.Structure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Galatee.Tools\Galatee.Tools.csproj">
+      <Project>{74a2f81d-19cd-4b78-a3de-6cff91eb18d0}</Project>
+      <Name>Galatee.Tools</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="GALADB.edmx.sql" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

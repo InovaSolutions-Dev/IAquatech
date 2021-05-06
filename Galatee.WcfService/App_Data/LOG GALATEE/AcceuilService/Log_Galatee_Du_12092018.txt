@@ -1,0 +1,76 @@
+12/09/2018 13:41:22 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+12/09/2018 14:21:37 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+12/09/2018 14:46:28 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+12/09/2018 15:52:01 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+12/09/2018 16:07:58 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+12/09/2018 16:44:33 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+12/09/2018 16:48:34 | LogException | L'instruction INSERT est en conflit avec la contrainte FOREIGN KEY "FK_DABON_TYPETARIF". Le conflit s'est produit dans la base de données "AQUA", table "dbo.TYPETARIF", column 'PK_ID'.
+L'instruction a été arrêtée.
+
+12/09/2018 16:48:34 | LogException | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+12/09/2018 16:48:34 | ValiderMiseAjourDemandeTransition | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+12/09/2018 16:50:01 | LogException | L'instruction INSERT est en conflit avec la contrainte FOREIGN KEY "FK_DABON_TYPETARIF". Le conflit s'est produit dans la base de données "AQUA", table "dbo.TYPETARIF", column 'PK_ID'.
+L'instruction a été arrêtée.
+
+12/09/2018 16:50:01 | LogException | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+12/09/2018 16:50:01 | ValiderMiseAjourDemandeTransition | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+12/09/2018 16:51:51 | LogException | L'instruction INSERT est en conflit avec la contrainte FOREIGN KEY "FK_DABON_TYPETARIF". Le conflit s'est produit dans la base de données "AQUA", table "dbo.TYPETARIF", column 'PK_ID'.
+L'instruction a été arrêtée.
+
+12/09/2018 16:51:51 | LogException | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+12/09/2018 16:51:51 | ValiderMiseAjourDemandeTransition | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+12/09/2018 16:54:02 | LogException | L'instruction INSERT est en conflit avec la contrainte FOREIGN KEY "FK_DABON_TYPETARIF". Le conflit s'est produit dans la base de données "AQUA", table "dbo.TYPETARIF", column 'PK_ID'.
+L'instruction a été arrêtée.
+
+12/09/2018 16:54:02 | LogException | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+12/09/2018 16:54:02 | ValiderMiseAjourDemandeTransition | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+12/09/2018 17:00:31 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+12/09/2018 17:03:58 | LogException | L'instruction INSERT est en conflit avec la contrainte FOREIGN KEY "FK_DCLIENT_FERMABLE". Le conflit s'est produit dans la base de données "AQUA", table "dbo.RELANCE", column 'PK_ID'.
+L'instruction a été arrêtée.
+
+12/09/2018 17:03:58 | LogException | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+12/09/2018 17:03:58 | ValiderMiseAjourDemandeTransition | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+12/09/2018 17:09:43 | LogException | L'instruction INSERT est en conflit avec la contrainte FOREIGN KEY "FK_DCLIENT_FERMABLE". Le conflit s'est produit dans la base de données "AQUA", table "dbo.RELANCE", column 'PK_ID'.
+L'instruction a été arrêtée.
+
+12/09/2018 17:09:43 | LogException | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+12/09/2018 17:09:43 | ValiderMiseAjourDemandeTransition | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+12/09/2018 17:15:48 | LogException | L'instruction INSERT est en conflit avec la contrainte FOREIGN KEY "FK_COMPTEUR_ETATCOMPTEUR". Le conflit s'est produit dans la base de données "AQUA", table "dbo.ETATCOMPTEUR", column 'PK_ID'.
+L'instruction a été arrêtée.
+
+12/09/2018 17:15:48 | LogException | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+12/09/2018 17:15:48 | ValiderMiseAjourDemandeTransition | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+12/09/2018 17:17:09 | LogException | L'instruction INSERT est en conflit avec la contrainte FOREIGN KEY "FK_COMPTEUR_ETATCOMPTEUR". Le conflit s'est produit dans la base de données "AQUA", table "dbo.ETATCOMPTEUR", column 'PK_ID'.
+L'instruction a été arrêtée.
+
+12/09/2018 17:17:09 | LogException | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+12/09/2018 17:17:09 | ValiderMiseAjourDemandeTransition | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+12/09/2018 17:41:38 | LogException | Nom d'objet 'dbo.BRT' non valide.
+
+12/09/2018 17:41:38 | LogException | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+12/09/2018 17:41:38 | ValiderMiseAjourDemandeTransition | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+

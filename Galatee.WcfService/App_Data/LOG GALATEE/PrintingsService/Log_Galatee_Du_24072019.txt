@@ -1,0 +1,168 @@
+24/07/2019 11:45:59 | SyncInvokesetFromWebPart | 11111114557561
+
+24/07/2019 11:46:02 | Callback | localhost1818
+
+24/07/2019 11:46:02 | RenderReport | loadData
+
+24/07/2019 11:46:02 | RenderReport | 11111114557561
+
+24/07/2019 11:46:02 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+24/07/2019 11:46:02 | SyncInvokeGetCsPrintFromWebPart | 11111114557561
+
+24/07/2019 11:46:02 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+24/07/2019 11:46:03 | LoadData | 11111114557561
+
+24/07/2019 11:46:03 | LoadData | données trouve
+
+24/07/2019 11:46:03 | LoadData | Parametre non trouvé
+
+24/07/2019 11:46:03 | data | data trouve
+
+24/07/2019 11:46:04 | CreatePDFChemin | ~/Reports/Index/Index.rdlc | Chemin du fichier rdlc
+
+24/07/2019 11:46:04 | CreatePDFChemin | Add DataSources ok
+
+24/07/2019 11:46:04 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+24/07/2019 11:50:51 | SyncInvokesetFromWebPart | 11111115050803
+
+24/07/2019 11:50:51 | Callback | localhost1818
+
+24/07/2019 11:50:51 | RenderReport | loadData
+
+24/07/2019 11:50:51 | RenderReport | 11111115050803
+
+24/07/2019 11:50:51 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+24/07/2019 11:50:51 | SyncInvokeGetCsPrintFromWebPart | 11111115050803
+
+24/07/2019 11:50:51 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+24/07/2019 11:50:52 | LoadData | 11111115050803
+
+24/07/2019 11:50:52 | LoadData | données trouve
+
+24/07/2019 11:50:52 | LoadData | Parametre non trouvé
+
+24/07/2019 11:50:52 | data | data trouve
+
+24/07/2019 11:50:52 | CreatePDFChemin | ~/Reports/Index/Index.rdlc | Chemin du fichier rdlc
+
+24/07/2019 11:50:52 | CreatePDFChemin | Add DataSources ok
+
+24/07/2019 11:50:52 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+24/07/2019 11:55:27 | SyncInvokesetFromWebPart | 11111115526711
+
+24/07/2019 11:55:28 | Callback | localhost1818
+
+24/07/2019 11:55:28 | RenderReport | loadData
+
+24/07/2019 11:55:28 | RenderReport | 11111115526711
+
+24/07/2019 11:55:28 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+24/07/2019 11:55:28 | SyncInvokeGetCsPrintFromWebPart | 11111115526711
+
+24/07/2019 11:55:28 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+24/07/2019 11:55:28 | LoadData | 11111115526711
+
+24/07/2019 11:55:28 | LoadData | données trouve
+
+24/07/2019 11:55:28 | LoadData | Parametre non trouvé
+
+24/07/2019 11:55:28 | data | data trouve
+
+24/07/2019 11:55:28 | CreatePDFChemin | ~/Reports/Index/Index.rdlc | Chemin du fichier rdlc
+
+24/07/2019 11:55:28 | CreatePDFChemin | Add DataSources ok
+
+24/07/2019 11:55:28 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+24/07/2019 12:03:20 | SyncInvokesetFromWebPart | 1111112319418
+
+24/07/2019 12:03:20 | Callback | localhost1818
+
+24/07/2019 12:03:20 | RenderReport | loadData
+
+24/07/2019 12:03:20 | RenderReport | 1111112319418
+
+24/07/2019 12:03:20 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+24/07/2019 12:03:20 | SyncInvokeGetCsPrintFromWebPart | 1111112319418
+
+24/07/2019 12:03:20 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+24/07/2019 12:03:21 | LoadData | 1111112319418
+
+24/07/2019 12:03:21 | LoadData | données trouve
+
+24/07/2019 12:03:21 | LoadData | Parametre non trouvé
+
+24/07/2019 12:03:21 | data | data trouve
+
+24/07/2019 12:03:21 | CreatePDFChemin | ~/Reports/Index/Index.rdlc | Chemin du fichier rdlc
+
+24/07/2019 12:03:21 | CreatePDFChemin | Add DataSources ok
+
+24/07/2019 12:03:21 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+24/07/2019 12:05:28 | SyncInvokesetFromWebPart | 1111112528215
+
+24/07/2019 12:05:29 | Callback | localhost1818
+
+24/07/2019 12:05:29 | RenderReport | loadData
+
+24/07/2019 12:05:29 | RenderReport | 1111112528215
+
+24/07/2019 12:05:29 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+24/07/2019 12:05:29 | SyncInvokeGetCsPrintFromWebPart | 1111112528215
+
+24/07/2019 12:05:29 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+24/07/2019 12:05:29 | LoadData | 1111112528215
+
+24/07/2019 12:05:29 | LoadData | données trouve
+
+24/07/2019 12:05:29 | LoadData | Parametre non trouvé
+
+24/07/2019 12:05:29 | data | data trouve
+
+24/07/2019 12:05:29 | CreatePDFChemin | ~/Reports/Index/Index.rdlc | Chemin du fichier rdlc
+
+24/07/2019 12:05:29 | CreatePDFChemin | Add DataSources ok
+
+24/07/2019 12:05:29 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+24/07/2019 12:24:24 | SyncInvokesetFromWebPart | 1111112242491
+
+24/07/2019 12:24:24 | Callback | localhost1818
+
+24/07/2019 12:24:24 | RenderReport | loadData
+
+24/07/2019 12:24:24 | RenderReport | 1111112242491
+
+24/07/2019 12:24:24 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+24/07/2019 12:24:24 | SyncInvokeGetCsPrintFromWebPart | 1111112242491
+
+24/07/2019 12:24:24 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+24/07/2019 12:24:25 | LoadData | 1111112242491
+
+24/07/2019 12:24:25 | LoadData | données trouve
+
+24/07/2019 12:24:25 | LoadData | Parametre non trouvé
+
+24/07/2019 12:24:25 | data | data trouve
+
+24/07/2019 12:24:25 | CreatePDFChemin | ~/Reports/Index/Index.rdlc | Chemin du fichier rdlc
+
+24/07/2019 12:24:25 | CreatePDFChemin | Add DataSources ok
+
+24/07/2019 12:24:25 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+

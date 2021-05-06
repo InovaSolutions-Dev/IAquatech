@@ -1,0 +1,4 @@
+28/08/2018 10:31:28 | InsertMargasinVirtuelle | La référence d'objet n'est pas définie à une instance d'un objet.
+
+28/08/2018 10:34:15 | InsertMargasinVirtuelle | La référence d'objet n'est pas définie à une instance d'un objet.
+

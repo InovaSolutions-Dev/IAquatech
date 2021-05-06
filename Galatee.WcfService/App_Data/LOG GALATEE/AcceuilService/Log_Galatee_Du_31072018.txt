@@ -1,0 +1,132 @@
+31/07/2018 23:55:09 | SyncInvokeChargerPuissanceSouscrite | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+31/07/2018 23:55:09 | SyncInvokeChargerForfait | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+rne.
+
+31/07/2018 23:55:13 | SyncInvokeChargerCommune | Échec du fournisseur sous-jacent sur Open.
+
+31/07/2018 23:55:14 | SyncInvokeRetourneTousApplicationTaxe | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+31/07/2018 23:55:19 | SyncInvokeChargerPosteSource | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+31/07/2018 23:55:20 | SyncInvokeChargerTousMois | Échec du fournisseur sous-jacent sur Open.
+
+31/07/2018 23:55:31 | SyncInvokeChargerLesRueDesSecteur | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+31/07/2018 23:55:31 | SyncInvokeChargerLesSecteurs | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+31/07/2018 23:55:32 | SyncInvokeChargerLesTournees | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+31/07/2018 23:55:33 | SyncInvokeChargerDepartHTA | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+31/07/2018 23:55:34 | SyncInvokeRetourneListeDenominationAll | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+31/07/2018 23:55:35 | SyncInvokeRetourneOptionDemande | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+31/07/2018 23:55:37 | SyncInvokeRetourneFermable | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+
+
+31/07/2018 23:55:37 | SyncInvokeRetourneCategorie | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+rver)
+
+31/07/2018 23:55:38 | SyncInvokeRetourneCodeConsomateur | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+
+31/07/2018 23:56:23 | SyncInvokeRetourneOrigine | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+
+
+31/07/2018 23:56:23 | SyncInvokeRetourneTousCoper | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+31/07/2018 23:56:24 | SyncInvokeRetourneToutMarque | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+31/07/2018 23:56:34 | SyncInvokeRetourneTypeLot | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+31/07/2018 23:56:39 | SyncInvokeListeDesDonneesDesSite | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+rver)
+
+31/07/2018 23:56:39 | SyncInvokeChargerTarifParCategorie | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+31/07/2018 23:56:42 | SyncInvokeChargerPuissanceInstalle | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+er)
+
+31/07/2018 23:56:43 | LogException | Le chemin réseau n’a pas été trouvé
+
+31/07/2018 23:56:43 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+31/07/2018 23:56:43 | GetAllTypeClient | Échec du fournisseur sous-jacent sur Open.
+
+31/07/2018 23:57:50 | SyncInvokeChargerLesRueDesSecteur | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+31/07/2018 23:57:50 | SyncInvokeChargerLesQartiers | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+31/07/2018 23:57:50 | SyncInvokeChargerTousMois | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+
+
+31/07/2018 23:57:50 | SyncInvokeChargerDepartHTA | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+31/07/2018 23:57:51 | SyncInvokeChargerTousFrequence | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+31/07/2018 23:57:51 | SyncInvokeRetourneTousApplicationTaxe | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+31/07/2018 23:58:09 | SyncInvokeRetourneFermable | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+.
+
+31/07/2018 23:58:09 | SyncInvokeRetourneListeDenominationAll | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+31/07/2018 23:58:10 | SyncInvokeRetourneToutCadran | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+.
+
+
+31/07/2018 23:58:10 | SyncInvokeChargerReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+31/07/2018 23:58:25 | SyncInvokeRetourneListeDesCas | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+
+31/07/2018 23:58:25 | SyncInvokeChargerTarifParCategorie | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+31/07/2018 23:58:25 | SyncInvokeChargerTarifParReglageCompteur | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+ | SyncInvokeChargerCalibreCompteur | Échec du fournisseur sous-jacent sur Open.
+
+31/07/2018 23:59:10 | LicenceOK | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+

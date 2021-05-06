@@ -1,0 +1,25 @@
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Tools\bin\Debug\Galatee.Tools.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Tools\bin\Debug\Galatee.Tools.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Tools\obj\Debug\Galatee.Tools.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Tools\obj\Debug\Galatee.Tools.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Tools\obj\Debug\Galatee.Tools.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.Tools\bin\Debug\Galatee.Tools.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Tools\bin\Debug\Galatee.Tools.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.Tools\obj\Debug\Galatee.Tools.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.Tools\obj\Debug\Galatee.Tools.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Tools\obj\Debug\Galatee.Tools.pdb
+C:\SOURCES NOUVELLES\Galatee.Tools\bin\Debug\Galatee.Tools.dll
+C:\SOURCES NOUVELLES\Galatee.Tools\bin\Debug\Galatee.Tools.pdb
+C:\SOURCES NOUVELLES\Galatee.Tools\obj\Debug\Galatee.Tools.csprojResolveAssemblyReference.cache
+C:\SOURCES NOUVELLES\Galatee.Tools\obj\Debug\Galatee.Tools.dll
+C:\SOURCES NOUVELLES\Galatee.Tools\obj\Debug\Galatee.Tools.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Tools\bin\Debug\Galatee.Tools.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Tools\bin\Debug\Galatee.Tools.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Tools\obj\Debug\Galatee.Tools.csprojResolveAssemblyReference.cache
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Tools\obj\Debug\Galatee.Tools.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Tools\obj\Debug\Galatee.Tools.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Tools\bin\Debug\Galatee.Tools.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Tools\bin\Debug\Galatee.Tools.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Tools\obj\Debug\Galatee.Tools.csprojResolveAssemblyReference.cache
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Tools\obj\Debug\Galatee.Tools.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Tools\obj\Debug\Galatee.Tools.pdb

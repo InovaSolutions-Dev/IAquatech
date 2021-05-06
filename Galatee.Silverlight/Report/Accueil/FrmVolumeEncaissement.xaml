@@ -1,0 +1,46 @@
+﻿<sdk:ChildWindow 
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:controls="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls"
+          xmlns:Controls="clr-namespace:SilverlightContrib.Controls;assembly=SilverlightContrib.Controls" xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Galatee.Silverlight.Report.FrmVolumeEncaissement"
+           Width="875" Height="350" 
+           Title="Volume encaissement"  Style="{StaticResource ChildWindowGalatee}">
+    <Grid x:Name="LayoutRoot" Margin="2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="151*"/>
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="130*"/>
+            <ColumnDefinition Width="140"/>
+            <ColumnDefinition Width="65"/>
+            <ColumnDefinition Width="261*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="37" />
+            <RowDefinition Height="177"/>
+            <RowDefinition Height="18" />
+            <RowDefinition Height="0"/>
+            <RowDefinition Height="23"/>
+        </Grid.RowDefinitions>
+        <Controls:GroupBox FontWeight="SemiBold" x:Name="groupBox1_Copy3" Header="Critères" Content="" Grid.RowSpan="2" Grid.ColumnSpan="6" Margin="0,0,0,10" />
+        <Button x:Name="CancelButton" Content="Fermer" Click="CancelButton_Click" Width="138" Height="31" HorizontalAlignment="Right" Margin="0,0,23,2" Grid.Row="2" FontSize="18" RenderTransformOrigin="0.495,-0.348" VerticalAlignment="Bottom" Grid.Column="5" Grid.RowSpan="3" />
+        <Button x:Name="OKButton" Content="Imprimer" Click="OKButton_Click" Width="138" HorizontalAlignment="Right" Margin="0,8,166,2" Grid.Row="2" RenderTransformOrigin="-0.093,0.87" FontSize="18" Grid.Column="4" Grid.ColumnSpan="2" Grid.RowSpan="3"/>
+        <sdk:Label Height="31" Margin="7,46,24,0" x:Name="lbl_Forage" VerticalAlignment="Top" Content="Forage" FontSize="18" RenderTransformOrigin="0.899,0.913" Grid.Row="1" />
+        <Button Content="..." Height="31" HorizontalAlignment="Left" Margin="108,46,0,0" x:Name="btn_Forage" VerticalAlignment="Top" Width="43" Click="btn_Centre_Click" Grid.Row="1" RenderTransformOrigin="0.465,2.424" />
+        <sdk:Label Height="31" HorizontalAlignment="Left" Margin="43,51,0,0" x:Name="lbl_Mode" VerticalAlignment="Top" Width="157" Content="Mode règlement" FontSize="18" RenderTransformOrigin="0.899,0.913" Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="2" />
+        <Button Content="..." Height="31" HorizontalAlignment="Left" Margin="60,46,0,0" x:Name="btn_Mode" VerticalAlignment="Top" Width="36" Click="btn_Mode_Click" RenderTransformOrigin="0.465,2.424" Grid.Column="4" Grid.Row="1" Grid.ColumnSpan="2" />
+        <sdk:Label HorizontalAlignment="Left" Margin="6,10,0,0" x:Name="lbl_site" Width="82" Content="Centre"  FontSize="20" Grid.Row="1" Height="27" VerticalAlignment="Top"  />
+        <Button Content="..." Height="33" HorizontalAlignment="Left" Margin="108,0,0,140" x:Name="btn_Site"  VerticalAlignment="Bottom" Width="43" Click="btn_Site_Click" RenderTransformOrigin="0.465,-0.435" Grid.Row="1" />
+        <sdk:Label Height="31" HorizontalAlignment="Left" Margin="43,12,0,0" x:Name="lbl_Categorie" VerticalAlignment="Top" Width="120" Content="Catégorie" FontSize="18" RenderTransformOrigin="0.899,0.913" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="3" />
+        <Button Content="..." Height="31" HorizontalAlignment="Left" Margin="60,6,0,0" x:Name="btn_Categorie" VerticalAlignment="Top" Width="36" Click="btn_Categorie_Click" RenderTransformOrigin="-0.395,0.394" Grid.Column="4" Grid.Row="1" Grid.ColumnSpan="2" />
+        <sdk:Label Height="31" HorizontalAlignment="Left" Margin="7,89,0,0" x:Name="lbl_Centre_Copy3" VerticalAlignment="Top" Width="129" Content="Date de début" RenderTransformOrigin="0.139,3.381" FontSize="18" Grid.Row="1" />
+        <sdk:Label Height="31" HorizontalAlignment="Left" Margin="43,89,0,0" x:Name="lbl_Centre_Copy4" VerticalAlignment="Top" Width="102" Content="Date de fin "  FontSize="18" RenderTransformOrigin="0.683,4.419" Grid.ColumnSpan="2" Grid.Column="3" Grid.Row="1"/>
+        <sdk:DatePicker x:Name="dtp_DateFin" HorizontalAlignment="Left" Height="31" Margin="36,86,0,0" VerticalAlignment="Top" Width="215" Grid.Row="1" RenderTransformOrigin="0.605,0.455" Grid.Column="5"/>
+        <sdk:DatePicker x:Name="dtp_DateDebut" Margin="145,89,127,57" Grid.Row="1" Grid.ColumnSpan="4" Height="31"/>
+        <ProgressBar x:Name="prgBar" HorizontalAlignment="Left" Height="31" Margin="7,8,0,0" VerticalAlignment="Top" Width="360" IsIndeterminate="True" Grid.Row="2" Grid.ColumnSpan="3" Grid.RowSpan="3"/>
+        <ComboBox x:Name="cbo_comboForage" Grid.ColumnSpan="3" Margin="0,46,127,100" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Right" Width="233"/>
+        <ComboBox x:Name="cbo_combMode" Grid.Column="5" Margin="36,46,10,100" Grid.Row="1" RenderTransformOrigin="0.436,0.432"/>
+        <TextBox x:Name="Txt_Periode" Visibility="Collapsed" Grid.Column="5" Margin="19,86,23,60" Grid.Row="1"/>
+        <ComboBox x:Name="cbo_comboSite" Grid.ColumnSpan="3" Margin="0,6,127,140" Grid.Column="1" HorizontalAlignment="Right" Width="233" Grid.Row="1"/>
+        <ComboBox x:Name="cbo_combCategorie" Grid.Column="5" Margin="36,7,10,139" Grid.Row="1" RenderTransformOrigin="0.436,0.432"/>
+    </Grid>
+</sdk:ChildWindow>

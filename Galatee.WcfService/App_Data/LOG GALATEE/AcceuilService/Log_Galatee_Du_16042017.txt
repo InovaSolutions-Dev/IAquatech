@@ -1,0 +1,14 @@
+16/04/2017 00:18:41 | SyncInvokeValiderDemande | Un objet ayant la même clé existe déjà dans ObjectStateManager. ObjectStateManager ne peut pas assurer le suivi de plusieurs objets ayant la même clé.
+
+16/04/2017 02:01:05 | SyncInvokeRetourneEvenementClient | Un objet qui autorise la valeur Null doit posséder une valeur.
+
+16/04/2017 02:20:30 | SyncInvokeValiderDemande | Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+16/04/2017 02:22:17 | SyncInvokeValiderDemande | Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+16/04/2017 02:37:14 | SyncInvokeValiderDemande | Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+16/04/2017 02:41:24 | SyncInvokeValiderDemande | Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+16/04/2017 02:42:51 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+

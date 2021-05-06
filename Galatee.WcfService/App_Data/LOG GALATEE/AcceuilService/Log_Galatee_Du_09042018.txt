@@ -1,0 +1,45 @@
+09/04/2018 12:16:05 | ValiderMiseAjourDemandeTransition | Un objet qui autorise la valeur Null doit posséder une valeur.
+
+09/04/2018 12:18:50 | ValiderMiseAjourDemandeTransition | Un objet qui autorise la valeur Null doit posséder une valeur.
+
+09/04/2018 12:19:26 | ValiderMiseAjourDemandeTransition | Un objet qui autorise la valeur Null doit posséder une valeur.
+
+09/04/2018 12:20:04 | ValiderMiseAjourDemandeTransition | Un objet qui autorise la valeur Null doit posséder une valeur.
+
+09/04/2018 12:20:23 | ValiderMiseAjourDemandeTransition | Un objet qui autorise la valeur Null doit posséder une valeur.
+
+09/04/2018 12:40:50 | LogException | Violation de la contrainte PRIMARY KEY « AG_pkey ». Impossible d'insérer une clé en double dans l'objet « dbo.AG ». Valeur de clé dupliquée : (621158).
+L'instruction a été arrêtée.
+
+09/04/2018 12:40:50 | LogException | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+09/04/2018 12:40:50 | ValiderMiseAjourDemandeTransition | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+09/04/2018 12:44:31 | LogException | Violation de la contrainte UNIQUE KEY « CK_NUM_MARQUE ». Impossible d'insérer une clé en double dans l'objet « dbo.COMPTEUR ». Valeur de clé dupliquée : (65465, 02).
+L'instruction a été arrêtée.
+
+09/04/2018 12:44:31 | LogException | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+09/04/2018 12:44:31 | ValiderMiseAjourDemandeTransition | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+09/04/2018 12:45:47 | LogException | Violation de la contrainte UNIQUE KEY « CK_NUM_MARQUE ». Impossible d'insérer une clé en double dans l'objet « dbo.COMPTEUR ». Valeur de clé dupliquée : (65465, 02).
+L'instruction a été arrêtée.
+
+09/04/2018 12:45:47 | LogException | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+09/04/2018 12:45:47 | ValiderMiseAjourDemandeTransition | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+09/04/2018 12:46:11 | LogException | Violation de la contrainte UNIQUE KEY « CK_NUM_MARQUE ». Impossible d'insérer une clé en double dans l'objet « dbo.COMPTEUR ». Valeur de clé dupliquée : (65465, 02).
+L'instruction a été arrêtée.
+
+09/04/2018 12:46:11 | LogException | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+09/04/2018 12:46:11 | ValiderMiseAjourDemandeTransition | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+09/04/2018 12:58:06 | LogException | Violation de la contrainte UNIQUE KEY « CK_NUM_MARQUE ». Impossible d'insérer une clé en double dans l'objet « dbo.COMPTEUR ». Valeur de clé dupliquée : (65465, 02).
+L'instruction a été arrêtée.
+
+09/04/2018 12:58:06 | LogException | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+
+09/04/2018 12:58:06 | ValiderMiseAjourDemandeTransition | Une erreur s'est produite lors de la mise à jour des entrées. Pour plus d'informations, consultez l'exception interne.
+

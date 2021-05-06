@@ -1,0 +1,79 @@
+02/04/2019 00:03:38 | SyncInvokeChargerDepartHTA | ChargerpDepartHTA :Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:03:51 | SyncInvokeRetourneListeDenominationAll | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:04:08 | SyncInvokeRetourneListeDesCas | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:04:08 | SyncInvokeChargerTarifParReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:04:16 | SyncInvokeRetourneCodeRegroupement | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:15:22 | SyncInvokeChargerPuissanceInstalle | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:15:41 | SyncInvokeListeDesProduit | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:15:41 | SyncInvokeRetourneOptionDemande | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:15:44 | SyncInvokeRetourneCategorie | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:15:44 | SyncInvokeRetourneFermable | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:15:47 | SyncInvokeRetourneListeDenominationAll | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:15:48 | SyncInvokeRetourneNationnalite | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:15:50 | SyncInvokeRetourneCodeRegroupement | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:15:51 | SyncInvokeChargerCalibreCompteur | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:16:07 | SyncInvokeRetourneToutCadran | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:16:07 | SyncInvokeChargerReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:17:27 | SyncInvokeChargerType | Échec du fournisseur sous-jacent sur Open.
+
+en.
+
+02/04/2019 00:17:27 | SyncInvokeRetourneListeTaxe | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:17:28 | SyncInvokeRetourneCodeConsomateur | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:17:29 | SyncInvokeChargerTarifParCategorie | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:17:30 | SyncInvokeRetourneTousCoper | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:17:30 | SyncInvokeChargerCoutDemande | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:17:30 | SyncInvokeRetourneListeDesCas | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:37:00 | SyncInvokeRetourneTousApplicationTaxe | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:37:00 | SyncInvokeChargerCommune | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:37:00 | SyncInvokeChargerTypeBranchement | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:37:01 | SyncInvokeChargerLesSecteurs | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:37:02 | SyncInvokeChargerLesRueDesSecteur | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:37:03 | SyncInvokeRetourneOptionDemande | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:37:03 | SyncInvokeListeDesProduit | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:37:04 | SyncInvokeRetourneCategorie | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:37:04 | SyncInvokeRetourneFermable | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:37:16 | SyncInvokeChargerDepartHTA | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+02/04/2019 00:37:21 | SyncInvokeRetourneCodeConsomateur | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:37:33 | SyncInvokeRetourneToutMarque | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:37:36 | SyncInvokeChargerCoutDemande | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:37:37 | SyncInvokeRetourneListeDenominationAll | Échec du fournisseur sous-jacent sur Open.
+
+02/04/2019 00:37:37 | SyncInvokeRetourneListeDesCas | Échec du fournisseur sous-jacent sur Open.
+

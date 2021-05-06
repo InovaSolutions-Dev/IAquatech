@@ -1,0 +1,11 @@
+12/07/2017 14:07:38 | SyncInvokeValiderDemande | Debut Validation
+
+12/07/2017 14:15:40 | SyncInvokeValiderDemande | Debut Validation
+
+12/07/2017 14:19:44 | SyncInvokeValiderDemande | Debut Validation
+
+12/07/2017 18:35:20 | SyncInvokeValiderDemande | Debut Validation
+
+12/07/2017 23:27:08 | SyncInvokeListeDesDonneesDesSite | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+

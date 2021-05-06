@@ -1,0 +1,24 @@
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Security\bin\Debug\Galatee.Security.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Security\bin\Debug\Galatee.Security.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Security\obj\Debug\Galatee.Security.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Security\obj\Debug\Galatee.Security.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Security\obj\Debug\Galatee.Security.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.Security\bin\Debug\Galatee.Security.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Security\bin\Debug\Galatee.Security.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.Security\obj\Debug\Galatee.Security.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.Security\obj\Debug\Galatee.Security.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Security\obj\Debug\Galatee.Security.pdb
+C:\SOURCES NOUVELLES\Galatee.Security\bin\Debug\Galatee.Security.dll
+C:\SOURCES NOUVELLES\Galatee.Security\bin\Debug\Galatee.Security.pdb
+C:\SOURCES NOUVELLES\Galatee.Security\obj\Debug\Galatee.Security.dll
+C:\SOURCES NOUVELLES\Galatee.Security\obj\Debug\Galatee.Security.pdb
+C:\SOURCES NOUVELLES\Galatee.Security\obj\Debug\Galatee.Security.csprojResolveAssemblyReference.cache
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Security\bin\Debug\Galatee.Security.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Security\bin\Debug\Galatee.Security.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Security\obj\Debug\Galatee.Security.csprojResolveAssemblyReference.cache
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Security\obj\Debug\Galatee.Security.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Security\obj\Debug\Galatee.Security.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Security\bin\Debug\Galatee.Security.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Security\bin\Debug\Galatee.Security.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Security\obj\Debug\Galatee.Security.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Security\obj\Debug\Galatee.Security.pdb

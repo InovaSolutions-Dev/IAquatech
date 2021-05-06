@@ -1,0 +1,50 @@
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Security\Bin\Debug\Galatee.Silverlight.Security.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Security\Bin\Debug\Galatee.Silverlight.Security.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Security\Bin\Debug\en-US\Galatee.Silverlight.Security.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.Langue.resources
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.Langue.en-US.resources
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.csproj.GenerateResource.Cache
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Security\obj\Debug\en-US\Galatee.Silverlight.Security.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Security\Bin\Debug\Galatee.Silverlight.Security.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Security\Bin\Debug\Galatee.Silverlight.Security.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Security\Bin\Debug\en-US\Galatee.Silverlight.Security.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.Langue.resources
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.Langue.en-US.resources
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.csproj.GenerateResource.Cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Security\obj\Debug\en-US\Galatee.Silverlight.Security.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.pdb
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Security\Bin\Debug\Galatee.Silverlight.Security.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Security\Bin\Debug\Galatee.Silverlight.Security.pdb
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Security\Bin\Debug\en-US\Galatee.Silverlight.Security.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.csprojResolveAssemblyReference.cache
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.Langue.resources
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.Langue.en-US.resources
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.csproj.GenerateResource.Cache
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Security\obj\Debug\en-US\Galatee.Silverlight.Security.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Security\Bin\Debug\Galatee.Silverlight.Security.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Security\Bin\Debug\Galatee.Silverlight.Security.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Security\Bin\Debug\en-US\Galatee.Silverlight.Security.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.csprojResolveAssemblyReference.cache
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.Langue.resources
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.Langue.en-US.resources
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.csproj.GenerateResource.Cache
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Security\obj\Debug\en-US\Galatee.Silverlight.Security.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Security\Bin\Debug\Galatee.Silverlight.Security.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Security\Bin\Debug\Galatee.Silverlight.Security.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Security\Bin\Debug\en-US\Galatee.Silverlight.Security.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.csprojResolveAssemblyReference.cache
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.Langue.resources
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.Langue.en-US.resources
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.csproj.GenerateResource.Cache
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Security\obj\Debug\en-US\Galatee.Silverlight.Security.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Security\obj\Debug\Galatee.Silverlight.Security.pdb

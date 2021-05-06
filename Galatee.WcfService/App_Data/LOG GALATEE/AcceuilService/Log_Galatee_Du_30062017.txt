@@ -1,0 +1,13 @@
+30/06/2017 04:37:30 | SyncInvokeListeDesDonneesDesSite | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+30/06/2017 13:42:57 | SyncInvokeEclipseSimpleCompteurTransition | Une exception a été levée par l'initialiseur de type pour 'Oracle.DataAccess.Client.OracleCommand'.
+
+30/06/2017 13:46:17 | SyncInvokeEclipseSimpleCompteurTransition | Une exception a été levée par l'initialiseur de type pour 'Oracle.DataAccess.Client.OracleCommand'.
+
+30/06/2017 13:55:46 | SyncInvokeEclipseSimpleCompteurTransition | Une exception a été levée par l'initialiseur de type pour 'Oracle.DataAccess.Client.OracleCommand'.
+
+30/06/2017 13:57:57 | SyncInvokeEclipseSimpleCompteurTransition | Une exception a été levée par l'initialiseur de type pour 'Oracle.DataAccess.Client.OracleCommand'.
+
+30/06/2017 14:11:47 | SyncInvokeEclipseSimpleCompteurTransition | Une exception a été levée par l'initialiseur de type pour 'Oracle.DataAccess.Client.OracleCommand'.
+

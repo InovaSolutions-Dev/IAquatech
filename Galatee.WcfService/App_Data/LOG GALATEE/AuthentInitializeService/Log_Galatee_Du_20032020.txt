@@ -1,0 +1,6 @@
+20/03/2020 10:14:57 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+20/03/2020 10:19:09 | LogException | Échec de l'ouverture de session de l'utilisateur 'INOVA\s2bokai'.
+
+20/03/2020 10:19:10 | returnEnumereWrapper | Échec du fournisseur sous-jacent sur Open.
+

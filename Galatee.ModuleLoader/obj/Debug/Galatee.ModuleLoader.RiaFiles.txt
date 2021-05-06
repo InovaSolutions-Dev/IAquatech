@@ -1,0 +1,2 @@
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.ModuleLoader
+Generated_Code\Galatee.Silverlight.Web.g.cs

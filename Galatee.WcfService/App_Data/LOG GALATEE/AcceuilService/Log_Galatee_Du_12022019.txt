@@ -1,0 +1,10 @@
+12/02/2019 21:00:23 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+12/02/2019 21:12:00 | SyncInvokeCreeDemande | Impossible d'insérer la valeur NULL dans la colonne 'FK_IDOPERATION', table 'AQUATECH.wkf.DEMANDE_WORFKLOW'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+12/02/2019 21:12:00 | CreeDemande | Impossible d'insérer la valeur NULL dans la colonne 'FK_IDOPERATION', table 'AQUATECH.wkf.DEMANDE_WORFKLOW'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+12/02/2019 21:30:20 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+

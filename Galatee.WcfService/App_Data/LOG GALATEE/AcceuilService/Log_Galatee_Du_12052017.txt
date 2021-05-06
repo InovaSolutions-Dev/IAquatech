@@ -1,0 +1,8 @@
+12/05/2017 00:58:57 | SyncInvokeListeDesDonneesDesSite | Une erreur s'est produite lors de la préparation de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+12/05/2017 01:04:14 | SyncInvokeListeDesDonneesDesSite | Une erreur s'est produite lors de la préparation de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+12/05/2017 12:15:40 | SyncInvokeGetDevisByNumDemande | Debut =>12:15:39
+
+12/05/2017 12:16:02 | SyncInvokeGetDevisByNumDemande | Fin =>12:16:02
+

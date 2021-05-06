@@ -1,0 +1,33 @@
+25/08/2019 20:14:44 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+25/08/2019 20:15:16 | LogException | Le chemin réseau n’a pas été trouvé
+
+25/08/2019 20:15:16 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+25/08/2019 20:15:16 | returnEnumereWrapper | Échec du fournisseur sous-jacent sur Open.
+
+25/08/2019 20:38:41 | GetStrategieSecuriteActif | Le processus ne peut pas accéder au fichier 'F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_25082019.txt', car il est en cours d'utilisation par un autre processus.
+
+25/08/2019 20:38:41 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+25/08/2019 20:39:11 | LogException | Le chemin réseau n’a pas été trouvé
+
+25/08/2019 20:39:11 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+25/08/2019 20:39:11 | returnEnumereWrapper | Échec du fournisseur sous-jacent sur Open.
+
+25/08/2019 20:51:55 | GetStrategieSecuriteActif | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+25/08/2019 22:19:28 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+25/08/2019 22:20:06 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+25/08/2019 22:22:36 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+25/08/2019 22:22:37 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+25/08/2019 22:26:36 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+25/08/2019 22:26:37 | SyncInvokereturnEnumereWrapper | Suite traitement
+

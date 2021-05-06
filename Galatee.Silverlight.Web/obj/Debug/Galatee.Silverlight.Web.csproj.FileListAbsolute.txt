@@ -1,0 +1,48 @@
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Web\bin\Galatee.Silverlight.Web.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Web\bin\Galatee.Silverlight.Web.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Web\bin\AjaxControlToolkit.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Web\bin\DropDownCheckBoxes.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Web\bin\Galatee.Tools.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Web\bin\System.Web.Silverlight.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Web\bin\Galatee.Tools.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Web\obj\Debug\Galatee.Silverlight.Web.csprojResolveAssemblyReference.cache
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Web\obj\Debug\RdlCompile.cache
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Web\obj\Debug\RdlCompile.compiled
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Web\obj\Debug\Galatee.Silverlight.Web.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Web\obj\Debug\Galatee.Silverlight.Web.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Web\obj\Debug\Galatee.Silverlight.Web.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Web\obj\Debug\RdlCompile.cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Web\obj\Debug\RdlCompile.compiled
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Web\obj\Debug\Galatee.Silverlight.Web.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Web\obj\Debug\Galatee.Silverlight.Web.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Web\bin\Galatee.Silverlight.Web.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Web\bin\Galatee.Silverlight.Web.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Web\bin\AjaxControlToolkit.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Web\bin\DropDownCheckBoxes.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Web\bin\Galatee.Tools.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Web\bin\System.Web.Silverlight.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Web\bin\Galatee.Tools.pdb
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Web\bin\Galatee.Silverlight.Web.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Web\bin\Galatee.Silverlight.Web.pdb
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Web\bin\AjaxControlToolkit.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Web\bin\DropDownCheckBoxes.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Web\bin\Galatee.Tools.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Web\bin\System.Web.Silverlight.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Web\bin\Galatee.Tools.pdb
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Web\obj\Debug\Galatee.Silverlight.Web.csprojResolveAssemblyReference.cache
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Web\obj\Debug\RdlCompile.cache
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Web\obj\Debug\RdlCompile.compiled
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Web\obj\Debug\Galatee.Silverlight.Web.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Web\obj\Debug\Galatee.Silverlight.Web.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Web\bin\Galatee.Silverlight.Web.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Web\bin\Galatee.Silverlight.Web.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Web\bin\AjaxControlToolkit.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Web\bin\DropDownCheckBoxes.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Web\bin\Galatee.Tools.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Web\bin\System.Web.Silverlight.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Web\bin\Galatee.Tools.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Web\obj\Debug\Galatee.Silverlight.Web.csprojResolveAssemblyReference.cache
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Web\obj\Debug\RdlCompile.cache
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Web\obj\Debug\RdlCompile.compiled
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Web\obj\Debug\Galatee.Silverlight.Web.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Web\obj\Debug\Galatee.Silverlight.Web.pdb

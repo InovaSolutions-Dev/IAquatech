@@ -1,0 +1,6 @@
+22/07/2020 17:00:14 | SyncInvokeRetourneListeAllUser | ok
+
+22/07/2020 18:22:41 | LogException | Échec de l'ouverture de session de l'utilisateur 'INOVA\s2yapor'.
+
+22/07/2020 18:22:41 | RetourneListePoste | Échec du fournisseur sous-jacent sur Open.
+

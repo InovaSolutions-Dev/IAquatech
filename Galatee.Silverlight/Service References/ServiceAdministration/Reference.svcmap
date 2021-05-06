@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="598eae09-ce7f-4e54-90b2-dfbdcc7f5449" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1818/Administration/AdministrationService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="AdministrationService.xsd" MetadataType="Schema" ID="e823aa1b-0cfe-4a0e-a8da-5ef7924ef0b1" SourceId="1" SourceUrl="http://localhost:1818/Administration/AdministrationService.svc?xsd=xsd1" />
+    <MetadataFile FileName="AdministrationService1.xsd" MetadataType="Schema" ID="5fdebd40-e68a-4ef0-868f-573be44d580b" SourceId="1" SourceUrl="http://localhost:1818/Administration/AdministrationService.svc?xsd=xsd0" />
+    <MetadataFile FileName="AdministrationService2.xsd" MetadataType="Schema" ID="1bdf868a-7e11-487d-87ff-4e084a5e0400" SourceId="1" SourceUrl="http://localhost:1818/Administration/AdministrationService.svc?xsd=xsd4" />
+    <MetadataFile FileName="AdministrationService3.xsd" MetadataType="Schema" ID="d2c2d2b0-b468-4518-a6dc-9fafaf0e49f5" SourceId="1" SourceUrl="http://localhost:1818/Administration/AdministrationService.svc?xsd=xsd5" />
+    <MetadataFile FileName="AdministrationService5.xsd" MetadataType="Schema" ID="40734bea-6550-4205-b8a6-93fe0b301713" SourceId="1" SourceUrl="http://localhost:1818/Administration/AdministrationService.svc?xsd=xsd3" />
+    <MetadataFile FileName="AdministrationService.wsdl" MetadataType="Wsdl" ID="eb59d8d2-be2b-43b1-bdde-0cae61cd737f" SourceId="1" SourceUrl="http://localhost:1818/Administration/AdministrationService.svc?wsdl" />
+    <MetadataFile FileName="AdministrationService6.xsd" MetadataType="Schema" ID="4a8f1880-1a71-498e-84c4-6c9ea6e03ae1" SourceId="1" SourceUrl="http://localhost:1818/Administration/AdministrationService.svc?xsd=xsd2" />
+    <MetadataFile FileName="AdministrationService.disco" MetadataType="Disco" ID="891d5cad-fb6c-4af8-aa9d-8d36f7b47a01" SourceId="1" SourceUrl="http://localhost:1818/Administration/AdministrationService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,37 @@
+01/04/2019 12:17:12 | returnEnumereWrapper | La référence d'objet n'est pas définie à une instance d'un objet.
+
+01/04/2019 12:17:40 | returnEnumereWrapper | La référence d'objet n'est pas définie à une instance d'un objet.
+
+01/04/2019 12:17:57 | returnEnumereWrapper | La référence d'objet n'est pas définie à une instance d'un objet.
+
+01/04/2019 12:18:25 | LogException | Le compte référencé est actuellement verrouillé et il se peut qu’il ne soit pas possible de s’y connecter
+
+01/04/2019 12:18:25 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+01/04/2019 12:18:25 | GetStrategieSecuriteActif | Échec du fournisseur sous-jacent sur Open.
+
+01/04/2019 12:18:29 | returnEnumereWrapper | La référence d'objet n'est pas définie à une instance d'un objet.
+
+01/04/2019 12:19:30 | LogException | Le compte référencé est actuellement verrouillé et il se peut qu’il ne soit pas possible de s’y connecter
+
+01/04/2019 12:19:30 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+01/04/2019 12:19:30 | returnEnumereWrapper | Échec du fournisseur sous-jacent sur Open.
+
+01/04/2019 12:20:48 | GetStrategieSecuriteActif | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+01/04/2019 23:47:15 | returnEnumereWrapper | La référence d'objet n'est pas définie à une instance d'un objet.
+
+01/04/2019 23:58:06 | LogException | Dépassement du délai d’attente
+
+01/04/2019 23:58:06 | LogException | Une connexion a été établie avec le serveur, mais une erreur s'est ensuite produite pendant la négociation préalable à l'ouverture de session. (provider: SSL Provider, error: 0 - Dépassement du délai d’attente.)
+
+01/04/2019 23:58:06 | returnEnumereWrapper | Échec du fournisseur sous-jacent sur Open.
+
+01/04/2019 23:58:07 | LogException | Dépassement du délai d’attente
+
+01/04/2019 23:58:07 | LogException | Une connexion a été établie avec le serveur, mais une erreur s'est ensuite produite pendant la négociation préalable à l'ouverture de session. (provider: SSL Provider, error: 0 - Dépassement du délai d’attente.)
+
+01/04/2019 23:58:07 | GetStrategieSecuriteActif | Échec du fournisseur sous-jacent sur Open.
+

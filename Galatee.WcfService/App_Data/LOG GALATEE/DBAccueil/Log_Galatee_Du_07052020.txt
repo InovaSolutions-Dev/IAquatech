@@ -1,0 +1,1329 @@
+07/05/2020 16:26:17 | .ctor | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:18 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:20 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:20 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:21 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:21 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:22 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:23 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:23 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:23 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:24 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:24 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:25 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:25 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:26 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:26 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:27 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:27 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:28 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:29 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:30 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:31 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:32 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:33 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:33 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:34 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:34 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:35 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:35 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:36 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:36 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:37 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:38 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:38 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:39 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:39 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:39 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:40 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:40 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:41 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:41 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:42 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:42 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:43 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:43 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:44 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:44 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:45 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:45 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:46 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:46 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:47 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:47 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:48 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:48 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:49 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:49 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:50 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:51 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:51 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:52 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:52 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:53 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:53 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:54 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:54 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:54 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:55 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:55 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:56 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:56 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:57 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:57 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:57 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:58 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:26:58 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:26:59 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:00 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:01 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:02 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:02 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:02 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:03 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:03 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:04 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:04 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:05 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:06 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:07 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:08 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:08 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:08 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:09 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:09 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:09 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:10 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:10 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:11 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:12 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:12 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:13 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:13 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:13 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:14 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:14 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:15 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:15 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:16 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:16 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:16 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:17 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:17 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:18 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:18 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:18 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:19 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:19 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:20 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:20 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:21 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:21 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:21 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:22 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:23 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:23 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:24 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:24 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:24 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:25 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:25 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:26 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:27 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:28 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:28 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:28 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:29 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:29 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:30 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:30 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:31 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:32 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:33 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:33 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:34 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:35 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:35 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:35 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:36 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:36 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:37 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:38 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:38 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:39 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:40 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:41 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:41 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:42 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:42 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:43 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:43 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:44 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:45 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:46 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:46 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:47 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:48 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:48 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:48 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:49 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:49 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:50 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:50 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:50 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:51 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:51 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:51 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:52 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:52 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:52 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:53 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:53 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:53 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:54 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:54 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:54 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:55 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:55 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:56 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:56 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:57 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:57 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:57 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:57 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:58 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:27:58 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:59 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:27:59 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:00 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:00 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:00 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:01 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:02 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:02 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:03 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:04 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:04 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:05 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:06 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:06 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:07 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:07 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:08 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:09 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:09 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:09 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:10 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:10 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:10 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:11 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:11 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:12 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:12 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:13 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:13 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:13 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:14 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:14 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:15 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:16 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:16 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:17 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:17 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:18 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:18 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:19 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:20 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:20 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:21 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:21 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:22 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:22 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:23 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:24 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:24 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:25 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:25 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:25 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:25 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:26 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:26 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:27 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:27 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:27 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:27 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:27 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:28 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:28 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:28 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:29 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:29 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:29 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:29 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:30 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:30 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:30 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:30 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:31 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:31 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:31 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:31 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:32 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:32 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:32 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:33 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:33 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:33 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:34 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:34 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:34 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:35 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:35 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:35 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:35 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:36 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:36 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:36 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:36 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:37 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:37 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:37 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:37 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:38 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:38 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:38 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:38 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:39 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:39 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:39 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:40 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:40 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:41 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:41 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:42 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:42 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:43 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:43 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:44 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:44 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:44 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:45 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:45 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:45 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:46 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:46 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:46 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:46 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:47 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:47 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:48 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:48 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:49 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:49 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:50 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:50 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:50 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:50 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:51 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:51 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:51 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:51 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:51 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:52 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:52 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:52 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:52 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:53 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:53 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:53 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:53 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:53 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:54 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:54 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:54 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:54 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:54 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:55 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:55 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:55 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:28:55 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:56 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:56 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:56 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:57 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:57 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:57 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:58 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:58 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:59 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:59 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:28:59 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:00 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:00 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:00 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:01 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:01 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:01 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:02 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:02 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:02 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:03 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:03 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:03 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:03 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:04 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:04 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:04 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:04 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:05 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:05 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:05 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:05 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:06 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:06 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:06 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:06 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:07 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:07 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:07 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:08 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:08 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:08 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:08 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:08 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:09 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:09 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:09 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:09 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:10 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:10 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:10 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:10 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:11 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:11 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:11 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:12 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:12 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:12 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:12 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:13 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:13 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:13 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:13 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:13 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:14 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:14 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:14 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:14 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:14 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:15 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:15 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:15 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:15 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:15 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:15 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:15 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:16 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:16 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:16 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:16 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:16 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:16 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:16 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:16 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:17 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:17 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:17 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:17 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:17 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:17 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:17 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:17 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:17 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+07/05/2020 16:29:18 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:18 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:18 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:18 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:18 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:18 | GetSqlConnexionString | Le processus ne peut pas accéder au fichier 'D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\App_Data\LOG GALATEE\DBAccueil\Log_Galatee_Du_07052020.txt', car il est en cours d'utilisation par un autre processus.
+
+tance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:19 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:19 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:19 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:19 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:19 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:19 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:19 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:19 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:20 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:20 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:20 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:20 | GetSqlConnexionString | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+07/05/2020 16:29:20 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+

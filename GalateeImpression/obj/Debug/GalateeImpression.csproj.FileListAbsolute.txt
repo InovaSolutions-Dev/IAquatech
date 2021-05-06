@@ -1,0 +1,33 @@
+D:\PROJET IWEBS\IWEB\Galatee\GalateeImpression\bin\Debug\GalateeImpression.exe.config
+D:\PROJET IWEBS\IWEB\Galatee\GalateeImpression\bin\Debug\GalateeImpression.exe
+D:\PROJET IWEBS\IWEB\Galatee\GalateeImpression\bin\Debug\GalateeImpression.pdb
+D:\PROJET IWEBS\IWEB\Galatee\GalateeImpression\obj\Debug\GalateeImpression.ProjectInstaller.resources
+D:\PROJET IWEBS\IWEB\Galatee\GalateeImpression\obj\Debug\GalateeImpression.Service1.resources
+D:\PROJET IWEBS\IWEB\Galatee\GalateeImpression\obj\Debug\GalateeImpression.csproj.GenerateResource.Cache
+D:\PROJET IWEBS\IWEB\Galatee\GalateeImpression\obj\Debug\GalateeImpression.exe
+D:\PROJET IWEBS\IWEB\Galatee\GalateeImpression\obj\Debug\GalateeImpression.pdb
+H:\DB\EDMSA\iWEBS\DEPLOIEMENT\CODE IWEBS\IWEB100216\Galatee\GalateeImpression\bin\Debug\GalateeImpression.exe.config
+H:\DB\EDMSA\iWEBS\DEPLOIEMENT\CODE IWEBS\IWEB100216\Galatee\GalateeImpression\bin\Debug\GalateeImpression.exe.manifest
+H:\DB\EDMSA\iWEBS\DEPLOIEMENT\CODE IWEBS\IWEB100216\Galatee\GalateeImpression\bin\Debug\GalateeImpression.application
+H:\DB\EDMSA\iWEBS\DEPLOIEMENT\CODE IWEBS\IWEB100216\Galatee\GalateeImpression\bin\Debug\GalateeImpression.exe
+H:\DB\EDMSA\iWEBS\DEPLOIEMENT\CODE IWEBS\IWEB100216\Galatee\GalateeImpression\bin\Debug\GalateeImpression.pdb
+H:\DB\EDMSA\iWEBS\DEPLOIEMENT\CODE IWEBS\IWEB100216\Galatee\GalateeImpression\obj\Debug\GalateeImpression.ProjectInstaller.resources
+H:\DB\EDMSA\iWEBS\DEPLOIEMENT\CODE IWEBS\IWEB100216\Galatee\GalateeImpression\obj\Debug\GalateeImpression.Service1.resources
+H:\DB\EDMSA\iWEBS\DEPLOIEMENT\CODE IWEBS\IWEB100216\Galatee\GalateeImpression\obj\Debug\GalateeImpression.csproj.GenerateResource.Cache
+H:\DB\EDMSA\iWEBS\DEPLOIEMENT\CODE IWEBS\IWEB100216\Galatee\GalateeImpression\obj\Debug\GalateeImpression.exe.manifest
+H:\DB\EDMSA\iWEBS\DEPLOIEMENT\CODE IWEBS\IWEB100216\Galatee\GalateeImpression\obj\Debug\GalateeImpression.application
+H:\DB\EDMSA\iWEBS\DEPLOIEMENT\CODE IWEBS\IWEB100216\Galatee\GalateeImpression\obj\Debug\GalateeImpression.exe
+H:\DB\EDMSA\iWEBS\DEPLOIEMENT\CODE IWEBS\IWEB100216\Galatee\GalateeImpression\obj\Debug\GalateeImpression.pdb
+F:\SOURCES\AQUATECH\Galatee_save\GalateeImpression\bin\Debug\GalateeImpression.exe.config
+F:\SOURCES\AQUATECH\Galatee_save\GalateeImpression\bin\Debug\GalateeImpression.exe.manifest
+F:\SOURCES\AQUATECH\Galatee_save\GalateeImpression\bin\Debug\GalateeImpression.application
+F:\SOURCES\AQUATECH\Galatee_save\GalateeImpression\bin\Debug\GalateeImpression.exe
+F:\SOURCES\AQUATECH\Galatee_save\GalateeImpression\bin\Debug\GalateeImpression.pdb
+F:\SOURCES\AQUATECH\Galatee_save\GalateeImpression\obj\Debug\GalateeImpression.csprojResolveAssemblyReference.cache
+F:\SOURCES\AQUATECH\Galatee_save\GalateeImpression\obj\Debug\GalateeImpression.ProjectInstaller.resources
+F:\SOURCES\AQUATECH\Galatee_save\GalateeImpression\obj\Debug\GalateeImpression.Service1.resources
+F:\SOURCES\AQUATECH\Galatee_save\GalateeImpression\obj\Debug\GalateeImpression.csproj.GenerateResource.Cache
+F:\SOURCES\AQUATECH\Galatee_save\GalateeImpression\obj\Debug\GalateeImpression.exe.manifest
+F:\SOURCES\AQUATECH\Galatee_save\GalateeImpression\obj\Debug\GalateeImpression.application
+F:\SOURCES\AQUATECH\Galatee_save\GalateeImpression\obj\Debug\GalateeImpression.exe
+F:\SOURCES\AQUATECH\Galatee_save\GalateeImpression\obj\Debug\GalateeImpression.pdb

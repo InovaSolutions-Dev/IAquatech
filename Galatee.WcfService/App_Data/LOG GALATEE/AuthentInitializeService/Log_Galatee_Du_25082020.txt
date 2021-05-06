@@ -1,0 +1,4 @@
+25/08/2020 10:07:45 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+25/08/2020 10:07:46 | SyncInvokereturnEnumereWrapper | Suite traitement
+

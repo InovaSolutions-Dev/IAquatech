@@ -1,0 +1,16 @@
+08/04/2020 09:02:27 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+08/04/2020 09:02:56 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: SQL Network Interfaces, error: 26 - Erreur lors de la localisation du serveur/de l'instance spécifiés)
+
+08/04/2020 09:02:56 | returnEnumereWrapper | Échec du fournisseur sous-jacent sur Open.
+
+08/04/2020 09:12:05 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+08/04/2020 09:13:49 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+08/04/2020 09:14:29 | SyncInvokereturnEnumereWrapper | Suite traitement
+
+08/04/2020 09:24:08 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+08/04/2020 09:24:08 | SyncInvokereturnEnumereWrapper | Suite traitement
+

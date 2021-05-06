@@ -1,0 +1,24 @@
+01/06/2018 18:45:03 | SyncInvokeCreeDemande | SPX_ACC_INSERTORUPDATE_DCLIENT:Dépassement SqlDateTime. Doit être compris entre 1/1/1753 12:00:00 AM et 31/12/9999 11:59:59 PM.
+
+01/06/2018 18:45:03 | CreeDemande | SPX_ACC_INSERTORUPDATE_DCLIENT:Dépassement SqlDateTime. Doit être compris entre 1/1/1753 12:00:00 AM et 31/12/9999 11:59:59 PM.
+
+01/06/2018 18:50:59 | SyncInvokeCreeDemande | SPX_ACC_INSERTORUPDATE_DCLIENT:Dépassement SqlDateTime. Doit être compris entre 1/1/1753 12:00:00 AM et 31/12/9999 11:59:59 PM.
+
+01/06/2018 18:50:59 | CreeDemande | SPX_ACC_INSERTORUPDATE_DCLIENT:Dépassement SqlDateTime. Doit être compris entre 1/1/1753 12:00:00 AM et 31/12/9999 11:59:59 PM.
+
+01/06/2018 18:57:20 | SyncInvokeCreeDemande | SPX_ACC_INSERTORUPDATE_DCLIENT:Dépassement SqlDateTime. Doit être compris entre 1/1/1753 12:00:00 AM et 31/12/9999 11:59:59 PM.
+
+01/06/2018 18:57:20 | CreeDemande | SPX_ACC_INSERTORUPDATE_DCLIENT:Dépassement SqlDateTime. Doit être compris entre 1/1/1753 12:00:00 AM et 31/12/9999 11:59:59 PM.
+
+01/06/2018 19:14:27 | SyncInvokeCreeDemande | Impossible d'insérer la valeur NULL dans la colonne 'FK_IDOPERATION', table 'GALADB.wkf.DEMANDE_WORFKLOW'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+01/06/2018 19:14:27 | CreeDemande | Impossible d'insérer la valeur NULL dans la colonne 'FK_IDOPERATION', table 'GALADB.wkf.DEMANDE_WORFKLOW'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+01/06/2018 22:28:54 | SyncInvokeCreeDemande | SPX_ACC_INSERTORUPDATE_DCLIENT:Impossible d'insérer la valeur NULL dans la colonne 'CODECONSO', table 'GALADB.dbo.DCLIENT'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+
+01/06/2018 22:28:54 | CreeDemande | SPX_ACC_INSERTORUPDATE_DCLIENT:Impossible d'insérer la valeur NULL dans la colonne 'CODECONSO', table 'GALADB.dbo.DCLIENT'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+

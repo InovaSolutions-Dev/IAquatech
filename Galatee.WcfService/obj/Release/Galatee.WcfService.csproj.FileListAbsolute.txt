@@ -1,0 +1,302 @@
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\bin\WcfService.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\bin\WcfService.pdb
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.DataAccess.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Security.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Structure.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Tools.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.WorkflowLibrary.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.WorkflowManager.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Entity.Model.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\bin\EntityFramework.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Oracle.DataAccess.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.DataAccess.pdb
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Structure.pdb
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.WorkflowLibrary.pdb
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.WorkflowManager.pdb
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Security.pdb
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Tools.pdb
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Entity.Model.pdb
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\obj\Release\Galatee.WcfService.csprojResolveAssemblyReference.cache
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\obj\Release\WcfService.dll
+D:\PROJETIWEBS\IWEB EN COURS\Galatee\Galatee.WcfService\obj\Release\WcfService.pdb
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\obj\Release\Galatee.WcfService.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\bin\WcfService.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\bin\WcfService.pdb
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.DataAccess.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Security.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Structure.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Tools.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.WorkflowLibrary.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.WorkflowManager.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Entity.Model.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\bin\EntityFramework.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Oracle.DataAccess.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.DataAccess.pdb
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Structure.pdb
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.WorkflowLibrary.pdb
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.WorkflowManager.pdb
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Security.pdb
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Tools.pdb
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Entity.Model.pdb
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\obj\Release\WcfService.dll
+C:\Users\EDMSA\Documents\EDM\New\new\New\IWEB EN COURS\Galatee\Galatee.WcfService\obj\Release\WcfService.pdb
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\bin\WcfService.dll
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\bin\WcfService.pdb
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.DataAccess.dll
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Security.dll
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Structure.dll
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Tools.dll
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.WorkflowLibrary.dll
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.WorkflowManager.dll
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Entity.Model.dll
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\bin\EntityFramework.dll
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Oracle.DataAccess.dll
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.DataAccess.pdb
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Structure.pdb
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.WorkflowLibrary.pdb
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.WorkflowManager.pdb
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Security.pdb
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Tools.pdb
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\bin\Galatee.Entity.Model.pdb
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\obj\Release\Galatee.WcfService.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\obj\Release\WcfService.dll
+C:\Users\EDMSA\Documents\IWEB EN COURS\Galatee\Galatee.WcfService\obj\Release\WcfService.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\bin\WcfService.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\bin\WcfService.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\bin\Galatee.DataAccess.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\bin\Galatee.Security.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\bin\Galatee.Structure.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\bin\Galatee.Tools.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\bin\Galatee.WorkflowLibrary.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\bin\Galatee.WorkflowManager.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\bin\Galatee.Entity.Model.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\bin\EntityFramework.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\bin\Oracle.DataAccess.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\bin\Galatee.DataAccess.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\bin\Galatee.Structure.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\bin\Galatee.WorkflowLibrary.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\bin\Galatee.WorkflowManager.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\bin\Galatee.Security.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\bin\Galatee.Tools.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\bin\Galatee.Entity.Model.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\obj\Release\Galatee.WcfService.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\obj\Release\WcfService.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.WcfService\obj\Release\WcfService.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\bin\WcfService.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\bin\WcfService.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\bin\Galatee.DataAccess.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\bin\Galatee.Security.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\bin\Galatee.Structure.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\bin\Galatee.Tools.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\bin\Galatee.WorkflowLibrary.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\bin\Galatee.WorkflowManager.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\bin\Galatee.Entity.Model.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\bin\EntityFramework.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\bin\Oracle.DataAccess.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\bin\Galatee.DataAccess.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\bin\Galatee.Structure.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\bin\Galatee.WorkflowLibrary.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\bin\Galatee.WorkflowManager.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\bin\Galatee.Security.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\bin\Galatee.Tools.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\bin\Galatee.Entity.Model.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\obj\Release\Galatee.WcfService.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\obj\Release\WcfService.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\030717\Galatee\Galatee.WcfService\obj\Release\WcfService.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\obj\Release\Galatee.WcfService.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\bin\WcfService.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\bin\WcfService.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\bin\Galatee.DataAccess.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\bin\Galatee.Security.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\bin\Galatee.Structure.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\bin\Galatee.Tools.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\bin\Galatee.WorkflowLibrary.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\bin\Galatee.WorkflowManager.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\bin\Galatee.Entity.Model.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\bin\EntityFramework.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\bin\Oracle.DataAccess.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\bin\Galatee.DataAccess.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\bin\Galatee.Structure.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\bin\Galatee.WorkflowLibrary.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\bin\Galatee.WorkflowManager.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\bin\Galatee.Security.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\bin\Galatee.Tools.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\bin\Galatee.Entity.Model.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\obj\Release\WcfService.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee - Copie\Galatee.WcfService\obj\Release\WcfService.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\WcfService.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\WcfService.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\Galatee.DataAccess.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\Galatee.Security.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\Galatee.Structure.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\Galatee.Tools.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\Galatee.WorkflowLibrary.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\Galatee.WorkflowManager.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\Galatee.Entity.Model.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\EntityFramework.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\Newtonsoft.Json.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\Oracle.DataAccess.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\Galatee.DataAccess.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\Galatee.Structure.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\Galatee.WorkflowLibrary.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\Galatee.WorkflowManager.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\Galatee.Security.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\Galatee.Tools.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\bin\Galatee.Entity.Model.pdb
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\obj\Release\Galatee.WcfService.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\obj\Release\WcfService.dll
+C:\Users\EDMSA\Documents\Version Stable Iwebs\060717\Galatee_Save\Galatee.WcfService\obj\Release\WcfService.pdb
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\WcfService.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\WcfService.pdb
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\Galatee.DataAccess.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\Galatee.Security.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\Galatee.Structure.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\Galatee.Tools.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\Galatee.WorkflowLibrary.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\Galatee.WorkflowManager.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\Galatee.Entity.Model.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\EntityFramework.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\Newtonsoft.Json.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\Oracle.DataAccess.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\Galatee.DataAccess.pdb
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\Galatee.Structure.pdb
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\Galatee.WorkflowLibrary.pdb
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\Galatee.WorkflowManager.pdb
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\Galatee.Security.pdb
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\Galatee.Tools.pdb
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\bin\Galatee.Entity.Model.pdb
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\obj\Release\Galatee.WcfService.csprojResolveAssemblyReference.cache
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\obj\Release\WcfService.dll
+D:\PROJETIWEBS\BASE_IWEBS_SYBASE\Galatee_Save\Galatee.WcfService\obj\Release\WcfService.pdb
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\WcfService.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\WcfService.pdb
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\Galatee.DataAccess.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\Galatee.Security.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\Galatee.Structure.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\Galatee.Tools.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\Galatee.WorkflowLibrary.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\Galatee.WorkflowManager.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\Galatee.Entity.Model.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\EntityFramework.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\Newtonsoft.Json.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\Oracle.DataAccess.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\Galatee.DataAccess.pdb
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\Galatee.Structure.pdb
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\Galatee.WorkflowLibrary.pdb
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\Galatee.WorkflowManager.pdb
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\Galatee.Security.pdb
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\Galatee.Tools.pdb
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\bin\Galatee.Entity.Model.pdb
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\obj\Release\Galatee.WcfService.csprojResolveAssemblyReference.cache
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\obj\Release\WcfService.dll
+H:\GALATEE\SOURCES\Galatee_Save\Galatee_Save\Galatee.WcfService\obj\Release\WcfService.pdb
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\WcfService.dll
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\WcfService.pdb
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\Galatee.DataAccess.dll
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\Galatee.Security.dll
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\Galatee.Structure.dll
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\Galatee.Tools.dll
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\Galatee.WorkflowLibrary.dll
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\Galatee.WorkflowManager.dll
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\Galatee.Entity.Model.dll
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\EntityFramework.dll
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\Newtonsoft.Json.dll
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\Oracle.DataAccess.dll
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\Galatee.DataAccess.pdb
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\Galatee.Structure.pdb
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\Galatee.WorkflowLibrary.pdb
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\Galatee.WorkflowManager.pdb
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\Galatee.Security.pdb
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\Galatee.Tools.pdb
+C:\SOURCES NOUVELLES\Galatee.WcfService\bin\Galatee.Entity.Model.pdb
+C:\SOURCES NOUVELLES\Galatee.WcfService\obj\Release\Galatee.WcfService.csprojResolveAssemblyReference.cache
+C:\SOURCES NOUVELLES\Galatee.WcfService\obj\Release\WcfService.dll
+C:\SOURCES NOUVELLES\Galatee.WcfService\obj\Release\WcfService.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\WcfService.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\WcfService.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.DataAccess.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.Security.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.Structure.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.Tools.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.WorkflowLibrary.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.WorkflowManager.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.Entity.Model.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\EntityFramework.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\Newtonsoft.Json.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\Oracle.DataAccess.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.DataAccess.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.Structure.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.WorkflowLibrary.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.WorkflowManager.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.Security.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.Tools.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.Entity.Model.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\obj\Release\Galatee.WcfService.csprojResolveAssemblyReference.cache
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\obj\Release\WcfService.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.WcfService\obj\Release\WcfService.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\WcfService.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\WcfService.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.DataAccess.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.Security.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.Structure.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.Tools.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.WorkflowLibrary.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.WorkflowManager.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.Entity.Model.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\EntityFramework.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\Newtonsoft.Json.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\Oracle.DataAccess.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.DataAccess.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.Structure.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.WorkflowLibrary.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.WorkflowManager.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.Security.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.Tools.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\bin\Galatee.Entity.Model.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\obj\Release\Galatee.WcfService.csprojResolveAssemblyReference.cache
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\obj\Release\WcfService.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.WcfService\obj\Release\WcfService.pdb
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\WcfService.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\WcfService.pdb
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.DataAccess.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.Security.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.Structure.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.Tools.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.WorkflowLibrary.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.WorkflowManager.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.Entity.Model.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\EntityFramework.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Newtonsoft.Json.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Oracle.DataAccess.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.DataAccess.pdb
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.Structure.pdb
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.WorkflowLibrary.pdb
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.WorkflowManager.pdb
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.Security.pdb
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.Tools.pdb
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.Entity.Model.pdb
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\obj\Release\Galatee.WcfService.csprojResolveAssemblyReference.cache
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\obj\Release\WcfService.dll
+D:\AQUATECH_LV_03-20\Sources AQUATEH 2020 03 10\Galatee.WcfService\obj\Release\WcfService.pdb
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\WcfService.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\WcfService.pdb
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.DataAccess.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.Security.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.Structure.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.Tools.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.WorkflowLibrary.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.WorkflowManager.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.Entity.Model.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\EntityFramework.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Newtonsoft.Json.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Oracle.DataAccess.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.DataAccess.pdb
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.Structure.pdb
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.WorkflowLibrary.pdb
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.WorkflowManager.pdb
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.Security.pdb
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.Tools.pdb
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\bin\Galatee.Entity.Model.pdb
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\obj\Release\Galatee.WcfService.csprojResolveAssemblyReference.cache
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\obj\Release\WcfService.dll
+D:\iwebs2copie\Roga dossier\Sources AQUATEH 2020 03 10\Galatee.WcfService\obj\Release\WcfService.pdb

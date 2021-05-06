@@ -1,0 +1,161 @@
+07/03/2018 00:43:04 | SyncInvokeChargerTarifParReglageCompteur | Tentative d'appel de IsDBNull non valide lorsque le lecteur est fermé.
+
+07/03/2018 00:46:55 | SyncInvokeChargerCalibreCompteur | Échec du fournisseur sous-jacent sur Open.
+
+n.
+
+07/03/2018 00:46:57 | SyncInvokeChargerType | Échec du fournisseur sous-jacent sur Open.
+
+n.
+
+07/03/2018 00:46:58 | SyncInvokeChargerCoutDemande | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 00:46:58 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+07/03/2018 00:46:59 | SyncInvokeRetourneOrigine | La référence d'objet n'est pas définie à une instance d'un objet.
+
+07/03/2018 00:47:00 | SyncInvokeRetourneTousCoper | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 00:53:19 | SyncInvokeRetourneCategorie | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 00:53:19 | SyncInvokeChargerTarifParReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 00:53:19 | SyncInvokeRetourneFermable | Échec du fournisseur sous-jacent sur Open.
+
+.
+
+07/03/2018 00:53:19 | SyncInvokeListeDesProduit | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 01:20:40 | SyncInvokeRetourneListeDenominationAll | Échec du fournisseur sous-jacent sur Open.
+
+un objet.
+
+07/03/2018 01:20:41 | SyncInvokeRetourneCodeRegroupement | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 01:20:41 | SyncInvokeChargerCalibreCompteur | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 01:34:51 | LogException | Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+07/03/2018 01:34:51 | SelectAllModeReception | Échec du fournisseur sous-jacent sur Open.
+
+n.
+
+07/03/2018 01:41:38 | SyncInvokeChargerLesTournees | La référence d'objet n'est pas définie à une instance d'un objet.
+
+07/03/2018 01:41:40 | SyncInvokeChargerCalibreCompteur | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 01:41:40 | SyncInvokeRetourneToutCadran | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 01:41:41 | SyncInvokeChargerType | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 01:41:41 | SyncInvokeRetourneToutMarque | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 09:55:45 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+07/03/2018 09:56:16 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+07/03/2018 10:04:44 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+07/03/2018 10:04:44 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+07/03/2018 10:05:40 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+07/03/2018 10:06:16 | LicenceOK | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+07/03/2018 10:07:49 | SyncInvokeChargerRubrique | ChargerPosteTransformateur :Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 10:07:51 | SyncInvokeChargerTypeComptage | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 10:07:53 | SyncInvokeChargerForfait | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 10:07:55 | SyncInvokeChargerPuissanceInstalle | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 10:07:58 | SyncInvokeChargerTousFrequence | Échec du fournisseur sous-jacent sur Open.
+
+r Open.
+
+07/03/2018 10:08:00 | SyncInvokeListeDesDonneesDesSite | Une erreur s'est produite lors de l'exécution de la définition de la commande. Pour plus de détails, consultez l'exception interne.
+
+07/03/2018 10:08:13 | SyncInvokeChargerpPosteSource | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+ver)
+
+07/03/2018 10:08:13 | SyncInvokeChargerPosteTransformateur | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+07/03/2018 10:08:13 | SyncInvokeChargerTypeBranchement | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+07/03/2018 10:08:13 | SyncInvokeChargerPuissanceSouscrite | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 10:08:14 | SyncInvokeChargerTousMois | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+07/03/2018 10:08:15 | SyncInvokeListeDesProduit | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+07/03/2018 10:08:15 | SyncInvokeChargerLesRueDesSecteur | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+07/03/2018 10:38:41 | LicenceOK | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+07/03/2018 10:39:41 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+07/03/2018 10:40:22 | LicenceOK | La référence d'objet n'est pas définie à une instance d'un objet.
+
+07/03/2018 11:27:16 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+07/03/2018 11:28:00 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+07/03/2018 11:31:23 | LicenceOK | La référence d'objet n'est pas définie à une instance d'un objet.
+
+07/03/2018 11:32:00 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+07/03/2018 11:59:15 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+07/03/2018 12:13:38 | SyncInvokeRetourneListeDesCas | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 12:13:44 | SyncInvokeRetourneCategorie | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 12:16:46 | LicenceOK | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+07/03/2018 12:20:59 | SyncInvokeChargerPuissanceInstalle | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 12:20:59 | SyncInvokeChargerTousFrequence | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 12:21:01 | SyncInvokeChargerReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 12:21:02 | SyncInvokeRetourneToutCadran | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 12:21:03 | SyncInvokeRetourneToutMarque | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 12:21:19 | SyncInvokeChargerPuissanceReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 12:21:20 | SyncInvokeChargerType | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 12:21:27 | SyncInvokeListeDesDonneesDesSite | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 12:21:28 | LogException | Le nom d’utilisateur ou le mot de passe est incorrect
+
+07/03/2018 12:21:28 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+07/03/2018 12:21:28 | GetAllTypeClient | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 12:21:29 | SyncInvokeChargerTypeComptage | Échec du fournisseur sous-jacent sur Open.
+
+07/03/2018 12:21:29 | SyncInvokeChargerRubrique | ChargerPosteTransformateur :Échec du fournisseur sous-jacent sur Open.
+

@@ -1,0 +1,18 @@
+22/06/2017 10:21:07 | GetDevisByNumIdDevis | LINQ to Entities ne reconnaît pas la méthode « Int32 toInt(System.String) », et cette dernière ne peut pas être traduite en expression de magasin.
+
+22/06/2017 10:36:56 | GetDevisByNumIdDevis | LINQ to Entities ne reconnaît pas la méthode « Int32 toInt(System.String) », et cette dernière ne peut pas être traduite en expression de magasin.
+
+22/06/2017 10:44:58 | GetDevisByNumIdDevis | La référence d'objet n'est pas définie à une instance d'un objet.
+
+22/06/2017 13:32:37 | GetDevisByNumIdDevis | La référence d'objet n'est pas définie à une instance d'un objet.
+
+22/06/2017 13:32:49 | GetDevisByNumIdDevis | La référence d'objet n'est pas définie à une instance d'un objet.
+
+22/06/2017 21:59:01 | SyncInvokeValiderDemande | Debut Validation
+
+22/06/2017 21:59:45 | SyncInvokeValiderDemande | Debut Validation
+
+22/06/2017 23:32:01 | SyncInvokeValiderDemande | Debut Validation
+
+22/06/2017 23:33:06 | SyncInvokeValiderDemande | Debut Validation
+

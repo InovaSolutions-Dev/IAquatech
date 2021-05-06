@@ -1,0 +1,54 @@
+19/09/2018 11:58:17 | LicenceOK | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=9529; poignée de main=15075; 
+
+19/09/2018 12:05:39 | SyncInvokeChargerForfait | Échec du fournisseur sous-jacent sur Open.
+
+19/09/2018 12:05:46 | SyncInvokeListeDesProduit | Échec du fournisseur sous-jacent sur Open.
+
+19/09/2018 12:05:46 | SyncInvokeRetourneCategorie | Échec du fournisseur sous-jacent sur Open.
+
+19/09/2018 12:05:46 | SyncInvokeChargerLesRueDesSecteur | Échec du fournisseur sous-jacent sur Open.
+
+19/09/2018 12:05:46 | SyncInvokeRetourneFermable | Échec du fournisseur sous-jacent sur Open.
+
+19/09/2018 12:05:47 | SyncInvokeRetourneCodeConsomateur | Échec du fournisseur sous-jacent sur Open.
+
+19/09/2018 12:06:15 | SyncInvokeChargerTarifParCategorie | Échec du fournisseur sous-jacent sur Open.
+
+19/09/2018 12:09:29 | SyncInvokeChargerLesQartiers | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+19/09/2018 12:09:29 | SyncInvokeListeDesProduit | Échec du fournisseur sous-jacent sur Open.
+
+19/09/2018 12:09:30 | SyncInvokeRetourneListeTaxe | Échec du fournisseur sous-jacent sur Open.
+
+19/09/2018 12:09:31 | SyncInvokeRetourneListeDesCas | Échec du fournisseur sous-jacent sur Open.
+
+19/09/2018 12:09:32 | SyncInvokeChargerTarifParReglageCompteur | Échec du fournisseur sous-jacent sur Open.
+
+19/09/2018 12:09:32 | SyncInvokeChargerTarifParCategorie | Échec du fournisseur sous-jacent sur Open.
+
+19/09/2018 12:11:28 | ChargerDetailDemande | SPX_ACC_SELECTDSOCIETEPRIVE:Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+19/09/2018 14:00:15 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+19/09/2018 15:12:32 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+19/09/2018 15:13:06 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+
+19/09/2018 15:24:28 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+19/09/2018 16:02:27 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+19/09/2018 16:24:02 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+19/09/2018 16:27:33 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+
+19/09/2018 16:27:48 | SyncInvokeRetourneLeCompteClient | La séquence ne contient aucun élément.
+
+19/09/2018 17:00:29 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+19/09/2018 17:46:21 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+
+19/09/2018 19:11:42 | SyncInvokeRetourneTypeLot | La référence d'objet n'est pas définie à une instance d'un objet.
+

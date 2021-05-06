@@ -1,0 +1,90 @@
+06/09/2019 12:40:16 | SyncInvokeEditerFactures | Problème édition lot 19070230 => L'index se trouve en dehors des limites du tableau.  22
+
+06/09/2019 12:47:25 | SyncInvokeChargerLotriPourEdition | Debut 06/09/2019 12:47:25
+
+06/09/2019 12:47:25 | SyncInvokeChargerLotriPourEdition | Fin 06/09/2019 12:47:25
+
+06/09/2019 12:47:48 | SyncInvokeChargerLotriPourEdition | Debut 06/09/2019 12:47:48
+
+06/09/2019 12:47:48 | SyncInvokeChargerLotriPourEdition | Fin 06/09/2019 12:47:48
+
+06/09/2019 12:48:38 | SyncInvokeEditerFactures | Début édition  lot 19070350
+
+06/09/2019 12:49:54 | SyncInvokeEditerFactures | Fin édition lot 19070350
+
+06/09/2019 12:54:13 | SyncInvokeEditerFactures | Début édition  lot 19070230
+
+06/09/2019 12:57:22 | SyncInvokeEditerFactures | Problème édition lot 19070230 => L'index se trouve en dehors des limites du tableau.  22
+
+06/09/2019 12:58:30 | SyncInvokeEditerFactures | Début édition  lot 19070230
+
+06/09/2019 13:03:11 | SyncInvokeEditerFactures | Problème édition lot 19070230 => L'index se trouve en dehors des limites du tableau.  22
+
+06/09/2019 13:23:34 | SyncInvokeChargerLotriPourEdition | Debut 06/09/2019 13:23:34
+
+06/09/2019 13:23:34 | SyncInvokeChargerLotriPourEdition | Fin 06/09/2019 13:23:34
+
+06/09/2019 13:23:46 | SyncInvokeEditerFactures | Début édition  lot 19070230
+
+06/09/2019 13:26:11 | SyncInvokeEditerFactures | Fin édition lot 19070230
+
+06/09/2019 13:40:10 | SyncInvokeChargerLotriPourEdition | Debut 06/09/2019 13:40:10
+
+06/09/2019 13:40:10 | SyncInvokeChargerLotriPourEdition | Fin 06/09/2019 13:40:10
+
+06/09/2019 13:40:18 | SyncInvokeEditerFactures | Début édition  lot 19070350
+
+06/09/2019 13:41:06 | SyncInvokeEditerFactures | Fin édition lot 19070350
+
+06/09/2019 13:44:13 | SyncInvokeEditerFactures | Début édition  lot 19070350
+
+06/09/2019 13:48:09 | SyncInvokeEditerFactures | Fin édition lot 19070350
+
+06/09/2019 13:53:06 | SyncInvokeChargerLotriPourEdition | Debut 06/09/2019 13:53:06
+
+06/09/2019 13:53:06 | SyncInvokeChargerLotriPourEdition | Fin 06/09/2019 13:53:06
+
+06/09/2019 13:53:14 | SyncInvokeChargerLotriPourEdition | Debut 06/09/2019 13:53:14
+
+06/09/2019 13:53:15 | SyncInvokeChargerLotriPourEdition | Fin 06/09/2019 13:53:15
+
+06/09/2019 13:53:27 | SyncInvokeEditerFactures | Début édition  lot 19070350
+
+06/09/2019 14:02:39 | SyncInvokeEditerFactures | Fin édition lot 19070350
+
+06/09/2019 14:18:02 | SyncInvokeChargerLotriPourEdition | Debut 06/09/2019 14:18:02
+
+06/09/2019 14:18:03 | SyncInvokeChargerLotriPourEdition | Fin 06/09/2019 14:18:03
+
+06/09/2019 14:19:43 | SyncInvokeChargerLotriPourEdition | Debut 06/09/2019 14:19:43
+
+06/09/2019 14:19:43 | SyncInvokeChargerLotriPourEdition | Fin 06/09/2019 14:19:43
+
+06/09/2019 14:20:13 | SyncInvokeEditerFactures | Début édition  lot 19070350
+
+06/09/2019 14:21:24 | SyncInvokeEditerFactures | Fin édition lot 19070350
+
+06/09/2019 14:23:25 | SyncInvokeEditerFactures | Début édition  lot 19070350
+
+06/09/2019 14:25:06 | SyncInvokeEditerFactures | Fin édition lot 19070350
+
+06/09/2019 15:27:47 | SyncInvokeChargerLotriPourEdition | Debut 06/09/2019 15:27:47
+
+06/09/2019 15:27:48 | SyncInvokeChargerLotriPourEdition | Fin 06/09/2019 15:27:48
+
+06/09/2019 15:27:54 | SyncInvokeChargerLotriPourEdition | Debut 06/09/2019 15:27:54
+
+06/09/2019 15:27:54 | SyncInvokeChargerLotriPourEdition | Fin 06/09/2019 15:27:54
+
+06/09/2019 15:28:04 | SyncInvokeEditerFactures | Début édition  lot 19070350
+
+06/09/2019 15:28:52 | SyncInvokeEditerFactures | Fin édition lot 19070350
+
+06/09/2019 15:29:11 | SyncInvokeEditerFactures | Début édition  lot 19070230
+
+06/09/2019 15:32:28 | SyncInvokeEditerFactures | Fin édition lot 19070230
+
+06/09/2019 15:37:19 | SyncInvokeEditerFactures | Début édition  lot 19070230
+
+06/09/2019 15:39:54 | SyncInvokeEditerFactures | Fin édition lot 19070230
+

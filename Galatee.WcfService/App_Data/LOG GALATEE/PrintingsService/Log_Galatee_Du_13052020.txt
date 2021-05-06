@@ -1,0 +1,118 @@
+13/05/2020 13:33:28 | SyncInvokesetFromWebPart | 11111133328165
+
+13/05/2020 13:33:33 | Callback | localhost1818
+
+13/05/2020 13:33:35 | RenderReport | loadData
+
+13/05/2020 13:33:35 | RenderReport | 11111133328165
+
+13/05/2020 13:33:35 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+13/05/2020 13:33:35 | SyncInvokeGetCsPrintFromWebPart | 11111133328165
+
+13/05/2020 13:33:35 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+13/05/2020 13:33:35 | LoadData | 11111133328165
+
+13/05/2020 13:33:35 | LoadData | données trouve
+
+13/05/2020 13:33:35 | LoadData | Parametre non trouvé
+
+13/05/2020 13:33:35 | data | data trouve
+
+13/05/2020 13:33:36 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+13/05/2020 13:33:36 | CreatePDFChemin | Add DataSources ok
+
+13/05/2020 13:33:36 | RunCreationPDF | \\PC-DEV-010\Impression
+
+13/05/2020 13:33:36 | RunCreationPDF | L'accès au chemin d'accès '\\PC-DEV-010\Impression\AccuseRecption1352020133336.PDF' est refusé.
+
+13/05/2020 13:52:55 | SyncInvokesetFromWebPart | 11111135255849
+
+13/05/2020 13:52:56 | Callback | localhost1818
+
+13/05/2020 13:52:56 | RenderReport | loadData
+
+13/05/2020 13:52:56 | RenderReport | 11111135255849
+
+13/05/2020 13:52:57 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+13/05/2020 13:52:57 | SyncInvokeGetCsPrintFromWebPart | 11111135255849
+
+13/05/2020 13:52:57 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+13/05/2020 13:52:57 | LoadData | 11111135255849
+
+13/05/2020 13:52:57 | LoadData | données trouve
+
+13/05/2020 13:52:57 | LoadData | Parametre non trouvé
+
+13/05/2020 13:52:57 | data | data trouve
+
+13/05/2020 13:52:57 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+13/05/2020 13:52:57 | CreatePDFChemin | Add DataSources ok
+
+13/05/2020 13:52:57 | RunCreationPDF | \\PC-DEV-010\Impression
+
+13/05/2020 13:52:57 | RunCreationPDF | L'accès au chemin d'accès '\\PC-DEV-010\Impression\AccuseRecption1352020135257.PDF' est refusé.
+
+13/05/2020 15:55:28 | SyncInvokesetFromWebPart | 11111155526706
+
+13/05/2020 15:55:34 | Callback | localhost1818
+
+13/05/2020 15:55:34 | RenderReport | loadData
+
+13/05/2020 15:55:34 | RenderReport | 11111155526706
+
+13/05/2020 15:55:35 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+13/05/2020 15:55:35 | SyncInvokeGetCsPrintFromWebPart | 11111155526706
+
+13/05/2020 15:55:35 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+13/05/2020 15:55:35 | LoadData | 11111155526706
+
+13/05/2020 15:55:35 | LoadData | données trouve
+
+13/05/2020 15:55:35 | LoadData | Parametre trouvé
+
+13/05/2020 15:55:35 | data | data trouve
+
+13/05/2020 15:55:35 | CreatePDFChemin | ~/Reports/Accueil/ContratClient.rdlc | Chemin du fichier rdlc
+
+13/05/2020 15:55:44 | CreatePDFChemin | pTypedemande : System.Collections.Specialized.StringCollection  pTypedemande : System.Collections.Specialized.StringCollection | Set Parameters
+
+13/05/2020 15:55:44 | CreatePDFChemin | Add DataSources ok
+
+13/05/2020 15:55:44 | RunCreationPDF | \\PC-DEV-010\Impression
+
+13/05/2020 15:55:44 | RunCreationPDF | L'accès au chemin d'accès '\\PC-DEV-010\Impression\ContratClient1352020155544.PDF' est refusé.
+
+13/05/2020 16:07:55 | SyncInvokesetFromWebPart | 1111116755203
+
+13/05/2020 16:07:55 | Callback | localhost1818
+
+13/05/2020 16:07:55 | RenderReport | loadData
+
+13/05/2020 16:07:55 | RenderReport | 1111116755203
+
+13/05/2020 16:07:55 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+13/05/2020 16:07:55 | SyncInvokeGetCsPrintFromWebPart | 1111116755203
+
+13/05/2020 16:07:55 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+13/05/2020 16:07:55 | LoadData | 1111116755203
+
+13/05/2020 16:07:55 | LoadData | Aucune données
+
+13/05/2020 16:07:55 | LoadData | Parametre non trouvé
+
+13/05/2020 16:07:55 | data | data Aucun
+
+13/05/2020 16:07:55 | RunCreationPDF | \\PC-DEV-010\Impression
+
+13/05/2020 16:07:55 | RunCreationPDF | L'accès au chemin d'accès '\\PC-DEV-010\Impression\FicheProgrammation135202016755.PDF' est refusé.
+

@@ -1,0 +1,1369 @@
+14/02/2019 00:27:06 | PrintingFromService | 111110276611
+
+14/02/2019 00:27:07 | Callback | localhost1818
+
+14/02/2019 00:27:07 | RenderReport | loadData
+
+14/02/2019 00:27:07 | RenderReport | 111110276611
+
+14/02/2019 00:27:07 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 00:27:07 | SyncInvokeGetCsPrintFromWebPart | 111110276611
+
+14/02/2019 00:27:07 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 00:27:08 | LoadData | 111110276611
+
+14/02/2019 00:27:08 | LoadData | données trouve
+
+14/02/2019 00:27:08 | LoadData | Parametre trouvé
+
+14/02/2019 00:27:08 | data | data trouve data count: 16
+
+14/02/2019 00:27:09 | Page_Load | RenderReport retour ok
+
+14/02/2019 00:27:09 | RunExportFile | \\INOVA-PC20\Impression|FactureSimpleO20190100A14220190279|pdf
+
+14/02/2019 00:27:11 | Page_Load | ICI3
+
+14/02/2019 07:32:30 | SyncInvokesetFromWebPart | 1111173229918
+
+14/02/2019 07:32:30 | Callback | localhost1818
+
+14/02/2019 07:32:30 | RenderReport | loadData
+
+14/02/2019 07:32:30 | RenderReport | 1111173229918
+
+14/02/2019 07:32:30 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:32:30 | SyncInvokeGetCsPrintFromWebPart | 1111173229918
+
+14/02/2019 07:32:30 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:32:30 | LoadData | 1111173229918
+
+14/02/2019 07:32:30 | LoadData | données trouve
+
+14/02/2019 07:32:30 | LoadData | Parametre non trouvé
+
+14/02/2019 07:32:30 | data | data trouve
+
+14/02/2019 07:32:30 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:32:30 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:32:30 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:33:54 | SyncInvokesetFromWebPart | 1111173354969
+
+14/02/2019 07:33:55 | Callback | localhost1818
+
+14/02/2019 07:33:55 | RenderReport | loadData
+
+14/02/2019 07:33:55 | RenderReport | 1111173354969
+
+14/02/2019 07:33:55 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:33:55 | SyncInvokeGetCsPrintFromWebPart | 1111173354969
+
+14/02/2019 07:33:55 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:33:55 | LoadData | 1111173354969
+
+14/02/2019 07:33:55 | LoadData | données trouve
+
+14/02/2019 07:33:55 | LoadData | Parametre non trouvé
+
+14/02/2019 07:33:55 | data | data trouve
+
+14/02/2019 07:33:55 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:33:55 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:33:55 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:35:39 | SyncInvokesetFromWebPart | 11111735392
+
+14/02/2019 07:35:39 | Callback | localhost1818
+
+14/02/2019 07:35:39 | RenderReport | loadData
+
+14/02/2019 07:35:39 | RenderReport | 11111735392
+
+14/02/2019 07:35:39 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:35:39 | SyncInvokeGetCsPrintFromWebPart | 11111735392
+
+14/02/2019 07:35:39 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:35:39 | LoadData | 11111735392
+
+14/02/2019 07:35:39 | LoadData | données trouve
+
+14/02/2019 07:35:39 | LoadData | Parametre non trouvé
+
+14/02/2019 07:35:39 | data | data trouve
+
+14/02/2019 07:35:39 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:35:39 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:35:39 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:36:58 | SyncInvokesetFromWebPart | 1111173658784
+
+14/02/2019 07:36:58 | Callback | localhost1818
+
+14/02/2019 07:36:58 | RenderReport | loadData
+
+14/02/2019 07:36:58 | RenderReport | 1111173658784
+
+14/02/2019 07:36:58 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:36:59 | SyncInvokeGetCsPrintFromWebPart | 1111173658784
+
+14/02/2019 07:36:59 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:36:59 | LoadData | 1111173658784
+
+14/02/2019 07:36:59 | LoadData | données trouve
+
+14/02/2019 07:36:59 | LoadData | Parametre non trouvé
+
+14/02/2019 07:36:59 | data | data trouve
+
+14/02/2019 07:36:59 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:36:59 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:36:59 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:39:30 | SyncInvokesetFromWebPart | 1111173930843
+
+14/02/2019 07:39:30 | Callback | localhost1818
+
+14/02/2019 07:39:30 | RenderReport | loadData
+
+14/02/2019 07:39:31 | RenderReport | 1111173930843
+
+14/02/2019 07:39:31 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:39:31 | SyncInvokeGetCsPrintFromWebPart | 1111173930843
+
+14/02/2019 07:39:31 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:39:31 | LoadData | 1111173930843
+
+14/02/2019 07:39:31 | LoadData | données trouve
+
+14/02/2019 07:39:31 | LoadData | Parametre non trouvé
+
+14/02/2019 07:39:31 | data | data trouve
+
+14/02/2019 07:39:31 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:39:31 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:39:31 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:41:50 | SyncInvokesetFromWebPart | 1111174150104
+
+14/02/2019 07:41:50 | Callback | localhost1818
+
+14/02/2019 07:41:50 | RenderReport | loadData
+
+14/02/2019 07:41:50 | RenderReport | 1111174150104
+
+14/02/2019 07:41:50 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:41:50 | SyncInvokeGetCsPrintFromWebPart | 1111174150104
+
+14/02/2019 07:41:50 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:41:50 | LoadData | 1111174150104
+
+14/02/2019 07:41:50 | LoadData | données trouve
+
+14/02/2019 07:41:50 | LoadData | Parametre non trouvé
+
+14/02/2019 07:41:50 | data | data trouve
+
+14/02/2019 07:41:50 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:41:50 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:41:50 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:43:11 | SyncInvokesetFromWebPart | 1111174311612
+
+14/02/2019 07:43:11 | Callback | localhost1818
+
+14/02/2019 07:43:11 | RenderReport | loadData
+
+14/02/2019 07:43:11 | RenderReport | 1111174311612
+
+14/02/2019 07:43:11 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:43:11 | SyncInvokeGetCsPrintFromWebPart | 1111174311612
+
+14/02/2019 07:43:11 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:43:11 | LoadData | 1111174311612
+
+14/02/2019 07:43:11 | LoadData | données trouve
+
+14/02/2019 07:43:11 | LoadData | Parametre non trouvé
+
+14/02/2019 07:43:11 | data | data trouve
+
+14/02/2019 07:43:12 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:43:12 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:43:12 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:53:35 | SyncInvokesetFromWebPart | 1111175335238
+
+14/02/2019 07:53:35 | Callback | localhost1818
+
+14/02/2019 07:53:35 | RenderReport | loadData
+
+14/02/2019 07:53:35 | RenderReport | 1111175335238
+
+14/02/2019 07:53:35 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:53:35 | SyncInvokeGetCsPrintFromWebPart | 1111175335238
+
+14/02/2019 07:53:35 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:53:35 | LoadData | 1111175335238
+
+14/02/2019 07:53:35 | LoadData | données trouve
+
+14/02/2019 07:53:35 | LoadData | Parametre trouvé
+
+14/02/2019 07:53:35 | data | data trouve
+
+14/02/2019 07:53:35 | CreatePDFChemin | ~/Reports/Accueil/ContratClient.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:53:36 | CreatePDFChemin | pTypedemande : System.Collections.Specialized.StringCollection  pTypedemande : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:53:36 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:53:36 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:53:40 | SyncInvokesetFromWebPart | 1111175340472
+
+14/02/2019 07:53:40 | Callback | localhost1818
+
+14/02/2019 07:53:40 | RenderReport | loadData
+
+14/02/2019 07:53:40 | RenderReport | 1111175340472
+
+14/02/2019 07:53:40 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:53:40 | SyncInvokeGetCsPrintFromWebPart | 1111175340472
+
+14/02/2019 07:53:40 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:53:40 | LoadData | 1111175340472
+
+14/02/2019 07:53:40 | LoadData | données trouve
+
+14/02/2019 07:53:41 | LoadData | Parametre trouvé
+
+14/02/2019 07:53:41 | data | data trouve
+
+14/02/2019 07:53:41 | CreatePDFChemin | ~/Reports/Accueil/ContratClient.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:53:41 | CreatePDFChemin | pTypedemande : System.Collections.Specialized.StringCollection  pTypedemande : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:53:41 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:53:41 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:53:46 | SyncInvokesetFromWebPart | 111117534688
+
+14/02/2019 07:53:46 | Callback | localhost1818
+
+14/02/2019 07:53:46 | RenderReport | loadData
+
+14/02/2019 07:53:46 | RenderReport | 111117534688
+
+14/02/2019 07:53:46 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:53:46 | SyncInvokeGetCsPrintFromWebPart | 111117534688
+
+14/02/2019 07:53:46 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:53:46 | LoadData | 111117534688
+
+14/02/2019 07:53:46 | LoadData | données trouve
+
+14/02/2019 07:53:46 | LoadData | Parametre trouvé
+
+14/02/2019 07:53:46 | data | data trouve
+
+14/02/2019 07:53:46 | CreatePDFChemin | ~/Reports/Accueil/ContratClient.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:53:47 | CreatePDFChemin | pTypedemande : System.Collections.Specialized.StringCollection  pTypedemande : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:53:47 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:53:47 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:53:51 | SyncInvokesetFromWebPart | 1111175350977
+
+14/02/2019 07:53:51 | Callback | localhost1818
+
+14/02/2019 07:53:51 | RenderReport | loadData
+
+14/02/2019 07:53:51 | RenderReport | 1111175350977
+
+14/02/2019 07:53:51 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:53:51 | SyncInvokeGetCsPrintFromWebPart | 1111175350977
+
+14/02/2019 07:53:51 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:53:51 | LoadData | 1111175350977
+
+14/02/2019 07:53:51 | LoadData | données trouve
+
+14/02/2019 07:53:51 | LoadData | Parametre trouvé
+
+14/02/2019 07:53:51 | data | data trouve
+
+14/02/2019 07:53:51 | CreatePDFChemin | ~/Reports/Accueil/ContratClient.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:53:51 | CreatePDFChemin | pTypedemande : System.Collections.Specialized.StringCollection  pTypedemande : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:53:52 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:53:52 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:53:55 | SyncInvokesetFromWebPart | 1111175355857
+
+14/02/2019 07:53:56 | Callback | localhost1818
+
+14/02/2019 07:53:56 | RenderReport | loadData
+
+14/02/2019 07:53:56 | RenderReport | 1111175355857
+
+14/02/2019 07:53:56 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:53:56 | SyncInvokeGetCsPrintFromWebPart | 1111175355857
+
+14/02/2019 07:53:56 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:53:56 | LoadData | 1111175355857
+
+14/02/2019 07:53:56 | LoadData | données trouve
+
+14/02/2019 07:53:56 | LoadData | Parametre trouvé
+
+14/02/2019 07:53:56 | data | data trouve
+
+14/02/2019 07:53:56 | CreatePDFChemin | ~/Reports/Accueil/ContratClient.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:53:56 | CreatePDFChemin | pTypedemande : System.Collections.Specialized.StringCollection  pTypedemande : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:53:56 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:53:56 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:54:01 | SyncInvokesetFromWebPart | 1111175411
+
+14/02/2019 07:54:01 | Callback | localhost1818
+
+14/02/2019 07:54:01 | RenderReport | loadData
+
+14/02/2019 07:54:01 | RenderReport | 1111175411
+
+14/02/2019 07:54:01 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:54:01 | SyncInvokeGetCsPrintFromWebPart | 1111175411
+
+14/02/2019 07:54:01 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:54:01 | LoadData | 1111175411
+
+14/02/2019 07:54:01 | LoadData | données trouve
+
+14/02/2019 07:54:01 | LoadData | Parametre trouvé
+
+14/02/2019 07:54:01 | data | data trouve
+
+14/02/2019 07:54:01 | CreatePDFChemin | ~/Reports/Accueil/ContratClient.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:54:02 | CreatePDFChemin | pTypedemande : System.Collections.Specialized.StringCollection  pTypedemande : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:54:02 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:54:02 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:54:06 | SyncInvokesetFromWebPart | 111117546361
+
+14/02/2019 07:54:06 | Callback | localhost1818
+
+14/02/2019 07:54:06 | RenderReport | loadData
+
+14/02/2019 07:54:06 | RenderReport | 111117546361
+
+14/02/2019 07:54:06 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:54:06 | SyncInvokeGetCsPrintFromWebPart | 111117546361
+
+14/02/2019 07:54:06 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:54:06 | LoadData | 111117546361
+
+14/02/2019 07:54:06 | LoadData | données trouve
+
+14/02/2019 07:54:06 | LoadData | Parametre trouvé
+
+14/02/2019 07:54:06 | data | data trouve
+
+14/02/2019 07:54:06 | CreatePDFChemin | ~/Reports/Accueil/ContratClient.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:54:07 | CreatePDFChemin | pTypedemande : System.Collections.Specialized.StringCollection  pTypedemande : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:54:07 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:54:07 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:56:09 | SyncInvokesetFromWebPart | 111117569554
+
+14/02/2019 07:56:09 | SyncInvokesetFromWebPart | 111117569375
+
+14/02/2019 07:56:09 | Callback | localhost1818
+
+14/02/2019 07:56:09 | RenderReport | loadData
+
+14/02/2019 07:56:09 | Callback | localhost1818
+
+14/02/2019 07:56:09 | RenderReport | 111117569554
+
+14/02/2019 07:56:09 | RenderReport | loadData
+
+14/02/2019 07:56:09 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:56:09 | SyncInvokeGetCsPrintFromWebPart | 111117569554
+
+14/02/2019 07:56:09 | RenderReport | 111117569375
+
+14/02/2019 07:56:09 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:56:09 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:56:09 | SyncInvokeGetCsPrintFromWebPart | 111117569375
+
+14/02/2019 07:56:09 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:56:09 | LoadData | 111117569554
+
+14/02/2019 07:56:09 | LoadData | 111117569375
+
+14/02/2019 07:56:09 | LoadData | données trouve
+
+14/02/2019 07:56:09 | LoadData | données trouve
+
+14/02/2019 07:56:09 | LoadData | Parametre trouvé
+
+14/02/2019 07:56:09 | data | data trouve
+
+14/02/2019 07:56:09 | LoadData | Parametre trouvé
+
+14/02/2019 07:56:09 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:56:09 | data | data trouve
+
+14/02/2019 07:56:09 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:56:10 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:56:10 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:56:10 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:56:10 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:56:10 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:56:10 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:56:30 | SyncInvokesetFromWebPart | 111117563040
+
+14/02/2019 07:56:30 | SyncInvokesetFromWebPart | 111117563046
+
+14/02/2019 07:56:30 | Callback | localhost1818
+
+14/02/2019 07:56:30 | RenderReport | loadData
+
+14/02/2019 07:56:30 | Callback | localhost1818
+
+14/02/2019 07:56:30 | RenderReport | 111117563040
+
+14/02/2019 07:56:30 | RenderReport | loadData
+
+14/02/2019 07:56:30 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:56:30 | SyncInvokeGetCsPrintFromWebPart | 111117563040
+
+14/02/2019 07:56:30 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:56:30 | RenderReport | 111117563046
+
+14/02/2019 07:56:30 | LoadData | 111117563040
+
+14/02/2019 07:56:30 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:56:30 | SyncInvokeGetCsPrintFromWebPart | 111117563046
+
+14/02/2019 07:56:30 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:56:30 | LoadData | données trouve
+
+14/02/2019 07:56:30 | LoadData | 111117563046
+
+14/02/2019 07:56:30 | LoadData | données trouve
+
+14/02/2019 07:56:30 | LoadData | Parametre trouvé
+
+14/02/2019 07:56:30 | data | data trouve
+
+14/02/2019 07:56:30 | LoadData | Parametre trouvé
+
+14/02/2019 07:56:30 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:56:30 | data | data trouve
+
+14/02/2019 07:56:30 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:56:31 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:56:31 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:56:31 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:56:31 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:56:31 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:56:31 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:56:36 | SyncInvokesetFromWebPart | 1111175636955
+
+14/02/2019 07:56:37 | SyncInvokesetFromWebPart | 1111175636961
+
+14/02/2019 07:56:37 | Callback | localhost1818
+
+14/02/2019 07:56:37 | Callback | localhost1818
+
+14/02/2019 07:56:37 | RenderReport | loadData
+
+14/02/2019 07:56:37 | RenderReport | loadData
+
+14/02/2019 07:56:37 | RenderReport | 1111175636955
+
+14/02/2019 07:56:37 | RenderReport | 1111175636961
+
+14/02/2019 07:56:37 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:56:37 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:56:37 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:56:37 | SyncInvokeGetCsPrintFromWebPart | 1111175636961
+
+14/02/2019 07:56:37 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:56:37 | LoadData | 1111175636955
+
+14/02/2019 07:56:37 | LoadData | 1111175636961
+
+14/02/2019 07:56:37 | LoadData | données trouve
+
+14/02/2019 07:56:37 | LoadData | données trouve
+
+14/02/2019 07:56:37 | LoadData | Parametre trouvé
+
+14/02/2019 07:56:37 | LoadData | Parametre trouvé
+
+14/02/2019 07:56:37 | data | data trouve
+
+14/02/2019 07:56:37 | data | data trouve
+
+14/02/2019 07:56:37 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:56:37 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:56:37 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:56:37 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:56:37 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:56:38 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:56:38 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:56:38 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:56:43 | SyncInvokesetFromWebPart | 1111175643582
+
+14/02/2019 07:56:43 | SyncInvokesetFromWebPart | 1111175643589
+
+14/02/2019 07:56:43 | Callback | localhost1818
+
+14/02/2019 07:56:43 | Callback | localhost1818
+
+14/02/2019 07:56:43 | RenderReport | loadData
+
+14/02/2019 07:56:43 | RenderReport | 1111175643589
+
+14/02/2019 07:56:43 | RenderReport | loadData
+
+14/02/2019 07:56:43 | RenderReport | 1111175643582
+
+14/02/2019 07:56:43 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:56:43 | SyncInvokeGetCsPrintFromWebPart | 1111175643589
+
+14/02/2019 07:56:43 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:56:43 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:56:43 | SyncInvokeGetCsPrintFromWebPart | 1111175643582
+
+14/02/2019 07:56:43 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:56:43 | LoadData | 1111175643589
+
+14/02/2019 07:56:43 | LoadData | 1111175643582
+
+14/02/2019 07:56:43 | LoadData | données trouve
+
+14/02/2019 07:56:43 | LoadData | données trouve
+
+14/02/2019 07:56:44 | LoadData | Parametre trouvé
+
+14/02/2019 07:56:44 | data | data trouve
+
+14/02/2019 07:56:44 | LoadData | Parametre trouvé
+
+14/02/2019 07:56:44 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:56:44 | data | data trouve
+
+14/02/2019 07:56:44 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:56:44 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:56:44 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:56:44 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:56:44 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:56:44 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:56:44 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:56:50 | SyncInvokesetFromWebPart | 1111175650607
+
+14/02/2019 07:56:50 | SyncInvokesetFromWebPart | 1111175650613
+
+14/02/2019 07:56:50 | Callback | localhost1818
+
+14/02/2019 07:56:50 | Callback | localhost1818
+
+14/02/2019 07:56:50 | RenderReport | loadData
+
+14/02/2019 07:56:50 | RenderReport | loadData
+
+14/02/2019 07:56:50 | RenderReport | 1111175650607
+
+14/02/2019 07:56:50 | RenderReport | 1111175650613
+
+14/02/2019 07:56:50 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:56:50 | SyncInvokeGetCsPrintFromWebPart | 1111175650607
+
+14/02/2019 07:56:50 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:56:50 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:56:50 | SyncInvokeGetCsPrintFromWebPart | 1111175650613
+
+14/02/2019 07:56:50 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:56:50 | LoadData | 1111175650607
+
+14/02/2019 07:56:50 | LoadData | 1111175650613
+
+14/02/2019 07:56:50 | LoadData | données trouve
+
+14/02/2019 07:56:50 | LoadData | données trouve
+
+14/02/2019 07:56:50 | LoadData | Parametre trouvé
+
+14/02/2019 07:56:51 | LoadData | Parametre trouvé
+
+14/02/2019 07:56:51 | data | data trouve
+
+14/02/2019 07:56:51 | data | data trouve
+
+14/02/2019 07:56:51 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:56:51 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:56:51 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:56:51 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:56:51 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:56:51 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:56:51 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:56:51 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:57:02 | SyncInvokesetFromWebPart | 111117572848
+
+14/02/2019 07:57:03 | Callback | localhost1818
+
+14/02/2019 07:57:03 | Callback | localhost1818
+
+14/02/2019 07:57:03 | RenderReport | loadData
+
+14/02/2019 07:57:03 | RenderReport | loadData
+
+14/02/2019 07:57:03 | RenderReport | 111117572848
+
+14/02/2019 07:57:03 | RenderReport | 111117572842
+
+14/02/2019 07:57:03 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:57:03 | SyncInvokeGetCsPrintFromWebPart | 111117572848
+
+14/02/2019 07:57:03 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:57:03 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:57:03 | SyncInvokeGetCsPrintFromWebPart | 111117572842
+
+14/02/2019 07:57:03 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 07:57:03 | LoadData | 111117572848
+
+14/02/2019 07:57:03 | LoadData | 111117572842
+
+14/02/2019 07:57:03 | LoadData | données trouve
+
+14/02/2019 07:57:03 | LoadData | données trouve
+
+14/02/2019 07:57:03 | LoadData | Parametre trouvé
+
+14/02/2019 07:57:03 | LoadData | Parametre trouvé
+
+14/02/2019 07:57:03 | data | data trouve
+
+14/02/2019 07:57:03 | data | data trouve
+
+14/02/2019 07:57:03 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:57:03 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+14/02/2019 07:57:04 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:57:04 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 07:57:04 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:57:04 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 07:57:04 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:57:04 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 07:57:09 | SyncInvokesetFromWebPart | 111117579683
+
+14/02/2019 07:57:09 | SyncInvokesetFromWebPart | 111117579689
+
+14/02/2019 07:57:09 | Callback | localhost1818
+
+14/02/2019 07:57:09 | Callback | localhost1818
+
+14/02/2019 07:57:09 | RenderReport | loadData
+
+14/02/2019 07:57:09 | RenderReport | loadData
+
+14/02/2019 07:57:09 | RenderReport | 111117579683
+
+14/02/2019 07:57:09 | RenderReport | 111117579689
+
+14/02/2019 07:57:09 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:57:09 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 07:57:09 | SyncInvokeGetCsPrintFromWebPart | 111117579683
+
+14/02/2019 07:57:09 | SyncInvokeGetCsPrintFromWebPart | Lecture Non OK
+
+14/02/2019 07:57:09 | SyncInvokeGetCsPrintFromWebPart | Lecture Non OK
+
+14/02/2019 07:57:09 | LoadData | Aucune valeur
+
+14/02/2019 07:57:10 | LoadData | Aucune valeur
+
+14/02/2019 07:57:10 | LoadData | La valeur ne peut pas être null.
+Nom du paramètre : collection
+
+14/02/2019 07:57:10 | LoadData | La valeur ne peut pas être null.
+Nom du paramètre : collection
+
+14/02/2019 07:57:10 | RenderReport | La valeur ne peut pas être null.
+Nom du paramètre : collection
+
+14/02/2019 07:57:10 | RenderReport | La valeur ne peut pas être null.
+Nom du paramètre : collection
+
+14/02/2019 07:57:10 | CreatePDFChemin | La valeur ne peut pas être null.
+Nom du paramètre : collection
+
+14/02/2019 07:57:10 | CreatePDFChemin | La valeur ne peut pas être null.
+Nom du paramètre : collection
+
+14/02/2019 08:02:51 | SyncInvokesetFromWebPart | 111118251269
+
+14/02/2019 08:02:51 | Callback | localhost1818
+
+14/02/2019 08:02:51 | RenderReport | loadData
+
+14/02/2019 08:02:51 | RenderReport | 111118251269
+
+14/02/2019 08:02:51 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 08:02:51 | SyncInvokeGetCsPrintFromWebPart | 111118251269
+
+14/02/2019 08:02:51 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 08:02:51 | LoadData | 111118251269
+
+14/02/2019 08:02:51 | LoadData | données trouve
+
+14/02/2019 08:02:51 | LoadData | Parametre non trouvé
+
+14/02/2019 08:02:51 | data | data trouve
+
+14/02/2019 08:02:51 | CreatePDFChemin | ~/Reports/Accueil/LiaisonCompteur.rdlc | Chemin du fichier rdlc
+
+14/02/2019 08:02:52 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 08:02:52 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 08:03:09 | SyncInvokesetFromWebPart | 11111839515
+
+14/02/2019 08:03:09 | Callback | localhost1818
+
+14/02/2019 08:03:09 | RenderReport | loadData
+
+14/02/2019 08:03:09 | RenderReport | 11111839515
+
+14/02/2019 08:03:09 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 08:03:10 | SyncInvokeGetCsPrintFromWebPart | 11111839515
+
+14/02/2019 08:03:10 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 08:03:10 | LoadData | 11111839515
+
+14/02/2019 08:03:10 | LoadData | données trouve
+
+14/02/2019 08:03:10 | LoadData | Parametre non trouvé
+
+14/02/2019 08:03:10 | data | data trouve
+
+14/02/2019 08:03:10 | CreatePDFChemin | ~/Reports/Accueil/LiaisonCompteur.rdlc | Chemin du fichier rdlc
+
+14/02/2019 08:03:10 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 08:03:10 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 08:03:23 | SyncInvokesetFromWebPart | 111118322985
+
+14/02/2019 08:03:23 | Callback | localhost1818
+
+14/02/2019 08:03:23 | RenderReport | loadData
+
+14/02/2019 08:03:23 | RenderReport | 111118322985
+
+14/02/2019 08:03:23 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 08:03:23 | SyncInvokeGetCsPrintFromWebPart | 111118322985
+
+14/02/2019 08:03:23 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 08:03:23 | LoadData | 111118322985
+
+14/02/2019 08:03:23 | LoadData | données trouve
+
+14/02/2019 08:03:23 | LoadData | Parametre non trouvé
+
+14/02/2019 08:03:23 | data | data trouve
+
+14/02/2019 08:03:23 | CreatePDFChemin | ~/Reports/Accueil/LiaisonCompteur.rdlc | Chemin du fichier rdlc
+
+14/02/2019 08:03:23 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 08:03:23 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 08:03:38 | SyncInvokesetFromWebPart | 111118337878
+
+14/02/2019 08:03:38 | Callback | localhost1818
+
+14/02/2019 08:03:38 | RenderReport | loadData
+
+14/02/2019 08:03:38 | RenderReport | 111118337878
+
+14/02/2019 08:03:38 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 08:03:38 | SyncInvokeGetCsPrintFromWebPart | 111118337878
+
+14/02/2019 08:03:38 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 08:03:38 | LoadData | 111118337878
+
+14/02/2019 08:03:38 | LoadData | données trouve
+
+14/02/2019 08:03:38 | LoadData | Parametre non trouvé
+
+14/02/2019 08:03:38 | data | data trouve
+
+14/02/2019 08:03:38 | CreatePDFChemin | ~/Reports/Accueil/LiaisonCompteur.rdlc | Chemin du fichier rdlc
+
+14/02/2019 08:03:38 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 08:03:38 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 08:03:51 | SyncInvokesetFromWebPart | 111118351876
+
+14/02/2019 08:03:52 | Callback | localhost1818
+
+14/02/2019 08:03:52 | RenderReport | loadData
+
+14/02/2019 08:03:52 | RenderReport | 111118351876
+
+14/02/2019 08:03:52 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 08:03:52 | SyncInvokeGetCsPrintFromWebPart | 111118351876
+
+14/02/2019 08:03:52 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 08:03:52 | LoadData | 111118351876
+
+14/02/2019 08:03:52 | LoadData | données trouve
+
+14/02/2019 08:03:52 | LoadData | Parametre non trouvé
+
+14/02/2019 08:03:52 | data | data trouve
+
+14/02/2019 08:03:52 | CreatePDFChemin | ~/Reports/Accueil/LiaisonCompteur.rdlc | Chemin du fichier rdlc
+
+14/02/2019 08:03:52 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 08:03:52 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 08:04:05 | SyncInvokesetFromWebPart | 11111845801
+
+14/02/2019 08:04:06 | Callback | localhost1818
+
+14/02/2019 08:04:06 | RenderReport | loadData
+
+14/02/2019 08:04:06 | RenderReport | 11111845801
+
+14/02/2019 08:04:06 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 08:04:06 | SyncInvokeGetCsPrintFromWebPart | 11111845801
+
+14/02/2019 08:04:06 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 08:04:06 | LoadData | 11111845801
+
+14/02/2019 08:04:06 | LoadData | données trouve
+
+14/02/2019 08:04:06 | LoadData | Parametre non trouvé
+
+14/02/2019 08:04:06 | data | data trouve
+
+14/02/2019 08:04:06 | CreatePDFChemin | ~/Reports/Accueil/LiaisonCompteur.rdlc | Chemin du fichier rdlc
+
+14/02/2019 08:04:06 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 08:04:06 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 08:04:19 | SyncInvokesetFromWebPart | 111118419179
+
+14/02/2019 08:04:19 | Callback | localhost1818
+
+14/02/2019 08:04:19 | RenderReport | loadData
+
+14/02/2019 08:04:19 | RenderReport | 111118419179
+
+14/02/2019 08:04:19 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 08:04:19 | SyncInvokeGetCsPrintFromWebPart | 111118419179
+
+14/02/2019 08:04:19 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 08:04:19 | LoadData | 111118419179
+
+14/02/2019 08:04:19 | LoadData | données trouve
+
+14/02/2019 08:04:19 | LoadData | Parametre non trouvé
+
+14/02/2019 08:04:19 | data | data trouve
+
+14/02/2019 08:04:19 | CreatePDFChemin | ~/Reports/Accueil/LiaisonCompteur.rdlc | Chemin du fichier rdlc
+
+14/02/2019 08:04:19 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 08:04:19 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 08:04:52 | SyncInvokesetFromWebPart | 111118452565
+
+14/02/2019 08:04:52 | Callback | localhost1818
+
+14/02/2019 08:04:52 | RenderReport | loadData
+
+14/02/2019 08:04:52 | RenderReport | 111118452565
+
+14/02/2019 08:04:52 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 08:04:52 | SyncInvokeGetCsPrintFromWebPart | 111118452565
+
+14/02/2019 08:04:52 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 08:04:53 | LoadData | 111118452565
+
+14/02/2019 08:04:53 | LoadData | données trouve
+
+14/02/2019 08:04:53 | LoadData | Parametre non trouvé
+
+14/02/2019 08:04:53 | data | data trouve
+
+14/02/2019 08:04:53 | CreatePDFChemin | ~/Reports/Devis/FicheProgrammation.rdlc | Chemin du fichier rdlc
+
+14/02/2019 08:04:53 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 08:04:53 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 08:05:16 | SyncInvokesetFromWebPart | 111118516491
+
+14/02/2019 08:05:16 | Callback | localhost1818
+
+14/02/2019 08:05:16 | RenderReport | loadData
+
+14/02/2019 08:05:16 | RenderReport | 111118516491
+
+14/02/2019 08:05:16 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 08:05:16 | SyncInvokeGetCsPrintFromWebPart | 111118516491
+
+14/02/2019 08:05:16 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 08:05:16 | LoadData | 111118516491
+
+14/02/2019 08:05:16 | LoadData | données trouve
+
+14/02/2019 08:05:17 | LoadData | Parametre non trouvé
+
+14/02/2019 08:05:17 | data | data trouve
+
+14/02/2019 08:05:17 | CreatePDFChemin | ~/Reports/Devis/SortieCompteur1.rdlc | Chemin du fichier rdlc
+
+14/02/2019 08:05:17 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 08:05:17 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 08:05:53 | SyncInvokesetFromWebPart | 111118553659
+
+14/02/2019 08:05:53 | Callback | localhost1818
+
+14/02/2019 08:05:53 | RenderReport | loadData
+
+14/02/2019 08:05:53 | RenderReport | 111118553659
+
+14/02/2019 08:05:53 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 08:05:53 | SyncInvokeGetCsPrintFromWebPart | 111118553659
+
+14/02/2019 08:05:53 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 08:05:53 | LoadData | 111118553659
+
+14/02/2019 08:05:53 | LoadData | données trouve
+
+14/02/2019 08:05:53 | LoadData | Parametre non trouvé
+
+14/02/2019 08:05:53 | data | data trouve
+
+14/02/2019 08:05:53 | CreatePDFChemin | ~/Reports/Devis/SortieMateriel.rdlc | Chemin du fichier rdlc
+
+14/02/2019 08:05:54 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 08:05:54 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 09:56:39 | SyncInvokesetFromWebPart | 1111195638757
+
+14/02/2019 09:56:40 | Callback | localhost1818
+
+14/02/2019 09:56:41 | RenderReport | loadData
+
+14/02/2019 09:56:41 | RenderReport | 1111195638757
+
+14/02/2019 09:56:41 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 09:56:41 | SyncInvokeGetCsPrintFromWebPart | 1111195638757
+
+14/02/2019 09:56:41 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 09:56:41 | LoadData | 1111195638757
+
+14/02/2019 09:56:41 | LoadData | données trouve
+
+14/02/2019 09:56:41 | LoadData | Parametre non trouvé
+
+14/02/2019 09:56:41 | data | data trouve
+
+14/02/2019 09:56:41 | CreatePDFChemin | ~/Reports/Index/Index.rdlc | Chemin du fichier rdlc
+
+14/02/2019 09:56:41 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 09:56:41 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 10:06:33 | SyncInvokesetFromWebPart | 1111110633396
+
+14/02/2019 10:06:33 | Callback | localhost1818
+
+14/02/2019 10:06:33 | RenderReport | loadData
+
+14/02/2019 10:06:33 | RenderReport | 1111110633396
+
+14/02/2019 10:06:33 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 10:06:33 | SyncInvokeGetCsPrintFromWebPart | 1111110633396
+
+14/02/2019 10:06:33 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 10:06:33 | LoadData | 1111110633396
+
+14/02/2019 10:06:33 | LoadData | données trouve
+
+14/02/2019 10:06:33 | LoadData | Parametre non trouvé
+
+14/02/2019 10:06:33 | data | data trouve
+
+14/02/2019 10:06:33 | CreatePDFChemin | ~/Reports/Facturation/AnomalieFacturation.rdlc | Chemin du fichier rdlc
+
+14/02/2019 10:06:33 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 10:06:33 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 10:06:35 | RunCreationPDF | Une erreur s'est produite lors du traitement du rapport local.
+
+14/02/2019 10:06:35 | Callback | Un ou plusieurs paramètres requis pour exécuter le rapport n'ont pas été spécifiés.
+
+14/02/2019 10:28:40 | SyncInvokesetFromWebPart | 11111102839757
+
+14/02/2019 10:28:40 | Callback | localhost1818
+
+14/02/2019 10:28:40 | RenderReport | loadData
+
+14/02/2019 10:28:40 | RenderReport | 11111102839757
+
+14/02/2019 10:28:40 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 10:28:40 | SyncInvokeGetCsPrintFromWebPart | 11111102839757
+
+14/02/2019 10:28:40 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 10:28:40 | LoadData | 11111102839757
+
+14/02/2019 10:28:40 | LoadData | données trouve
+
+14/02/2019 10:28:40 | LoadData | Parametre trouvé
+
+14/02/2019 10:28:40 | data | data trouve
+
+14/02/2019 10:28:40 | CreatePDFChemin | ~/Reports/Facturation/AnomalieFacturation.rdlc | Chemin du fichier rdlc
+
+14/02/2019 10:28:41 | CreatePDFChemin | Print : System.Collections.Specialized.StringCollection  Print : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 10:28:41 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 10:28:41 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 11:48:43 | SyncInvokesetFromWebPart | 11111114843294
+
+14/02/2019 11:48:43 | Callback | localhost1818
+
+14/02/2019 11:48:43 | RenderReport | loadData
+
+14/02/2019 11:48:43 | RenderReport | 11111114843294
+
+14/02/2019 11:48:43 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 11:48:43 | SyncInvokeGetCsPrintFromWebPart | 11111114843294
+
+14/02/2019 11:48:43 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 11:48:43 | LoadData | 11111114843294
+
+14/02/2019 11:48:43 | LoadData | données trouve
+
+14/02/2019 11:48:43 | LoadData | Parametre trouvé
+
+14/02/2019 11:48:43 | data | data trouve
+
+14/02/2019 11:48:43 | CreatePDFChemin | ~/Reports/Facturation/AnomalieFacturation.rdlc | Chemin du fichier rdlc
+
+14/02/2019 11:48:44 | CreatePDFChemin | Print : System.Collections.Specialized.StringCollection  Print : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 11:48:44 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 11:48:44 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 11:49:25 | PrintingFromService | 11111114925346
+
+14/02/2019 11:49:25 | Callback | localhost1818
+
+14/02/2019 11:49:25 | RenderReport | loadData
+
+14/02/2019 11:49:25 | RenderReport | 11111114925346
+
+14/02/2019 11:49:25 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 11:49:25 | SyncInvokeGetCsPrintFromWebPart | 11111114925346
+
+14/02/2019 11:49:25 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 11:49:25 | LoadData | 11111114925346
+
+14/02/2019 11:49:25 | LoadData | données trouve
+
+14/02/2019 11:49:25 | LoadData | Parametre trouvé
+
+14/02/2019 11:49:25 | data | data trouve data count: 112
+
+14/02/2019 11:49:26 | Page_Load | RenderReport retour ok
+
+14/02/2019 11:49:26 | RunExportFile | \\INOVA-PC20\Impression|FactureSimpleO19020101A1422019114926|pdf
+
+14/02/2019 11:49:30 | Page_Load | ICI3
+
+14/02/2019 12:41:32 | SyncInvokesetFromWebPart | 11111124132387
+
+14/02/2019 12:41:34 | Callback | localhost1818
+
+14/02/2019 12:41:34 | RenderReport | loadData
+
+14/02/2019 12:41:34 | RenderReport | 11111124132387
+
+14/02/2019 12:41:34 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 12:41:34 | SyncInvokeGetCsPrintFromWebPart | 11111124132387
+
+14/02/2019 12:41:34 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 12:41:35 | LoadData | 11111124132387
+
+14/02/2019 12:41:35 | LoadData | données trouve
+
+14/02/2019 12:41:35 | LoadData | Parametre non trouvé
+
+14/02/2019 12:41:35 | data | data trouve
+
+14/02/2019 12:41:35 | CreatePDFChemin | ~/Reports/Recouvrement/AvisDeCoupureDetail.rdlc | Chemin du fichier rdlc
+
+14/02/2019 12:41:35 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 12:41:35 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 12:41:48 | SyncInvokesetFromWebPart | 111111241484
+
+14/02/2019 12:41:48 | Callback | localhost1818
+
+14/02/2019 12:41:48 | RenderReport | loadData
+
+14/02/2019 12:41:48 | RenderReport | 111111241484
+
+14/02/2019 12:41:48 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 12:41:48 | SyncInvokeGetCsPrintFromWebPart | 111111241484
+
+14/02/2019 12:41:48 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+14/02/2019 12:41:48 | LoadData | 111111241484
+
+14/02/2019 12:41:48 | LoadData | données trouve
+
+14/02/2019 12:41:48 | LoadData | Parametre trouvé
+
+14/02/2019 12:41:48 | data | data trouve
+
+14/02/2019 12:41:48 | CreatePDFChemin | ~/Reports/Recouvrement/AvisDeCoupureListe.rdlc | Chemin du fichier rdlc
+
+14/02/2019 12:41:49 | CreatePDFChemin | pfirstzone : System.Collections.Specialized.StringCollection  pnamecontroller : System.Collections.Specialized.StringCollection | Set Parameters
+
+14/02/2019 12:41:49 | CreatePDFChemin | Add DataSources ok
+
+14/02/2019 12:41:49 | RunCreationPDF | \\INOVA-PC20\Impression
+
+14/02/2019 12:47:03 | SyncInvokesetFromWebPart | 1111112472985
+
+14/02/2019 12:47:03 | Callback | localhost1818
+
+14/02/2019 12:47:03 | Callback | localhost1818
+
+14/02/2019 12:47:03 | RenderReport | loadData
+
+14/02/2019 12:47:03 | RenderReport | loadData
+
+14/02/2019 12:47:03 | RenderReport | 1111112472985
+
+14/02/2019 12:47:03 | RenderReport | 1111112472798
+
+14/02/2019 12:47:03 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 12:47:03 | SyncInvokeGetCsPrintFromWebPart | 1111112472985
+
+14/02/2019 12:47:03 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+14/02/2019 12:47:03 | SyncInvokeGetCsPrintFromWebPart | Lecture Non OK
+
+14/02/2019 12:47:03 | SyncInvokeGetCsPrintFromWebPart | 1111112472798
+
+14/02/2019 12:47:03 | LoadData | Aucune valeur
+
+art | Lecture Non OK
+
+14/02/2019 12:47:03 | LoadData | Aucune valeur
+
+14/02/2019 12:47:03 | LoadData | La valeur ne peut pas être null.
+Nom du paramètre : collection
+
+14/02/2019 12:47:03 | LoadData | La valeur ne peut pas être null.
+Nom du paramètre : collection
+
+14/02/2019 12:47:03 | RenderReport | La valeur ne peut pas être null.
+Nom du paramètre : collection
+
+14/02/2019 12:47:03 | CreatePDFChemin | La valeur ne peut pas être null.
+Nom du paramètre : collection
+
+14/02/2019 12:47:03 | CreatePDFChemin | La valeur ne peut pas être null.
+Nom du paramètre : collection
+

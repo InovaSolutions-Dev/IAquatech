@@ -1,0 +1,160 @@
+31/07/2019 17:00:10 | SyncInvokesetFromWebPart | 1111117010189
+
+31/07/2019 17:00:12 | Callback | localhost1818
+
+31/07/2019 17:00:12 | RenderReport | loadData
+
+31/07/2019 17:00:12 | RenderReport | 1111117010189
+
+31/07/2019 17:00:12 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+31/07/2019 17:00:12 | SyncInvokeGetCsPrintFromWebPart | 1111117010189
+
+31/07/2019 17:00:12 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+31/07/2019 17:00:12 | LoadData | 1111117010189
+
+31/07/2019 17:00:12 | LoadData | données trouve
+
+31/07/2019 17:00:12 | LoadData | Parametre non trouvé
+
+31/07/2019 17:00:12 | data | data trouve data count: 2
+
+31/07/2019 17:00:12 | Page_Load | RenderReport retour ok
+
+31/07/2019 17:00:12 | RunExportFile | \\LAP-IV-IWEBS01\Impression|Impayes317201917012|xlsx
+
+31/07/2019 17:00:13 | RunExportFile | ICIFINALLa définition du rapport « F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Web\Reports\Impayes\Impayes.rdlc » n'est pas spécifiée.
+
+31/07/2019 17:00:13 | ExportChemin | exception : La définition du rapport « F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Web\Reports\Impayes\Impayes.rdlc » n'est pas spécifiée.
+
+31/07/2019 17:00:21 | Callback | La définition du rapport « F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Web\Reports\Impayes\Impayes.rdlc » n'est pas spécifiée.
+
+31/07/2019 17:00:47 | SyncInvokesetFromWebPart | 1111117047252
+
+31/07/2019 17:01:02 | Callback | localhost1818
+
+31/07/2019 17:03:13 | RenderReport | loadData
+
+31/07/2019 17:03:13 | RenderReport | 1111117047252
+
+31/07/2019 17:03:13 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+31/07/2019 17:03:13 | SyncInvokeGetCsPrintFromWebPart | 1111117047252
+
+31/07/2019 17:03:13 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+31/07/2019 17:03:13 | LoadData | 1111117047252
+
+31/07/2019 17:03:13 | LoadData | données trouve
+
+31/07/2019 17:03:13 | LoadData | Parametre non trouvé
+
+31/07/2019 17:03:13 | data | data trouve data count: 2
+
+31/07/2019 17:03:13 | Page_Load | RenderReport retour ok
+
+31/07/2019 17:03:13 | RunExportFile | \\LAP-IV-IWEBS01\Impression|Impayes317201917313|xlsx
+
+31/07/2019 17:03:13 | RunExportFile | ICIFINALLa définition du rapport « F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Web\Reports\Impayes\Impayes.rdlc » n'est pas spécifiée.
+
+31/07/2019 17:03:13 | ExportChemin | exception : La définition du rapport « F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Web\Reports\Impayes\Impayes.rdlc » n'est pas spécifiée.
+
+31/07/2019 17:03:14 | Callback | La définition du rapport « F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Web\Reports\Impayes\Impayes.rdlc » n'est pas spécifiée.
+
+31/07/2019 17:03:45 | SyncInvokesetFromWebPart | 1111117344873
+
+31/07/2019 17:03:52 | Callback | localhost1818
+
+31/07/2019 17:04:23 | RenderReport | loadData
+
+31/07/2019 17:04:23 | RenderReport | 1111117344873
+
+31/07/2019 17:04:23 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+31/07/2019 17:04:23 | SyncInvokeGetCsPrintFromWebPart | 1111117344873
+
+31/07/2019 17:04:23 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+31/07/2019 17:04:23 | LoadData | 1111117344873
+
+31/07/2019 17:04:23 | LoadData | données trouve
+
+31/07/2019 17:04:23 | LoadData | Parametre non trouvé
+
+31/07/2019 17:04:23 | data | data trouve
+
+31/07/2019 17:04:23 | CreatePDFChemin | ~/Reports/Index/Index.rdlc | Chemin du fichier rdlc
+
+31/07/2019 17:04:23 | CreatePDFChemin | Add DataSources ok
+
+31/07/2019 17:04:23 | RunCreationPDF | \\LAP-IV-IWEBS01\Impression
+
+31/07/2019 17:14:23 | SyncInvokesetFromWebPart | 11111171423664
+
+31/07/2019 17:14:28 | Callback | localhost1818
+
+31/07/2019 17:14:53 | RenderReport | loadData
+
+31/07/2019 17:14:53 | RenderReport | 11111171423664
+
+31/07/2019 17:14:53 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+31/07/2019 17:14:53 | SyncInvokeGetCsPrintFromWebPart | 11111171423664
+
+31/07/2019 17:14:53 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+31/07/2019 17:14:53 | LoadData | 11111171423664
+
+31/07/2019 17:14:53 | LoadData | données trouve
+
+31/07/2019 17:14:53 | LoadData | Parametre non trouvé
+
+31/07/2019 17:14:54 | data | data trouve data count: 2
+
+31/07/2019 17:14:56 | Page_Load | RenderReport retour ok
+
+31/07/2019 17:14:57 | RunExportFile | \\LAP-IV-IWEBS01\Impression|Impayes3172019171457|xlsx
+
+31/07/2019 17:14:59 | RunExportFile | Générer byte
+
+31/07/2019 17:14:59 | RunExportFile | Initialiser le filsStream
+
+31/07/2019 17:14:59 | RunExportFile | Création du fichier
+
+31/07/2019 17:15:01 | Page_Load | ICI3
+
+31/07/2019 18:22:31 | SyncInvokesetFromWebPart | 00008182231336
+
+31/07/2019 18:23:00 | Callback | localhost1818
+
+31/07/2019 18:23:04 | RenderReport | loadData
+
+31/07/2019 18:23:04 | RenderReport | 00008182231336
+
+31/07/2019 18:23:04 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+31/07/2019 18:23:04 | SyncInvokeGetCsPrintFromWebPart | 00008182231336
+
+31/07/2019 18:23:04 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+31/07/2019 18:23:04 | LoadData | 00008182231336
+
+31/07/2019 18:23:04 | LoadData | données trouve
+
+31/07/2019 18:23:04 | LoadData | Parametre non trouvé
+
+31/07/2019 18:23:04 | data | data trouve data count: 2
+
+31/07/2019 18:23:04 | Page_Load | RenderReport retour ok
+
+31/07/2019 18:23:04 | RunExportFile | \\LAP-IV-IWEBS01\Impression|Impayes317201918234|xlsx
+
+31/07/2019 18:23:05 | RunExportFile | Générer byte
+
+31/07/2019 18:23:06 | RunExportFile | Initialiser le filsStream
+
+31/07/2019 18:23:06 | RunExportFile | Création du fichier
+
+31/07/2019 18:23:06 | Page_Load | ICI3
+

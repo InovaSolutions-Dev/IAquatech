@@ -1,0 +1,8 @@
+10/12/2017 17:29:36 | SyncInvokeRetourneCodeRegroupement | Échec du fournisseur sous-jacent sur Open.
+
+10/12/2017 17:30:31 | SyncInvokeRetourneOptionDemande | Échec du fournisseur sous-jacent sur Open.
+
+10/12/2017 17:51:20 | SyncInvokeGetDevisByNumDemande | Debut =>17:51:20
+
+10/12/2017 17:51:39 | SyncInvokeGetDevisByNumDemande | Fin =>17:51:39
+

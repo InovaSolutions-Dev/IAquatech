@@ -1,0 +1,54 @@
+09/03/2018 08:20:48 | SyncInvokeValiderDemande | Debut Validation
+
+09/03/2018 08:27:43 | SyncInvokeGetDevisByNumDemande | Debut =>08:27:43
+
+09/03/2018 08:27:45 | SyncInvokeGetDevisByNumDemande | Fin =>08:27:45
+
+09/03/2018 08:54:23 | SyncInvokeValiderDemande | Debut Validation
+
+09/03/2018 13:53:03 | SyncInvokeGetDevisByNumDemande | Debut =>13:53:03
+
+09/03/2018 13:53:19 | SyncInvokeGetDevisByNumDemande | Fin =>13:53:19
+
+09/03/2018 13:53:51 | SyncInvokeGetDevisByNumDemande | Debut =>13:53:51
+
+09/03/2018 13:53:52 | SyncInvokeGetDevisByNumDemande | Fin =>13:53:52
+
+09/03/2018 13:54:20 | SyncInvokeGetDevisByNumDemande | Debut =>13:54:20
+
+09/03/2018 13:54:22 | SyncInvokeGetDevisByNumDemande | Fin =>13:54:22
+
+09/03/2018 13:54:38 | SyncInvokeGetDevisByNumDemande | Debut =>13:54:38
+
+09/03/2018 13:54:40 | SyncInvokeGetDevisByNumDemande | Fin =>13:54:40
+
+09/03/2018 14:13:57 | SyncInvokeGetDevisByNumDemande | Debut =>14:13:57
+
+09/03/2018 14:13:59 | SyncInvokeGetDevisByNumDemande | Fin =>14:13:59
+
+09/03/2018 14:56:44 | SyncInvokeValiderDemande | Debut Validation
+
+09/03/2018 14:59:43 | SyncInvokeValiderDemande | Debut Validation
+
+09/03/2018 15:01:22 | SyncInvokeValiderDemande | Une instruction de mise à jour, d'insertion ou de suppression dans le magasin a affecté un nombre inattendu de lignes (0). Des entités ont peut-être été modifiées ou supprimées depuis leur chargement. Actualisez les entrées ObjectStateManager.
+
+09/03/2018 15:11:28 | SyncInvokeValiderDemande | Debut Validation
+
+09/03/2018 15:13:36 | SyncInvokeValiderDemande | Une instruction de mise à jour, d'insertion ou de suppression dans le magasin a affecté un nombre inattendu de lignes (0). Des entités ont peut-être été modifiées ou supprimées depuis leur chargement. Actualisez les entrées ObjectStateManager.
+
+09/03/2018 15:19:44 | SyncInvokeGetDevisByNumDemande | Debut =>15:19:44
+
+09/03/2018 15:19:46 | SyncInvokeGetDevisByNumDemande | Fin =>15:19:46
+
+09/03/2018 15:26:01 | SyncInvokeValiderDemande | Debut Validation
+
+09/03/2018 15:28:56 | SyncInvokeValiderDemande | Debut Validation
+
+09/03/2018 15:29:24 | SyncInvokeValiderDemande | Une instruction de mise à jour, d'insertion ou de suppression dans le magasin a affecté un nombre inattendu de lignes (0). Des entités ont peut-être été modifiées ou supprimées depuis leur chargement. Actualisez les entrées ObjectStateManager.
+
+09/03/2018 15:45:02 | SyncInvokeValiderDemande | Debut Validation
+
+09/03/2018 16:21:51 | SyncInvokeGetDevisByNumDemande | Debut =>16:21:51
+
+09/03/2018 16:21:53 | SyncInvokeGetDevisByNumDemande | Fin =>16:21:53
+

@@ -1,0 +1,73 @@
+10/04/2017 13:42:46 | SyncInvokeListeDesDonneesDesSite | Enregistrement annulé :
+Échec de l'ouverture de session de l'utilisateur 'sa'.
+
+10/04/2017 13:49:13 | SyncInvokeGetDevisByNumDemande | Debut =>13:49:13
+
+10/04/2017 13:49:24 | SyncInvokeGetDevisByNumDemande | Fin =>13:49:24
+
+10/04/2017 14:13:41 | SyncInvokeGetDevisByNumDemande | Debut =>14:13:41
+
+10/04/2017 14:13:56 | SyncInvokeGetDevisByNumDemande | Fin =>14:13:56
+
+10/04/2017 14:59:40 | SyncInvokeDeLiaisonCompteur | La référence d'objet n'est pas définie à une instance d'un objet.
+
+10/04/2017 15:08:29 | SyncInvokeGetDevisByNumDemande | Debut =>15:08:29
+
+10/04/2017 15:08:41 | SyncInvokeGetDevisByNumDemande | Fin =>15:08:41
+
+10/04/2017 15:09:11 | SyncInvokeGetDevisByNumDemande | Debut =>15:09:11
+
+10/04/2017 15:09:20 | SyncInvokeGetDevisByNumDemande | Fin =>15:09:20
+
+10/04/2017 15:09:40 | SyncInvokeGetDevisByNumDemande | Debut =>15:09:40
+
+10/04/2017 15:09:51 | SyncInvokeGetDevisByNumDemande | Fin =>15:09:51
+
+10/04/2017 15:13:37 | SyncInvokeGetDevisByNumDemande | Debut =>15:13:37
+
+10/04/2017 15:13:56 | SyncInvokeGetDevisByNumDemande | Fin =>15:13:56
+
+10/04/2017 15:23:46 | SyncInvokeGetDevisByNumDemande | Debut =>15:23:46
+
+10/04/2017 15:24:06 | SyncInvokeGetDevisByNumDemande | Fin =>15:24:06
+
+10/04/2017 15:24:40 | SyncInvokeGetDevisByNumDemande | Debut =>15:24:40
+
+10/04/2017 15:24:49 | SyncInvokeGetDevisByNumDemande | Fin =>15:24:49
+
+10/04/2017 15:25:14 | SyncInvokeGetDevisByNumDemande | Debut =>15:25:14
+
+10/04/2017 15:25:28 | SyncInvokeGetDevisByNumDemande | Fin =>15:25:28
+
+10/04/2017 15:25:56 | SyncInvokeGetDevisByNumDemande | Debut =>15:25:56
+
+10/04/2017 15:26:08 | SyncInvokeGetDevisByNumDemande | Fin =>15:26:08
+
+10/04/2017 15:26:29 | SyncInvokeGetDevisByNumDemande | Debut =>15:26:29
+
+10/04/2017 15:26:40 | SyncInvokeGetDevisByNumDemande | Fin =>15:26:40
+
+10/04/2017 15:26:54 | SyncInvokeGetDevisByNumDemande | Debut =>15:26:54
+
+10/04/2017 15:27:26 | SyncInvokeGetDevisByNumDemande | Fin =>15:27:26
+
+10/04/2017 15:52:03 | SyncInvokeGetDevisByNumDemande | Debut =>15:52:03
+
+10/04/2017 15:52:15 | SyncInvokeGetDevisByNumDemande | Fin =>15:52:15
+
+10/04/2017 15:52:39 | SyncInvokeGetDevisByNumDemande | Debut =>15:52:39
+
+10/04/2017 15:52:51 | SyncInvokeGetDevisByNumDemande | Fin =>15:52:51
+
+10/04/2017 15:53:36 | SyncInvokeGetDevisByNumDemande | Debut =>15:53:36
+
+10/04/2017 15:53:50 | SyncInvokeGetDevisByNumDemande | Fin =>15:53:50
+
+10/04/2017 16:15:43 | SyncInvokeGetDevisByNumDemande | Debut =>16:15:43
+
+10/04/2017 16:16:00 | LogException | Le chemin réseau n’a pas été trouvé
+
+10/04/2017 16:16:00 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+10/04/2017 16:16:00 | GetDevisByNumDemande | Échec du fournisseur sous-jacent sur Open.
+

@@ -1,0 +1,142 @@
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\Galatee.Silverlight.Library.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\Galatee.Silverlight.Library.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\System.Xml.Linq.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\System.Xml.Serialization.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\UpdateControls.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\System.Xml.Linq.xml
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\System.Xml.Serialization.xml
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\de\System.Xml.Linq.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\es\System.Xml.Linq.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\fr\System.Xml.Linq.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\it\System.Xml.Linq.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\ja\System.Xml.Linq.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\ko\System.Xml.Linq.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\ru\System.Xml.Linq.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\de\System.Xml.Serialization.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\es\System.Xml.Serialization.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\it\System.Xml.Serialization.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.g.resources
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.dll
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.pdb
+D:\PROJET IWEBS\IWEB\Galatee\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\Galatee.Silverlight.Library.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\Galatee.Silverlight.Library.pdb
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\System.Xml.Linq.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\UpdateControls.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\System.Xml.Linq.xml
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\System.Xml.Serialization.xml
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\ru\System.Xml.Linq.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.csprojResolveAssemblyReference.cache
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.g.resources
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.dll
+C:\Users\EDMSA\Documents\Galatee\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.pdb
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\Galatee.Silverlight.Library.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\Galatee.Silverlight.Library.pdb
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\System.Xml.Linq.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\System.Xml.Serialization.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\UpdateControls.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\System.Xml.Linq.xml
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\System.Xml.Serialization.xml
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\ru\System.Xml.Linq.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.g.resources
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.dll
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.pdb
+C:\SOURCES NOUVELLES\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.csprojResolveAssemblyReference.cache
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\Galatee.Silverlight.Library.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\Galatee.Silverlight.Library.pdb
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\System.Xml.Linq.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\System.Xml.Serialization.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\UpdateControls.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\System.Xml.Linq.xml
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\System.Xml.Serialization.xml
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\de\System.Xml.Linq.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\es\System.Xml.Linq.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\fr\System.Xml.Linq.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\it\System.Xml.Linq.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\ja\System.Xml.Linq.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\ko\System.Xml.Linq.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\ru\System.Xml.Linq.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\de\System.Xml.Serialization.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\es\System.Xml.Serialization.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\it\System.Xml.Serialization.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.csprojResolveAssemblyReference.cache
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.g.resources
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.dll
+E:\SOURCES\EDMSA - AQUATECH\Galatee_save\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\Galatee.Silverlight.Library.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\Galatee.Silverlight.Library.pdb
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\System.Xml.Linq.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\System.Xml.Serialization.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\UpdateControls.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\de\System.Xml.Linq.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\es\System.Xml.Linq.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\fr\System.Xml.Linq.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\it\System.Xml.Linq.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\ja\System.Xml.Linq.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\ko\System.Xml.Linq.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\ru\System.Xml.Linq.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\de\System.Xml.Serialization.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\es\System.Xml.Serialization.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\it\System.Xml.Serialization.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.g.resources
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.dll
+F:\SOURCES\AQUATECH\Galatee_save\Galatee.Silverlight.Library\obj\Debug\Galatee.Silverlight.Library.pdb

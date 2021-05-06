@@ -1,0 +1,8 @@
+10/08/2020 17:18:36 | SyncInvokereturnEnumereWrapper | Debut traitement
+
+10/08/2020 17:18:57 | LogException | Le système distant a refusé la connexion réseau
+
+10/08/2020 17:18:57 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: TCP Provider, error: 0 - Le système distant a refusé la connexion réseau.)
+
+10/08/2020 17:18:57 | returnEnumereWrapper | Échec du fournisseur sous-jacent sur Open.
+
